@@ -1,0 +1,44 @@
+{
+ "baseline": "Qwen2.5-72B (scored2)",
+ "models": {
+  "ds": {
+   "model": "deepseek-ai/DeepSeek-V3",
+   "n_covered": 15407,
+   "assert_agreement_vs_qwen": 0.8649,
+   "s_pearson_vs_qwen": 0.5738,
+   "level_refuted": 0.7,
+   "level_robust": 0.6997,
+   "null_gap_refuted_minus_robust": 0.0003,
+   "n_claims": {
+    "robust": 39,
+    "refuted": 63
+   }
+  },
+  "dsv4": {
+   "model": "deepseek-ai/DeepSeek-V4-Flash",
+   "n_covered": 15239,
+   "assert_agreement_vs_qwen": 0.8504,
+   "s_pearson_vs_qwen": 0.4406,
+   "level_refuted": 0.6929,
+   "level_robust": 0.6947,
+   "null_gap_refuted_minus_robust": -0.0019,
+   "n_claims": {
+    "robust": 38,
+    "refuted": 61
+   }
+  },
+  "longcat": {
+   "model": "LongCat-2.0",
+   "n_covered": 15407,
+   "assert_agreement_vs_qwen": 0.8811,
+   "s_pearson_vs_qwen": 0.4729,
+   "level_refuted": 0.6007,
+   "level_robust": 0.5964,
+   "null_gap_refuted_minus_robust": 0.0042,
+   "n_claims": {
+    "robust": 38,
+    "refuted": 62
+   }
+  }
+ }
+}

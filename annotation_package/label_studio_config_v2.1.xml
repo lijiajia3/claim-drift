@@ -1,0 +1,34 @@
+<!-- Label Studio 标注配置 v2.1（两列方案，对齐 KEY 的 model_assert / model_s）
+     关键防呆：两问都 required、无任何默认预选项 → 不主动选就无法提交，杀死"划默认值"。
+     确定性档位的 value 直接是 0/0.25/0.5/0.75/1，导出即入流水线，无需再映射。
+     注意：项目里绝不能载入 model_s（保持盲标）；KEY 只留在 PI 手里。 -->
+<View>
+  <Style>.lsf-main-content .lsf-richtext{font-size:17px;line-height:1.6}</Style>
+
+  <Header value="请先读完整句，再判断。凭句子本身：不查原文、不用 AI、不跳题。"/>
+  <Text name="sentence" value="$sentence"/>
+
+  <Header value="问题1 · 这句是否在转述它所引研究的『结论』？"/>
+  <Choices name="assert" toName="sentence" choice="single-radio"
+           required="true" requiredMessage="问题1 必选：这句在不在转述结论？">
+    <Choice value="1" hint="在转述发现：X 影响 Y / 发现了什么（委婉、否定式也算）"/>
+    <Choice value="0" hint="只当方法·范式·量表·数据集·背景提及，未复述结论"/>
+  </Choices>
+
+  <!-- 只有问题1=1 时才出现；问题1=0 时确定性自动留空，符合手册规则 -->
+  <Header value="问题2 · 这句把结论说得多确定？判『语气』，不判对错、不判你信不信。"
+          visibleWhen="choice-selected" whenTagName="assert" whenChoiceValue="1"/>
+  <Choices name="certainty" toName="sentence" choice="single-radio" required="true"
+           requiredMessage="问题1 选了『在转述』，问题2 必选一个确定性档位"
+           visibleWhen="choice-selected" whenTagName="assert" whenChoiceValue="1">
+    <Choice value="0"    hint="完全试探/强条件：may, might, could, possibly, under certain conditions"/>
+    <Choice value="0.25" hint="谨慎暗示：suggests, appears to, seems to, tend to, preliminary"/>
+    <Choice value="0.5"  hint="中性报告：found that, reported that, has been shown to, observed"/>
+    <Choice value="0.75" hint="肯定：shows that, demonstrates, evidence indicates, consistently"/>
+    <Choice value="1"    hint="断定/因果/公理：causes, proves, well established, 无限定的一般现在时断言"/>
+  </Choices>
+
+  <Header value="拿不准或残句？(可空)"/>
+  <TextArea name="note" toName="sentence" rows="1" maxSubmissions="1"
+            placeholder="写 ? 加一句原因；残句写 ?残句"/>
+</View>

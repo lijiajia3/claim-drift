@@ -1,0 +1,2002 @@
+[
+ {
+  "year": 2026,
+  "ctx": "Embodied analogue: a chain of multiple [Johnson et al., 1993] Source / context 70 78.6 71.4 0.53 Context-dep. retrieval [Godden and Baddeley, 1975] [Murdock, 1962] Temporal / interference 54 69.4 66.7 0.46 Retention curve (foils) [Ebbinghaus, 1885] Temporal / interference 480 89.1 87.1 0.68 Overall…"
+ },
+ {
+  "year": 2026,
+  "ctx": "…and McDermott, 1995], pattern separation [Yassa and Stark, 2011] and completion, source monitoring [Johnson et al., 1993], context-dependent retrieval [Godden and Baddeley, 1975], long-horizon interference, serial position [Murdock, 1962], and a foil-augmented retention curve [Ebbinghaus, 1885]."
+ },
+ {
+  "year": 2026,
+  "ctx": "The control intervention provided information about the cognitive science of learning and encouraged the teachers to reflect on how they could use such scientific findings in the classroom (main sources: Ginns, 2005; Mayer, 2002; Mayer & Moreno, 1998; Murdock, 1962)."
+ },
+ {
+  "year": 2026,
+  "ctx": "Early inputs receive greater attention, making them more likely to be encoded into long-term memory (Feigenbaum and Simon, 1962; Murdock Jr, 1962)."
+ },
+ {
+  "year": 2026,
+  "ctx": "The Recency frame emphasizes the most recent developments and is grounded in well-established findings from memory research (Feigenbaum and Simon, 1962; Murdock Jr, 1962)."
+ },
+ {
+  "year": 2026,
+  "ctx": "43 [1.21, 1.65], indicating recency dominance and consistent with temporal-context accounts (Howard & Natu, 2005; Murdock, 1962)."
+ },
+ {
+  "year": 2026,
+  "ctx": "Memory is also subject to serial position effects : items at the start and end of a list are recalled better than items in the middle (Murdock, 1962)."
+ },
+ {
+  "year": 2026,
+  "ctx": "The attention to the first and last opponent’s actions mirrors recency bias observed in humans [19, 20] and positional biases of LLMs observed in prior studies [48, 49, 50]."
+ },
+ {
+  "year": 2026,
+  "ctx": "…formation is brittle: its accuracy declines monotonically as the number of required reasoning steps increases, and the internal representations of interaction history exhibit a bias that prioritizes the first and most recent observations, mirroring primacy and recency biases in humans [19, 20]."
+ },
+ {
+  "year": 2026,
+  "ctx": "Murdock’s serial position effect 8 , Cepeda et al.’s 9 distributed practice findings, Brown and McNeill’s 10 tip-of-tongue phenomenology, and Nadel and Moscovitch’s 11 consolidation theory all describe the same geometric substrate from different vantage points."
+ },
+ {
+  "year": 2026,
+  "ctx": "Retrieval precision declined with increasing memory load, consistent with the fan effect in human memory 12 , foreshadowing the role of interference examined below."
+ },
+ {
+  "year": 2026,
+  "ctx": "In particular, belief reasoning is systematically influenced by recency bias, whereby recent information disproportionately affects judgments (Murdock Jr, 1962), as well as by interference effects, in which updated representations compete with and disrupt access to earlier belief states (Birch &…"
+ },
+ {
+  "year": 2026,
+  "ctx": "…Mamba models choose to retain information about the first and last tokens in the sequence, a phenomenon observed in humans and commonly referred to as the serial position effect (Murdock Jr, 1962), where items at the beginning and at the end of a list are recalled better than those in the middle."
+ },
+ {
+  "year": 2026,
+  "ctx": "In serial recall, humans typically show both primacy and recency effects, with recency dominating immediate recall (Murdock, 1962)—a pattern our LLM results will contrast with."
+ },
+ {
+  "year": 2026,
+  "ctx": "Where human serial position curves show recency dominance in immediate recall (Murdock, 1962), LLMs exhibit primacy dominance—inverting the canonical pattern."
+ },
+ {
+  "year": 2026,
+  "ctx": "These include the serial position effect—a tendency to remember the first and last items in a list better than those in the middle 30 —and the limited capacity of working memory, which can hold only about four chunks of information at a time 31,32 ."
+ },
+ {
+  "year": 2026,
+  "ctx": "…et al., 2009; Postman & Adams, 1956), modality of presentation (Murdock & Walker, 1969; Pazdera & Kahana, 2023), presentation rate and list length (Murdock, 1962; Ward et al., 2010), intra-list repetition (Madigan, 1969; Melton, 1970; Siegel & Kahana, 2014), intra-list semantic similarity (Romney…"
+ },
+ {
+  "year": 2026,
+  "ctx": "The strong bias toward the ﬁ rst ordinal position highlights an increased importance of the initial parts of an ordered sequence, much like the enhanced recall of the ﬁ rst items in a list (Murdock, 1962)."
+ },
+ {
+  "year": 2026,
+  "ctx": "To ensure this null effect was not due to a lack of measurement sensitivity, we examined the recency effect; recall performance for the second item was predicted to be better than for the first stimulus in each condition ( Broadbent and Broadbent, 1981 ; Murdock, 1962 )."
+ },
+ {
+  "year": 2026,
+  "ctx": "Free recall shows consistent serial position effects: better memory for items near the beginning and end than those in the middle (Murdock, 1962)."
+ },
+ {
+  "year": 2025,
+  "ctx": "Secondly, we observe the primacy effect , a cognitive phenomenon in which information introduced early in a conversation shapes the dialogue [63]."
+ },
+ {
+  "year": 2025,
+  "ctx": "In other words, keywords introduced earlier tend to retain higher weights throughout the dialogue, reflecting a pronounced primacy effect [63] in LLM-driven conversations."
+ },
+ {
+  "year": 2025,
+  "ctx": "Recency / Primacy Bias [30], [31] Agent over-weighs recent or first observations."
+ },
+ {
+  "year": 2025,
+  "ctx": "This paradigm consistently reveal robust behavioral regularities, including serial order effects—items tend to be recalled in the order of presentation—as well as recency and, under some conditions, primacy effects (Kahana, 2020; Murdock Jr, 1962; Postman and Phillips, 1965)."
+ },
+ {
+  "year": 2025,
+  "ctx": "Additionally, primacy and recency effects suggest that information presented first or last is more influential than information in the middle [34,35], which has implications for how ocean messages are structured in educational and media contexts."
+ },
+ {
+  "year": 2025,
+  "ctx": "Their behavior mimicked the classic human primacy effect, characterized by a strong tendency to initiate recall from the beginning of the list [Murdock and Bennet, 1962, Figure 3B], and a tendency to recall items in consecutive order [Kahana, 1996, Figure 3C]."
+ },
+ {
+  "year": 2025,
+  "ctx": "Our serial position curves and the probability of first recall patterns closely mirror human data [Murdock and Bennet, 1962], pointing to future avenues in uncovering the connections between artificial and biological systems."
+ },
+ {
+  "year": 2025,
+  "ctx": "…is strikingly similar to serial position effects found in human memory literature (Figure 1), where people preferentially recall items from the beginning (primacy) and end (recency) of a study list with higher accuracy, producing a characteristic U-shaped curve [Murdock and Bennet, 1962]."
+ },
+ {
+  "year": 2025,
+  "ctx": "In contrast, models trained on the running span task demonstrated recency effects (Figure 3DE), specifically, higher recall probabilities for items relatively closer to the end of the list [Murdock and Bennet, 1962], indicating a short-term information retrieval demand."
+ },
+ {
+  "year": 2025,
+  "ctx": "To evaluate the model behavior elicitepd by each task, we apply analytical tools from cognitive psychology traditionally used to study human memory: serial position curves, probability of first recall, and conditional response probability [Murdock and Bennet, 1962, Kahana, 1996]."
+ },
+ {
+  "year": 2025,
+  "ctx": "This literature primarily distinguishes between the short-term memory demand, when a task requires recalling recent events [Bunting et al., 2006], and the long-term memory demand, when a task requires recalling events further in the past [Murdock and Bennet, 1962, Roberts, 1972]."
+ },
+ {
+  "year": 2025,
+  "ctx": "…load during episodic retrieval inﬂu-ences primacy and recency (a recall advantage for early and late list items, respectively: e.g., Greene, 1986; Murdock, 1962) in both recall accuracy and ﬁrst recall probabilities (the likelihood of the ﬁrst item recalled conditionalized on serial position:…"
+ },
+ {
+  "year": 2025,
+  "ctx": "Speciﬁcally, we observed no effect of WM load on primacy/recency effects during recall (Greene, 1986; Murdock, 1962) and recall initiation (Howard & Kahana, 1999), lag-recency (Kahana, 1996), suggesting that WM load did not systematically inﬂu-ence the relative accessibility of individual list…"
+ },
+ {
+  "year": 2025,
+  "ctx": "…WM load during episodic retrieval inﬂu-ences primacy and recency (a recall advantage for early and late list items, respectively: e.g., Greene, 1986; Murdock, 1962) in both recall accuracy and ﬁrst recall probabilities (the likelihood of the ﬁrst item recalled conditionalized on serial position:…"
+ },
+ {
+  "year": 2025,
+  "ctx": "Moreover, the recency effect (Murdock, 1962; Deese & Kaufman, 1957) was examined in the two sequential conditions for high WM load."
+ },
+ {
+  "year": 2025,
+  "ctx": "…this phenomenon, Liu et al. [109] paralleled known psychological effects in humans, specifically the tendency to only recall the first and last items in a list [56, 123], which may be implicitly embedded in the structure of human-authored text and thus inherited by the model during training."
+ },
+ {
+  "year": 2025,
+  "ctx": "…in this paradigm consistently reveals highly structured patterns, including serial position effects of enhanced memory for the first and last items (Murdock Jr, 1962), and the temporal contiguity effect, describing people’s tendency to recall memories in nearby list positions to the just recalled…"
+ },
+ {
+  "year": 2025,
+  "ctx": "Each participant assessed the same list of 64 nouns and eight filler words (four at the beginning and four at the end of the list), controlling the serial position effect (Murdock, 1962)."
+ },
+ {
+  "year": 2025,
+  "ctx": "For example, less study time results in worse recall (Hogan & Kintsch, 1971; Murdock, 1962; Roberts, 1972), and this effect of study time on recall has been replicated consistently through the years (see Unsworth, 2016)."
+ },
+ {
+  "year": 2025,
+  "ctx": "The serial position effect [28] in psychology suggests that humans tend to better recall content presented at the beginning and end of a sequence."
+ },
+ {
+  "year": 2025,
+  "ctx": "Primacy and recency effects are advantages for the first and last few items within a list, respectively, relative to the middle of the list (Greene, 1986; Murdock, 1962)."
+ },
+ {
+  "year": 2025,
+  "ctx": "For instance, increasing the length of the list (Murdock, 1962) or reducing intra-list rehearsals often reduces primacy effects (Tan & Ward, 2000), whereas increasing the delay between the list and recall via a distractor task reduces recency effects (Bjork, 1975; Knoedler et al., 1999)."
+ },
+ {
+  "year": 2025,
+  "ctx": "This aligns with findings in cognitive and psychological sciences that human cognition tends to better retain more recent events [40], [19]."
+ },
+ {
+  "year": 2025,
+  "ctx": "(1) They can generate consistent and objective outputs, free from recency bias or fatigue (Murdock, 1962)."
+ },
+ {
+  "year": 2025,
+  "ctx": "Notably, a U-shaped accuracy profile emerges, suggestive of primacy and recency effects documented in human cognition (Murdock, 1962; Atkinson & Shiffrin, 1968; Baddeley & Hitch, 1974), where items at the beginning and end of a sequence tend to be processed more accurately than those in the middle."
+ },
+ {
+  "year": 2025,
+  "ctx": "…for many paradigms, including verbal fluency (Benton, 1968; Newcombe, 1969; Shao et al., 2014), auditory or picture naming (Spreen et al., 1966; Youssofzadeh et al., 2020), free recall (Murdock Jr, 1962; Ziman et al., 2018), and the Stroop task (Brunetti et al., 2021; Stroop, 1935), among others."
+ },
+ {
+  "year": 2025,
+  "ctx": "These observations across Table 13 and Table 14 are strikingly similar to the well-documented Serial Position Effect in cognitive psychology [78, 79], which states that items at the beginning (primacy) and end (recency) of a list are cognitively prioritized."
+ },
+ {
+  "year": 2025,
+  "ctx": "In contrast, temporal organization of free recall has long been of interest in the field of cognitive neuroscience of memory (Murdock, 1962; Tulving, 1962)."
+ },
+ {
+  "year": 2025,
+  "ctx": "A well-established phenomenon in working memory is the serial position effect (Murdock Jr, 1962)."
+ },
+ {
+  "year": 2025,
+  "ctx": "Typically, memory for items in the beginning of the list (primacy) and items at the end of the list (recency) is better than memory for the items in the middle (Morrison, Conway, and Chein, 2014; Murdock, 1962)."
+ },
+ {
+  "year": 2025,
+  "ctx": "As expected, a clear SPE effect was found in both the immediate and delayed recall, consistent with earlier studies using word list learning tasks (Jahnke, 1965; Murdock, 1962)."
+ },
+ {
+  "year": 2025,
+  "ctx": "6 ( a ) weights are equal, ρ = ρ ′ = 1, the resulting ∪− shaped curve is in good agreement with empirical data from Free Recall (Murdock Jr, 1962)."
+ },
+ {
+  "year": 2025,
+  "ctx": "When participants are presented with a list of words, they tend to better remember the words from both the beginning (primacy effect) and the end of the list (recency effect) than those from the middle of the list (Murdock Jr., 1962; Oberauer et al., 2018)."
+ },
+ {
+  "year": 2025,
+  "ctx": "The serial position curve is a common pattern observed in memory tests, where individuals often recall items from the beginning (primacy) and/or end (recency) of a list better than those in the middle, creating an u-shaped curve (e.g. Murdock, 1962)."
+ },
+ {
+  "year": 2025,
+  "ctx": "Subsequently, we analyze the nature of this bias by evaluating and quantifying the reasoning capabilities of LVLMs regarding different positions (§3.2)."
+ },
+ {
+  "year": 2025,
+  "ctx": "These findings align with the broader understanding of serial position effects in memory, where items at the beginning (primacy) and end (recency) of a list are remembered more reliably than those in the middle (Glanzer & Cunitz, 1966; Murdock, 1962)."
+ },
+ {
+  "year": 2025,
+  "ctx": "…stories), and that the original-order score was greater than the reverse-order score (effect of Score Type; for both analyses: F 1,53 > 300, p < 0.001: Figure 2B), showing that there is meaningful information in the correlation matrices and that stories are recalled in the original temporal order."
+ },
+ {
+  "year": 2025,
+  "ctx": "The first and last pieces of information presented can disproportionately influence the reader’s perception due to what is known as the serial position effect (Murdock, 1962)."
+ },
+ {
+  "year": 2025,
+  "ctx": "This memory bias is known as the primacy effect in psychology; human and animal memory for sequentially presented items tends to be more accurate for those appearing at the beginning of the sequence (Ebbinghaus, 1913; Murdock, 1962; Glanzer and Cunitz, 1966)."
+ },
+ {
+  "year": 2025,
+  "ctx": "Also, Murdock (1962) justified that, this effect suggested that items at the beginning and end of a list were more easily remembered than those in the middle."
+ },
+ {
+  "year": 2025,
+  "ctx": "S5), consistent with memory being improved for the first and last words of a wordlist ( Kljajevic et al., 2023; Murdock Jr, 1962)."
+ },
+ {
+  "year": 2024,
+  "ctx": "…drives (containing multiple maneuvers), where the worst-rated maneuver would also correlate most to the overall rating of this complete drive, is unknown, as the overall ratings could be biased through short-term memory effects, such as the serial position effect [19] or the peak-and-end-rule [20]."
+ },
+ {
+  "year": 2024,
+  "ctx": "…some typical free recall behaviors were not observed in the data, these being primacy effects (enhanced recall of items from the start of the list 18 ) as well as temporal contiguity effects (items studied in nearby serial positions are recalled successively 11 , see further analyses in the…"
+ },
+ {
+  "year": 2024,
+  "ctx": "…across three sets of behavioral patterns: (1) how well on average words are retrieved for each position in the study list (serial position curve 18 ), (2) which position in the study list recall is initiated from (probability of the first recall 18 ), (3) how likely it is to recall…"
+ },
+ {
+  "year": 2024,
+  "ctx": "…for each position in the study list (serial position curve 18 ), (2) which position in the study list recall is initiated from (probability of the first recall 18 ), (3) how likely it is to recall semantically similar words at adjacent (lag 1) versus far-apart recall positions (lags 2, 3, 4)."
+ },
+ {
+  "year": 2024,
+  "ctx": "3B) in the nominal condition displayed recency effects— enhanced recall of items from the end of the list 18 ."
+ },
+ {
+  "year": 2024,
+  "ctx": "We think that the long list length of 60, compared with typical shorter list lengths in the range of 10 to 24 in free recall experiments 18,35,36 , contributes to the lack of these patterns (see also Hong et al. 37 )."
+ },
+ {
+  "year": 2024,
+  "ctx": "Context has been able to explain many memory phenomena in individuals 4,6–12 , 18 ."
+ },
+ {
+  "year": 2024,
+  "ctx": "Our model also captures additional recall patterns such as recency effects (enhanced recall of items from the end of the list 18 ) and semantic clustering effects (semantically similar items are recalled successively 33 )."
+ },
+ {
+  "year": 2024,
+  "ctx": "It is widely recognized that the effective recall of a stimulus depends on the order of its presentation within the learning sequence (beginning, middle, or end of the list) [34,63]."
+ },
+ {
+  "year": 2024,
+  "ctx": "These phenomena are known as the “primacy effect” and the “recency effect”, respectively [34]."
+ },
+ {
+  "year": 2024,
+  "ctx": "The main effect of interpretation type on recall performance of both images and reappraisals remained significant after controlling for the serial position effect (Murdock Jr., 1962)."
+ },
+ {
+  "year": 2024,
+  "ctx": "The main effect of reappraisal type on recall performance of both images and reappraisals remained significant after controlling for the serial position effect (Murdock Jr., 1962)."
+ },
+ {
+  "year": 2024,
+  "ctx": "Moreover, using a 1-year lag seems appropriate following the recency effect in psychology (Murdock, 1962) and economic voting research (Bailey, 2021): a 1-year lag of policy payments can more accurately capture their in ﬂ uence on public opinion, as individuals seem more responsive to recent events…"
+ },
+ {
+  "year": 2024,
+  "ctx": "However, post-hoc experience reports can lack certain details or be skewed or biased (e.g., recency bias [22])."
+ },
+ {
+  "year": 2024,
+  "ctx": "23 In the context of our model, this means that nudge effects y i,j decay over time; for simplicity, we assume that this decay follows an exponential function, given by ˙ y i,j = − ry i,j , where r ≥ 0 is the immediacy parameter."
+ },
+ {
+  "year": 2024,
+  "ctx": "23,24 We show that temporal bias in observations and heterogeneity in internal processes lead to diverse collective outcomes, including partial or delayed cascades of action-taking at the population level and modulations in the frequency of action-taking at the individual level."
+ },
+ {
+  "year": 2024,
+  "ctx": "23,27,28 These parallels between our model and models of neural networks suggest several directions for future work."
+ },
+ {
+  "year": 2024,
+  "ctx": "In other tests, models were more likely to spontaneously relay recently baked, analogous to the ‘recency bias’ observed in humans [22] [29]."
+ },
+ {
+  "year": 2024,
+  "ctx": "In the current study, the first items encountered in an event may benefit from such a neural trace similar to a sort of “primacy tag”, as what is typically found in serial recall in long-term memory (Murdock, 1962; Tan & Ward, 2000)."
+ },
+ {
+  "year": 2024,
+  "ctx": "According to psychological research on the serial position effect (Murdock and Bennet, 1962), the first and last parts of a sequence are likely to be most memorable and thus critical for judgment."
+ },
+ {
+  "year": 2024,
+  "ctx": "Essentially, this weighting aligns with the recency effect, which suggests that recent information tends to impact and reflect perceptions and decisions [41] substantially."
+ },
+ {
+  "year": 2024,
+  "ctx": "The PEERS free-recall experiments replicated many classic ﬁ ndings, including serial position effects (Deese & Kaufman, 1957; Murdock, 1962), temporal clustering (Healey et al., 2019; Kahana, 1996; Ward et al., 2010), semantic clustering (Bous ﬁ eld, 1953; Howard & Kahana, 2002; Jenkins & Russell,…"
+ },
+ {
+  "year": 2024,
+  "ctx": "This effect, termed the recency effect, is a canonical finding in free recall (Figure 1(a); Deese & Kaufman, 1957; Kahana, 1996; Murdock, 1962)."
+ },
+ {
+  "year": 2024,
+  "ctx": "The serial position curve, which plots the probability of recall as a function of position, visually represents how memory performance varies across positions in a sequence (Murdock 1962)."
+ },
+ {
+  "year": 2024,
+  "ctx": "To assess the continual learning capabilities of model networks, we devised a continual learning task inspired by the structure of sequential working memory tasks [18, 20, 21]."
+ },
+ {
+  "year": 2024,
+  "ctx": "The serial position curve is a common pattern in tests of human memory, where performance tends to be better for stimuli learned at the beginning (primacy) and/or at the end (recency) of a list, as compared to those in the middle (hence the curve shape; e.g., [11])."
+ },
+ {
+  "year": 2024,
+  "ctx": "Sometimes, external factors trigger or interfere with our ability to learn and remember; for instance, the order in which items are presented affects the probability that they are subsequently recalled (Murdock, 1962; Deese & Kaufman, 1957)."
+ },
+ {
+  "year": 2024,
+  "ctx": "Fig 7 shows that LLMs do not have clear positional bias, also known as the serial position effect in psychology (Murdock, 1962), when solving multiple problems of the same type at once (i.e., BatchClf)."
+ },
+ {
+  "year": 2024,
+  "ctx": "The recency bias, sometimes referred to as the recency effect, is the tendency to favour or more easily recollect recent information [30,31]."
+ },
+ {
+  "year": 2024,
+  "ctx": "The strongest determinants of recall are list length and the complexity of items, with short lists of low complexity items exhibiting the greatest recall [22, 25, 31, 32, 36]."
+ },
+ {
+  "year": 2024,
+  "ctx": "…in a serial presentation, with two basic effects emerging in serial-position curves—a primacy effect, increasing the recall probability of items near the start of a presentation list, and a recency effect, increasing the recall probability for items near the end of a presentation list [22, 32, 36]."
+ },
+ {
+  "year": 2024,
+  "ctx": "The first recall is depicted here as starting in the middle of the list, instead of at the beginning or end of the list (Murdock, 1962), as previous literature suggests that boundary items tend to be recalled first in a recall sequence (Polyn et al., 2009b)."
+ },
+ {
+  "year": 2024,
+  "ctx": "…of repeated random tokens due to several reasons (1) it aligns with human free recall experiments, where random words are presented sequentially [18]; (2) it is a widely acknowledged definition of induction heads in mechanistic interpretability literature [21, 15, 31, 60]; (3) it uses…"
+ },
+ {
+  "year": 2024,
+  "ctx": "Episodic retrieval is commonly studied using the free recall paradigm [18, 19] (Fig."
+ },
+ {
+  "year": 2024,
+  "ctx": "…(that may include positional information) than items in the middle of the series (e.g., Anderson & Bower, 1972; Bjork & Healy, 1974; Brown & Lewandowsky, 2005; Brown et al., 2007; Brown et al., 2009; Estes, 1985; Healy, 1974; Lee & Estes, 1977; 1981; Murdock, 1962; Roth-kopf, 1971; Wickens, 1970)."
+ },
+ {
+  "year": 2024,
+  "ctx": "Many of these biases were discovered through experiments involving free recall tasks, wherein participants study a list of items and are prompted to recall the items in any order [23]."
+ },
+ {
+  "year": 2024,
+  "ctx": "Even classical textbook effects like the primacy-recency effect 63 were completely abolished when using realistic audiovisual narratives, where events are interconnected and semantically meaningful, as opposed to presenting lists of isolated words."
+ },
+ {
+  "year": 2024,
+  "ctx": "We fit the SAC model to two recall behavioral findings that according to the model can be explained by differential resource consumption during encoding - the primacy serial position effect (Murdock, 1962) and the sequential effect of word frequency (Popov & Reder, 2020)."
+ },
+ {
+  "year": 2024,
+  "ctx": "Primacy serial position effect - a key aspect of delayed free recall is the primacy effect - recall probability is often highest for the first presented item and it decreases gradually with the serial position until it asymptotes in the middle of the list (Murdock, 1962)."
+ },
+ {
+  "year": 2024,
+  "ctx": "Experiments show that, though the average probability of recalling an item from the list decreases with increasing the length of the list, the number of items recalled by the subjects increases (see e.g. Murdock [1962])."
+ },
+ {
+  "year": 2024,
+  "ctx": "Finally, we include plots of serial position functions for writing and drawing tasks (Murdock, 1962)."
+ },
+ {
+  "year": 2024,
+  "ctx": "…which include plots of lag-CRPs (Howard & Kahana, 1999), mean serial position recall distance between adjacent items recall (Jonker et al., 2019), and serial-position curves (Murdock, 1962; see Crowder, 1976, for review) to provide additional information regarding task effects on memory sequencing."
+ },
+ {
+  "year": 2024,
+  "ctx": "…processes, SERENA addresses this challenge through a novel ensemble classification strategy that mirrors how the brain tends to rely more heavily on the most recent experiences when making decisions, a phenomenon known as recency effect (Murdock Jr, 1962) or recency bias (Costabile & Klein, 2005)."
+ },
+ {
+  "year": 2024,
+  "ctx": "During inference, rather than simply relying on a single neural path, SERENA adopts another neuro-inspired strategy that incorporates a built-in recency effect (Murdock Jr, 1962) with an ensemble approach."
+ },
+ {
+  "year": 2024,
+  "ctx": "This primacy effect — better memory for items that occur in earlier positions (Murdock 1962) — may be due to an attentional gradient whereby items in early positions receive more attention than items in late positions (Page and Norris 1998; Brown et al. 2000; Azizian and Polich 2007; Unsworth and…"
+ },
+ {
+  "year": 2024,
+  "ctx": "In delayed free recall tasks in which no words are semantically associated, recall performance decreases over serial position (Murdock 1962)."
+ },
+ {
+  "year": 2024,
+  "ctx": "When asked about their mental health before treatment, individuals may report their sense of the aggregated levels, or outstanding points in the dynamic unfolding of their experience, or be influenced by a primacy or recency effect (Murdock, 1962a, 1962b)."
+ },
+ {
+  "year": 2024,
+  "ctx": "…research, it appears that the memory impairment induced by spaced repetition of strong items in the Random Mixed is of similar magnitude to that observed when additional unique items were added to the list in the Pure Weak Token condition (see Hastie, 1975; Murdock, 1962; Tulving & Hastie, 1972)."
+ },
+ {
+  "year": 2024,
+  "ctx": "This ﬁ nding seemingly points to a common mechanism underlying the list-strength and list-length e ﬀ ects (Murdock, 1962; Wixted et al., 1997; but see Sahakyan & Malmberg, 2018, for evidence that list-strength e ﬀ ects can be observed with lists of equal overall length)."
+ },
+ {
+  "year": 2024,
+  "ctx": "…the memory impairment induced by spaced repetition of strong items in the mixed-lists (i.e., list strength e ﬀ ect) is of similar magnitude to that observed when additional unique items are added to the list (i.e., list length e ﬀ ect; see Hastie, 1975; Murdock, 1962; Tulving & Hastie, 1972)."
+ },
+ {
+  "year": 2024,
+  "ctx": "When transcribing the data, we also coded the serial position of each idea unit in the conversation as serial order effects in recall are well-documented in the literature (Deese & Kaufman, 1957; Murdock, 1962)."
+ },
+ {
+  "year": 2024,
+  "ctx": "The serial position effect itself can increase the likelihood of a word being recalled from a list; words at the beginning of a list (the primacy effect) and the end of a list (the recency effect) are usually recalled more often than words in the middle (Murdock, 1962)."
+ },
+ {
+  "year": 2024,
+  "ctx": "In these studies, participants performed a free-recall task (Murdock, 1962; Roberts, 1972; Standing, 1973) in which they studied lists of items and—after each list— were asked to recall as many items as possible in any order."
+ },
+ {
+  "year": 2024,
+  "ctx": "…serial position effects (primacy— enhanced recall of items from the start of the list—and recency—enhanced recall of items from the end of the list; Murdock, 1962) as well as contiguity effects (semantic clustering—items from the same semantic category recalled successively—and temporal…"
+ },
+ {
+  "year": 2024,
+  "ctx": "The serial position curve is a common pattern in tests of human memory, where performance tends to be better for stimuli learned at the beginning (primacy) and/or at the end (recency) of a list, as compared to those in the middle (hence, the curve shape; e.g., Murdock 16 )."
+ },
+ {
+  "year": 2023,
+  "ctx": "However, with only 10 words, SPE are expected to be less pronounced [11] and the effects of SPE are not as pronounced with repeated WLL trials as shown in this study of RAVLT [16]."
+ },
+ {
+  "year": 2023,
+  "ctx": "Another well-known effect in learning word lists is the serial position effect (SPE), which implies that words in the beginning (primacy region, Pr) or at the end (recency region, Rr) of the list are more likely to be recalled [11]."
+ },
+ {
+  "year": 2023,
+  "ctx": "The primacy effect , wherein ﬁ rst encounters — be they words in a sequence or the initial experiences in a new city — are better remembered (Jahnke, 1965; Murdock, 1962; Rundus, 1971; Thorndike, 1927)."
+ },
+ {
+  "year": 2023,
+  "ctx": "Therefore, it is recommended that the name be modified to help users better differentiate it from Personalized Ad-vertising , such as Personalized [insert application, e.g., Video/Search] Recommendations ."
+ },
+ {
+  "year": 2023,
+  "ctx": "We report here the results of the first three and last six route decisions analogous to existing literature on the primacy and recency effect (Murdock 1962; Baddeley and Hitch 1977), but further statistical comparisons (not reported here in detail) with varying numbers of the first and last…"
+ },
+ {
+  "year": 2023,
+  "ctx": "The chance level is indicated by the dotted line three and the last six intersections according to Murdock (1962) and Baddeley and Hitch (1977)."
+ },
+ {
+  "year": 2023,
+  "ctx": "This finding can be attributed to the shorter retention interval and smaller amount of information to recall in the section (vs. whole text) recall activity (Murdock, 1962)."
+ },
+ {
+  "year": 2023,
+  "ctx": "Thus, we cannot exclude position bias, meaning that participants might have been influenced by the sequence in which the content was presented (48)."
+ },
+ {
+  "year": 2023,
+  "ctx": "Moreover, it was found that when the presented lists grow in length, even though the average number of recalled words ( R ) is increasing, a progressively smaller fraction of the words is recalled [33]."
+ },
+ {
+  "year": 2023,
+  "ctx": "…was not a new topic at the time, lifetime period organisation at the episodic level was a novel observation (e.g., Friedman & Wilkins, 1985; Murdock, 1962; Robinson, 1986; Thompson et al., 1988, but see criticisms of temporal organisation in Friedman, 1993; and Hintzman, 2016; Mace &…"
+ },
+ {
+  "year": 2023,
+  "ctx": "This assessment of strategies via self-report after the end of a NF session may have introduced order effects in the form of primacy or recency effects (i.e., patients may have remembered their first or last mental strategies; Murdock, 1962) and errors in reporting."
+ },
+ {
+  "year": 2023,
+  "ctx": "Two of the most significant are the primacy effect (Deese & Kaufman, 1957; Murdock Jr., 1962) and the recency effect (Bjork & Whitten, 1974; Baddeley & Hitch, 1993)."
+ },
+ {
+  "year": 2023,
+  "ctx": ", 1975; Moreton and Ward, 2010; Rubin, 1982), recall of news stories (Uitvlugt and Healey, 2019), and laboratory tasks such as free recall and item recognition (Murdock, 1962; Murdock and Anderson, 1975)."
+ },
+ {
+  "year": 2023,
+  "ctx": "Primacy Effect : The primacy effect was introduced in the last century during a psychology experiment [12]."
+ },
+ {
+  "year": 2023,
+  "ctx": "Recency Effect : The recency effect was introduced by Murdock et al. in [12], which shows that the latest information received is more influential due to a memory effect."
+ },
+ {
+  "year": 2023,
+  "ctx": "This logarithmic compression captures common observations in free recall, including time scale invariance, and primacy and recency effects (Maylor et al., 2001; Murdock, 1962)."
+ },
+ {
+  "year": 2023,
+  "ctx": "Primacy is an advantage to recall for items occurring at the beginning of a list, while recency is an advantage to recall for items presented at the end of a list (Murdock, 1962)."
+ },
+ {
+  "year": 2023,
+  "ctx": "Scholars have long sought to identify whether the primacy or recency effect prevails over the other (e.g., Welch and Burnett, 1924; Murdock, 1962; Li, 2010)."
+ },
+ {
+  "year": 2023,
+  "ctx": "Also, studies done in the past have suggested a dual-component model of recall involving both the short-term and long-term memory processes which explain the primary and recency effect (Atkinson and Shiffrin, 1968; Grif ﬁ n et al., 2017; Murdock, 1962; Unsworth et al., 2010)."
+ },
+ {
+  "year": 2023,
+  "ctx": "24–29 Studies consistently show primacy to be diminished in subjects with mild cognitive impairment (MCI) or LOAD, 30,31 and to be associated with the integrity of the hippocampus."
+ },
+ {
+  "year": 2023,
+  "ctx": "To better understand how scopolamine impacted the mechanisms of memory encoding, we examined whether it a ff ected memory for item order during recall (Murdock, 1962)."
+ },
+ {
+  "year": 2023,
+  "ctx": "The longer the list of items, the recency effect prevails primacy effect [18]."
+ },
+ {
+  "year": 2023,
+  "ctx": "Additionally, Murdock's findings from another experiment related to design indicated that longer presentation lists tend to reduce the primacy effect [18]."
+ },
+ {
+  "year": 2023,
+  "ctx": "simple spans [26], a different speed of presented information [18], immediate recall vs."
+ },
+ {
+  "year": 2023,
+  "ctx": "The exposition time of the items to the respondents was derived and applied according to the research from Murdock [18]."
+ },
+ {
+  "year": 2023,
+  "ctx": "Murdock's study in 1962 revealed that the strength of the primacy effect is generally greater when items are presented at a slower pace, but diminishes when items are presented quickly."
+ },
+ {
+  "year": 2023,
+  "ctx": "Murdock's experiment illustrated that the recency effect remains consistent regardless of the number of items on the studied list or the rate at which they were presented, as long as recall occurs immediately after testing [18], [19]."
+ },
+ {
+  "year": 2023,
+  "ctx": "This contrasts with our 4-arena task, where the first two arenas were generally remembered the best, with a similar memory performance to the single arena task, despite any possible retroactive interference from arenas 3 + 4."
+ },
+ {
+  "year": 2023,
+  "ctx": "On a second tapping task trial, distance errors will increase with tapping order because the initially presented items are most effectively stored in memory, called the primacy effect [20, 51]."
+ },
+ {
+  "year": 2023,
+  "ctx": "Recall of items at the beginning and end of a sequence is typically better than recall of items in the middle (Murdock, 1962)."
+ },
+ {
+  "year": 2023,
+  "ctx": "As repeatedly shown in the literature, the recall of elements at the beginning and end of a sequence is typically better than that of elements in the middle (Murdock, 1962; Tan & Ward, 2000; Unsworth et al., 2010)."
+ },
+ {
+  "year": 2023,
+  "ctx": "First , early episodes of using a speci ﬁ c CS might be retrieved more likely from memory during future choices (Murdock, 1962)."
+ },
+ {
+  "year": 2023,
+  "ctx": "Such deeper elaboration of initial items, possibly due to less inference, is a common explanation for primacy effects in serial recall (Murdock, 1962)."
+ },
+ {
+  "year": 2023,
+  "ctx": "The primacy effect is a cognitive bias that refers to the tendency of people to better recall items or events that occurred or were presented at the beginning of a series or sequence (Murdock 1962)."
+ },
+ {
+  "year": 2023,
+  "ctx": "For example, PF depends on the number of recalled items–an outcome that is easily influenced by the length of the original study list (Murdock Jr, 1962) or the number of recall phases in an experiment (see Payne 1987 as well as Roediger III & Karpicke 2006 for reviews)."
+ },
+ {
+  "year": 2023,
+  "ctx": "Finally, different pooling strategies are applied along the time axis [3, 29, 32, 38] to integrate frame-level quality scores into a video quality score."
+ },
+ {
+  "year": 2023,
+  "ctx": "Serial position effects refer to the observation that in healthy individuals there is a tendency to better recall words from the beginning (the primacy effect) and end (the recency effect) of a list, with fewer words recalled in the middle position (Murdock, 1962)."
+ },
+ {
+  "year": 2023,
+  "ctx": "The U-shaped curve we observe in this work has a connection in psychology known as the serial-position effect (Ebbinghaus, 1913; Murdock Jr, 1962), that states that in free-association recall of elements from a list, humans tend to best re-member the first and last elements of the list."
+ },
+ {
+  "year": 2023,
+  "ctx": "For instance, primacy and recency effects are foundational to the study of human memory (e.g., Kahana et al., 2022; Murdock, 1962)."
+ },
+ {
+  "year": 2023,
+  "ctx": "Recency means that recent events have a higher influence on choice behavior than normatively warranted, assuming a stationary generating stochastic process (see, e.g., Hogarth & Einhorn, 1992; Murdock, 1962)."
+ },
+ {
+  "year": 2023,
+  "ctx": "Serial position effects are found when early items (primacy) and late items (recency) on a list are remembered better than items in the middle (Murdock, 1962)."
+ },
+ {
+  "year": 2023,
+  "ctx": "One example is the primacy effect (Murdock 1962) – better memory for first encountered items."
+ },
+ {
+  "year": 2023,
+  "ctx": "Specifically, SPEs reflect the tendency for cognitively intact individuals to recall more words from the beginning (primacy effect) and end of a word list (recency effect), compared to words from the middle (Murdock & Jr, 1962)."
+ },
+ {
+  "year": 2023,
+  "ctx": "…be biased by the timing of the experiences, in particular, the primary effect in which the observations at the beginning of a sequence tend to be recalled very well and the recency effect in which the observations at the end of a sequence tend to be recalled more than the middle observations [31]."
+ },
+ {
+  "year": 2023,
+  "ctx": "However, humans have limited memory, and the timing could affect how we update our beliefs, like what has been observed in the primary and recency effects [31]."
+ },
+ {
+  "year": 2023,
+  "ctx": "As the list length increased, so the number of words recalled increased and the proportion of words recalled decreased (Murdock, 1962; Roberts, 1972; Ward, 2002), and these findings held true for both free recall and cued recall (Tulving & Pearlstone, 1966), for both blocked (Experiment 2) and…"
+ },
+ {
+  "year": 2023,
+  "ctx": "Regarding temporal regularities, participants recall a greater proportion of early and later list items than middle list items (recall advantages known as the primacy and recency effects, respectively, Jahnke, 1965; Murdock, 1962)."
+ },
+ {
+  "year": 2023,
+  "ctx": "List length effects are well-established in the free recall of unrelated items (Murdock, 1962; Roberts, 1972; Tulving & Pearlstone, 1966)."
+ },
+ {
+  "year": 2023,
+  "ctx": "Fourth, the nominal serial position curves showed clear list length effects in both tasks, and there were primacy and recency effects in free recall (Murdock, 1962), but the serial position curves were far flatter in cued recall."
+ },
+ {
+  "year": 2023,
+  "ctx": "…some prior studies that have manipulated list length effects in free recall have also used a constant recall period for all list lengths (e.g., Murdock, 1962; Ward, 2002), others have varied the length of the recall period in proportion with the number of items to be recalled (Roberts, 1972;…"
+ },
+ {
+  "year": 2023,
+  "ctx": "First, like many studies of free recall (e.g., Murdock, 1962; Tulving & Pearlstone, 1966) and most, if not all, prior studies examining free recall with the overt rehearsal method (Brodie & Murdock, 1977; Murdock & Metcalfe, 1978; Rundus, 1971; Tan & Ward, 2000; Ward, 2002), we have used written…"
+ },
+ {
+  "year": 2023,
+  "ctx": "In a typical trial in the immediate free recall (IFR) task, participants are presented with a long series of words and must try to recall as many list items as they can, in any order they like (e.g., Murdock, 1962)."
+ },
+ {
+  "year": 2023,
+  "ctx": "…increasing the number of categories or by increasing the number of exemplars per category), the numbers of words recalled increased and the proportions of words recalled decreased, consistent with Experiment 2 and other list length effects in free recall (Murdock, 1962; Roberts, 1972; Ward, 2002)."
+ },
+ {
+  "year": 2023,
+  "ctx": "Consistent with Murdock (1962), Ward found standard U-shaped nominal serial position curves and clear list length effects in IFR, but when the recalls were re-plotted by when the words were last rehearsed there were extended, overlapping recency effects."
+ },
+ {
+  "year": 2023,
+  "ctx": "Second, we found large list length effects (Murdock, 1962; Roberts, 1972; Ward, 2002) in recall accuracy."
+ },
+ {
+  "year": 2023,
+  "ctx": "…more (cid:2) Study of the quality aggregator: To study our memory-inspired aggregation strategy, we replace it with various aggregation modules, including the average pooling, temporal hysteresis [92], recency effect [94], VQPooling [95], percentile [96], primacy [94], and temporal variation [97]."
+ },
+ {
+  "year": 2023,
+  "ctx": "This is referred to as the primacy effect and the recency effect, altogether called the serial position effect (Murdock, 1962)."
+ },
+ {
+  "year": 2023,
+  "ctx": "…a primacy effect in learning, consistent with evidence that humans show primacy as well as recency effects in sequence and list learning, with the primacy effects generally being smaller than the recency effect (Bellezza, Andrasik, & Lewis, 1982; Gupta, 2005; Jahnke, 1965; Murdock, 1962)."
+ },
+ {
+  "year": 2023,
+  "ctx": "We speculate that this may be due to the recency e ﬀ ect (Murdock, 1962)."
+ },
+ {
+  "year": 2023,
+  "ctx": "…items (primacy effect) and last few items (recency effect) in a series of words, with the fewest number of words recalled in the middle position (Murdock, 1962). it is conjectured that primacy items have greater opportunity for rehearsal and are more readily transferred to long-term memory…"
+ },
+ {
+  "year": 2023,
+  "ctx": "…position profile seen in healthy persons is characterized by relatively equal recall of primacy and recency items with relatively weaker recall of middle items (Murdock, 1962), the present sample showed an alteration of this profile with poorer recall of recency items relative to primacy items."
+ },
+ {
+  "year": 2023,
+  "ctx": "Motived by these, we proposed a multiframe difference to represent temporal information contained in videos, which considers the recency effect [32] to weight the current frame and the previous three ones (i."
+ },
+ {
+  "year": 2023,
+  "ctx": "or end (recency) of a list, relative to their ability to remember words positioned in the middle of the list (Murdock, 1962)."
+ },
+ {
+  "year": 2023,
+  "ctx": "The SPE refers to the tendency of individuals to more easily remember words positioned at the beginning (primacy) or end (recency) of a list, relative to their ability to remember words positioned in the middle of the list (Murdock, 1962)."
+ },
+ {
+  "year": 2022,
+  "ctx": "From classic research on memory, it is well known that people remember better the first and last items in a list (Glanzer & Cunitz, 1966; Murdock, 1962)."
+ },
+ {
+  "year": 2022,
+  "ctx": "In this case, the primacy-recency effect must be taken into account, according to which the information that is named first (primacy effect) or last (recency effect) is better remembered (Murdock 1962)."
+ },
+ {
+  "year": 2022,
+  "ctx": "When presented with a series of items like a list of words or items in a grocery list, people recall the first and last few items from the series better than the middle ones (Murdock Jr, 1962; Ebbinghaus, 1964) because of their easier availability."
+ },
+ {
+  "year": 2022,
+  "ctx": "According to the primacy effect [28], people tend to remember the first piece of information they encounter better than information presented later on."
+ },
+ {
+  "year": 2022,
+  "ctx": "More explicitly, this work investigates the usage of simple arithmetic/geometric means, Minkowski’s mean, median, percentiles, Ninassi’s [35] temporal variation function, and primacy/recency effect [34], and a combination of the primacy and recency model [39] to pool per-frame quality scores into a single quality score for the entire video."
+ },
+ {
+  "year": 2022,
+  "ctx": "These methods are often modeled considering the hypothesis of the serial position effect [34], including temporal variation [35], primacy [36], recency [36, 37], and hysteresis models [38]."
+ },
+ {
+  "year": 2022,
+  "ctx": ", give an information processing advantage) the first and the end of a sequence better than its midpoint, known as the serial position effect (Jonides et al., 2008; Murdock, 1962)."
+ },
+ {
+  "year": 2022,
+  "ctx": "However, this may not be the most suitable operation as humans remember (i.e., give an information processing advantage) the ﬁrst and the end of a sequence better than its midpoint, known as the serial position e ﬀ ect (Jonides et al., 2008; Murdock, 1962)."
+ },
+ {
+  "year": 2022,
+  "ctx": "Serialpositioning effect [76, 77, 78] Items at the start and the end of a list are more memorable than those in the middle When providing explanations, could AI systems leverage this bias to have a more effective human interaction?"
+ },
+ {
+  "year": 2022,
+  "ctx": "Specifically, the authors examined the conditions under which primacy, recency (Murdock, 1962; Anderson, 1981), or no sequence effects would occur in a persuasive message."
+ },
+ {
+  "year": 2022,
+  "ctx": "Serial position effects refer to the tendency to better remember items at the beginning (primacy) and end (recency) of a supraspan wordlist (Murdock, 1962)."
+ },
+ {
+  "year": 2022,
+  "ctx": "Recency, contrary to the primacy effect, assumes that a visual stimulus is greatly influenced by the last visual stimuli perceived by the observer [27]."
+ },
+ {
+  "year": 2022,
+  "ctx": "These methods are often modeled considering the serial-position effect hypothesis [27], including temporal variation [28], primacy [29], recency [29, 30], and hysteresis models [31]."
+ },
+ {
+  "year": 2022,
+  "ctx": "The primacy effect characterizes the propensity of the human observer to consider the earliest portion of a visual stimulus when determining global quality assessments [27]."
+ },
+ {
+  "year": 2022,
+  "ctx": "To our nowledge, there are only a few studies investigating neural oscillations nderlying the SPE directly ( Jensen & Lisman, 1998 ; Sederberg et al., 006 )."
+ },
+ {
+  "year": 2022,
+  "ctx": "The SPE describes he propensity to remember the first and last items on a list more effiiently than the middle ones."
+ },
+ {
+  "year": 2022,
+  "ctx": "A wellstablished example of how the position of an item in a list can affect he memory processes is the \"serial position effect\" (SPE) ( Feigenbaum & imon, 1962 ; Murdock, 1962 ; Murre & Dros, 2015 )."
+ },
+ {
+  "year": 2022,
+  "ctx": "A well-established example of how the position of an item in a list can affect the memory processes is the \"serial position effect\" (SPE) (Feigenbaum & Simon, 1962; Murdock, 1962; Murre & Dros, 2015)."
+ },
+ {
+  "year": 2022,
+  "ctx": "Our results demonstrate the delta responses were igher for the first and last items than for the middle items in the digit ist, which match nicely the suggested “serial position curve ” model Murdock, 1962 ; Murre & Dros, 2015 )."
+ },
+ {
+  "year": 2022,
+  "ctx": "Other time pooling strategies, such as harmonic mean[21], did not improve as much as arithmetic mean pooling in our experiment, while the priming effect and recency effect[22], which considered psychology, led to performance decline, so we will not give too much introduction."
+ },
+ {
+  "year": 2022,
+  "ctx": "In such task, the error rate should typically be the lowest for the initial words in the list and gradually increase for words further down the list (a primacy effect), with some improvement in the last word or words (a recency effect; Murdock, 1962)."
+ },
+ {
+  "year": 2022,
+  "ctx": "Serial position effects refer to an increased probability of recall for words presented in the beginning (primacy effect) and end (recency effect) of a list compared with words in the middle of the list (Glanzer & Cunitz, 1966; Murdock, 1962; Waugh & Norman, 1965)."
+ },
+ {
+  "year": 2022,
+  "ctx": "For free recall in word learning list tests, SPEs mean that the first words (primacy region, Pr) and the last few words of a list (recency region, Rr) are easier to remember than items in the middle region (Mr) [2]."
+ },
+ {
+  "year": 2022,
+  "ctx": "…tasks is that performance is better for stimuli learned at the beginning (primacy) or at the end (recency), as compared with items\nin the middle (Murdock, 1962), while individuals with mild cognitive impairment or dementia tend to show a pronounced deficit at the recency position when comparing…"
+ },
+ {
+  "year": 2022,
+  "ctx": "The outcome variable was the number of words recalled correctly [31]."
+ },
+ {
+  "year": 2022,
+  "ctx": "…when learners were only told to maximize their total recall, they frequently engaged in serial remembering whereby retrieval was guided by an item's location within the study phase (see Murdock, 1962; Murphy, Friedman, & Castel, 2022 for serial position effects of sequentially presented items)."
+ },
+ {
+  "year": 2022,
+  "ctx": "…a simultaneous-presentation study phase (i.e., when to-be-learned information is presented all at once on a sheet of paper or computer screen; see Murdock, 1962; Murphy, Friedman, & Castel, 2022 for analyses of serial position effects in study time and memory of sequentially presented items),…"
+ },
+ {
+  "year": 2022,
+  "ctx": "We present here the analysis using the distance between the red card and the second, more recent black card, since a large literature has advocated the prominence of the recency effect (Deese & Kaufman, 1957; Murdock, 1962)."
+ },
+ {
+  "year": 2022,
+  "ctx": "Recency and primacy effects [68] are cognitive biases which lead to better recall of items and concepts that are positioned towards the beginning and the end of a sequence."
+ },
+ {
+  "year": 2022,
+  "ctx": "Here, their relationship becomes more explicit, and emerges as a long-term climate analog to the serial position effect in short-term memory formation (e.g., Murdock 1962)."
+ },
+ {
+  "year": 2022,
+  "ctx": "…the same time, an expert evaluator’s scores may still exhibit sequential bias, albeit to a lesser extent, due to psychological effects such as the propensity to remember certain candidates [36], and possible misalignment between the expert’s prior knowledge and the distribution of the current pool."
+ },
+ {
+  "year": 2022,
+  "ctx": "For example, it is well known in psychology that the earliest and latest items in a sequence are easier to recall than the others [36], and people positively perceive items that they recall better."
+ },
+ {
+  "year": 2022,
+  "ctx": "Briefly, recall accuracy varies as a function of the item’s position in the study list, and it is greater for words at the beginning (primacy effect) and the end (recency effect) of the list compared to the mid-list (intermediate) items (27)."
+ },
+ {
+  "year": 2022,
+  "ctx": "During free recall, a list is recalled in whatever order comes to mind after hearing it just once (e.g., Murdock, 1962)."
+ },
+ {
+  "year": 2022,
+  "ctx": "This phenomenon captures the feature of human memory to recall the most recent items on list the best (see Murdock 1962; Bjork and Whitten 1974)."
+ },
+ {
+  "year": 2022,
+  "ctx": "For example, the primacy effect (enhanced memory for information at the beginning of a list; see Murdock, 1962) is largely driven by the increased rehearsal of primacy items (see Rundus, 1971; Rundus & Atkinson, 1970)."
+ },
+ {
+  "year": 2022,
+  "ctx": "Among the notable effects in this line of work are, e.g., the primacy effect that implies first seen information is the most impactful [68] and serial effect, implying that first and last items in a list are given special attention [54]."
+ },
+ {
+  "year": 2022,
+  "ctx": "Experimentelle Forschung zur Wahrnehmung von (persuasiven) Botschaften deutet darauf hin, dass Inhalte, die zu Beginn und zum Ende der Botschaft platziert sind, besonders häufig von Rezipient:innen erinnert und zur Evaluation herangezogen werden (Crano, 1977; Murdock, 1962)."
+ },
+ {
+  "year": 2022,
+  "ctx": "In a well cited study, Murdock (1962) finds that in an experiment in which subjects are presented a list of words whose orders are irrelevant, subjects tend to recall words at the end of the list."
+ },
+ {
+  "year": 2022,
+  "ctx": "Critically, such a temporal order task allows us to assess additional facets of memory that do not exist in spatial memory, namely primacy, and recency effects (Murdock, 1962; Neath, 1993)."
+ },
+ {
+  "year": 2022,
+  "ctx": "In delayed free recall tasks in which no words are semantically associated, recall performance decreases over serial position (Murdock, 1962)."
+ },
+ {
+  "year": 2022,
+  "ctx": "The primacy effect in delayed recall – better memory for early relative to late list items (Murdock, 1962) – may be due to an attentional decline"
+ },
+ {
+  "year": 2022,
+  "ctx": "The primacy effect in delayed recall – better memory for early relative to late list items (Murdock, 1962) – may be due to an attentional decline (Azizan & Polich, 2007) and/or depletion of encoding resources (Lohnas, Davachi, & Kahana, 2020, ‘neural fatigue’) across items."
+ },
+ {
+  "year": 2022,
+  "ctx": "lag1 than for across-event pairs at lag3 (t(26)= 4."
+ },
+ {
+  "year": 2022,
+  "ctx": "The result should not be confounded with list position, since a significant effect of boundary still held, even when excluding the first and the last two pairs from the within-event pairs (t(26)= 4."
+ },
+ {
+  "year": 2022,
+  "ctx": "TOM was significantly better for within-event pairs than across-event pairs (t(26) = 4."
+ },
+ {
+  "year": 2022,
+  "ctx": "within-event pairs at lag1 than for across-event pairs at lag3 (t(26)= 4."
+ },
+ {
+  "year": 2022,
+  "ctx": "TOM was significantly better for across-event pairs at lag3 than for acrossevent pairs at lag1 (t(26)= 2."
+ },
+ {
+  "year": 2022,
+  "ctx": "better for within-event pairs than across-event pairs (t(26)= 4."
+ },
+ {
+  "year": 2022,
+  "ctx": "TOM was significantly better for within-event pairs at lag1 than for across-event pairs at lag3 (t(26)= 4."
+ },
+ {
+  "year": 2022,
+  "ctx": "The significant result held when the first trial and the last two trials were excluded from the within-event pairs (t(26)= 3."
+ },
+ {
+  "year": 2022,
+  "ctx": "is normally remembered more vividly than the middle part (Murdock, 1962), CSE participants may not fully recall their entire fundraising experience."
+ },
+ {
+  "year": 2022,
+  "ctx": "Applying the principle of the primacy and recency effects, which suggest that the beginning and end of an experience is normally remembered more vividly than the middle part (Murdock, 1962), CSE participants may not fully recall their entire fundraising experience."
+ },
+ {
+  "year": 2022,
+  "ctx": "…effects, in\nwhich stimuli at the beginning (primacy) and at the end of a list (recency) are more easily recognized (Basile & Hampton, 2010; Murdock, 1962), opening the possibility of studying how recognition is modulated by different variables like familiarity (Basile & Hampton, 2010),…"
+ },
+ {
+  "year": 2022,
+  "ctx": "These effects were termed the primacy effect and the recency effect, respectively (Murdock, 1962)."
+ },
+ {
+  "year": 2022,
+  "ctx": "Such serial effects have been observed in recall tasks where the ﬁ rst and last stimuli showed better performance (Laming, 2010; Murdock, 1962)."
+ },
+ {
+  "year": 2022,
+  "ctx": "The recency eﬀect is especially pronounced in immediate free recall, in which the recall test proceeds just after the last item in the list (Murdock, 1962)."
+ },
+ {
+  "year": 2021,
+  "ctx": "Presentation order of the stimuli was randomized to alleviate concerns of primacy/recency effects influencing POR (Murdock, 1962; Nairne, 1988)."
+ },
+ {
+  "year": 2021,
+  "ctx": "Serial-position analyses compute proportions of correct recall as a function of the list position presented at study and are often used to plot serial-position curves wherein participants are more likely to remember the first and last items of a list best (Murdock, 1962)."
+ },
+ {
+  "year": 2021,
+  "ctx": "We therefore tested to what extent memory-related fMRI signals were related to variation in recall after adjusting for possible confounding variables such as item memorability (29), serial position (43), and list composition (45)."
+ },
+ {
+  "year": 2021,
+  "ctx": "42, effects of serial position, a task-level variable that is well known to affect probabilities of recall (43, 44)."
+ },
+ {
+  "year": 2021,
+  "ctx": "However, there is valuable information in these performance differences, when a scoring method is able to account for them (32, 36, 37, 49)."
+ },
+ {
+  "year": 2021,
+  "ctx": "The serial position effect, in which more words are recalled at the beginning (primacy) and end (recency) of a list than in the middle, is frequently analyzed in AD research (32)."
+ },
+ {
+  "year": 2021,
+  "ctx": "313 When participants engaged in free recall of random word lists, they displayed strong primacy 314 and recency effects [29] on the immediate memory tests (as reflected by improved memory for 315 early and late list items; Fig."
+ },
+ {
+  "year": 2021,
+  "ctx": "A classic outcome of free recall studies is the serial position curve (Murdock, 1962) and its two effects: primacy and recency."
+ },
+ {
+  "year": 2021,
+  "ctx": ", interference effects arising from irrelevant material that is part of the same study list as the relevant material [65,66]."
+ },
+ {
+  "year": 2021,
+  "ctx": "In an exploratory follow-up ANOVA, we investigated a possible effect of rTMS on serial position to assess whether left DLPFC stimulation affected the likelihood of recalling a word as a function of its list position [17]."
+ },
+ {
+  "year": 2021,
+  "ctx": "To this end, serial position curves were calculated [17]."
+ },
+ {
+  "year": 2021,
+  "ctx": "…due to the primacy effect, the tendency to recall items presented first most accurately, and the recency effect, the tendency to\nrecall items presented last most accurately, both relative to poorer recall of items in the middle of the list (Murdock, 1962; see also Murphy, Friedman, & Castel, 2022)."
+ },
+ {
+  "year": 2021,
+  "ctx": "Our ability to remember these items often depends on the time between presentation and recall, the presence or absence of a distracting task, presentation rate, and list length (Glanzer & Cunitz, 1966; Murdock, 1962)."
+ },
+ {
+  "year": 2021,
+  "ctx": "In these tasks, variation in the breakdown of recall performance based on presentation position is largely due to the primacy effect, the tendency to recall items presented first most accurately, and the recency effect, the tendency to recall items presented last most accurately, both relative to poorer recall of items in the middle of the list (Murdock, 1962; see also Murphy, Friedman, & Castel, 2022)."
+ },
+ {
+  "year": 2021,
+  "ctx": "For example, it is well documented that people tend to remember the initial information in a sequence better — and be more strongly impacted by it — compared to subsequent information in the sequence (see the primacy effect [5,6])."
+ },
+ {
+  "year": 2021,
+  "ctx": "An agent could recall the stored events in any order and the recalled events from the past alter the way it approaches the solu-tion (Murdock, 1962)."
+ },
+ {
+  "year": 2021,
+  "ctx": "Identical to the real-world situation where individuals recall their worst and best events results more clearly than their med-iocre outcomes, this phenomenon of recency and primacy effect is simulated in the model as given by Murdock (1962)."
+ },
+ {
+  "year": 2021,
+  "ctx": "A well-established memory phenomenon is the serial position effect (Glanzer & Cunitz, 1966; Murdock, 1962), which is the finding that we tend to remember information in the beginning and end of a list better than those in the middle (i."
+ },
+ {
+  "year": 2021,
+  "ctx": "A well-established memory phenomenon is the serial position effect (Glanzer & Cunitz, 1966; Murdock, 1962), which is the finding that we tend to remember information in the beginning and end of a list better than those in the middle (i.e. primacy and recency effects, respectively)."
+ },
+ {
+  "year": 2021,
+  "ctx": "The serial order effect, a theory in psychology, describes how one can best recall the ﬁ rst and last items in a sequence [12]."
+ },
+ {
+  "year": 2021,
+  "ctx": "The serial order effect is the tendency for a person to recall the ﬁ rst and last items in a series best and the middle items in a series worst [12]."
+ },
+ {
+  "year": 2021,
+  "ctx": "Thus, these are primacy and recency effects, and this mirrors serial position effects found in memory for other materials, such as word lists (e.g., Ebbinghaus, 1885/1913; Murdock, 1962; Rundus, 1971)."
+ },
+ {
+  "year": 2021,
+  "ctx": "…of learning\nIn free recall tests of memory for word lists containing around 10 or more units of information, the likelihood that an item is recalled is often predicted by its locationwithin the list, known as the serial position effect (Glanzer & Cunitz, 1966; Murdock, 1962; Waugh & Norman, 1965)."
+ },
+ {
+  "year": 2021,
+  "ctx": "When studying large amounts of information, serial position effects refer to enhanced memory for items learned at the beginning (primacy) and the end (recency) of a learning period (Glanzer & Cunitz, 1966; Murdock, 1962; Waugh & Norman, 1965)."
+ },
+ {
+  "year": 2021,
+  "ctx": "…work examining serial position effects has manipulated presentation rate and list length (e.g., Brodie & Murdock, 1977; Glanzer & Cunitz, 1966; Murdock, 1962; Roberts, 1972; Tan & Ward, 2000; Waugh, 1967), and there has been continued interest in theories of free recall (Brown et al., 2007;…"
+ },
+ {
+  "year": 2021,
+  "ctx": "This level of performance reached much beyond the prediction of nine items at maximum that would be made by verbal recall memory studies (Murdock, 1962)."
+ },
+ {
+  "year": 2021,
+  "ctx": "To address the domain mismatch, strategies such as self-supervised continual pre-training has been proposed and found to be effective for text [9] and vision [10]."
+ },
+ {
+  "year": 2021,
+  "ctx": "Although the animacy advantage is typically characterized as an effect of long-term memory (specifically, episodic memory; Nairne et  al., 2017; VanArsdall et  al., 2017), it can also occur for very short word lists presumably recalled from working memory (cf. Daley et  al., 2020)."
+ },
+ {
+  "year": 2021,
+  "ctx": "An adjustable parameter α can be used to increase or decrease these effects [15], [17]."
+ },
+ {
+  "year": 2021,
+  "ctx": "This task typically produces strong recency and some primacy (e.g., Grenfell-Essam et al., 2013; Grenfell-Essam & Ward, 2012; Murdock, 1962; Ward et al., 2010), with this function shown across a range of stimulus types (Cortis et al., 2015; Spurgeon et al., 2014)."
+ },
+ {
+  "year": 2021,
+  "ctx": "This task typically produces strong recency and some primacy (e.g., Grenfell-Essam et al., 2013; Grenfell-Essam & Ward, 2012; Murdock, 1962; Ward et al., 2010), with this function shown across a range of stimulus types (Cortis et al."
+ },
+ {
+  "year": 2021,
+  "ctx": "The existence of such recency effects was initially demonstrated through short-term memory recall tasks and was attributed to retrieval of the last few list items from the item-limited shortterm memory store (Murdock, 1962)."
+ },
+ {
+  "year": 2021,
+  "ctx": "Each utterance was categorized as one of the followings based on its content: (1) recall of specific movie events, (2) general comment about the movie, (3) memory search attempt (e."
+ },
+ {
+  "year": 2021,
+  "ctx": "As the expectancy violations theory proposes, if a firm is already poorly regarded due to the recency of the information (Murdock, 1962), additional negative news is likely to be considered within the range of stakeholder expectancy and thus be perceived as a negative expectancy confirmation rather…"
+ },
+ {
+  "year": 2021,
+  "ctx": "The recency effect is usually much stronger than the primacy effect [32, 33, 40], and the two effects are often jointly referred to as serialposition effect."
+ },
+ {
+  "year": 2021,
+  "ctx": "Data from free recall experiments typically exhibit primacy (high probability of activating the first learned items), recency (high probability of activating the last learned items), and contiguity (higher probability of transition between neighboring items) [32, 34]."
+ },
+ {
+  "year": 2021,
+  "ctx": "We collected data from three minutes, which is a time span similar to the recall period in free recall experiments [32, 34, 41]."
+ },
+ {
+  "year": 2021,
+  "ctx": "Time spans in d and e are similar to those in free recall experiments [32, 34, 41]"
+ },
+ {
+  "year": 2021,
+  "ctx": "Since then, psychologists have used the free recall task to gain insight into the processes and representations underlying memory search (Murdock, 1960, 1962; Roberts, 1972; Standing, 1973)."
+ },
+ {
+  "year": 2021,
+  "ctx": "T hi s ar tic le\nis in te nd ed\nso le ly\nfo r th e pe rs on al\nus e of\nth e in di vi du al\nus er\nan d is no t to\nbe di ss em\nin at ed\nbr oa dl y.\nrecall is one of the most robust findings in cognitive psychology (Murdock, 1962)."
+ },
+ {
+  "year": 2021,
+  "ctx": "recall is one of the most robust findings in cognitive psychology (Murdock, 1962)."
+ },
+ {
+  "year": 2021,
+  "ctx": "…items), studies have also looked at serial position effects (showing primacy—enhanced recall of items from the start of the list—and also recency—enhanced recall of items from the end of the list;Murdock, 1962) and contiguity effects (regularities in which items tend to be recalled together)."
+ },
+ {
+  "year": 2021,
+  "ctx": "Adding a period of delay after studying the list helps with disengaging from the end-of-list context (Murdock, 1962), and leads to increased accessibility of the beginning-of-list context during recall, as can be seen from Figure 8B, where there is a higher tendency to start the recall process from…"
+ },
+ {
+  "year": 2021,
+  "ctx": "In addition to tracking overall performance (operationalized as the number of recalled items), studies have also looked at serial position effects (showing primacy—enhanced recall of items from the start of the list—and also recency—enhanced recall of items from the end of the list;Murdock, 1962) and contiguity effects (regularities in which items tend to be recalled together)."
+ },
+ {
+  "year": 2021,
+  "ctx": "Keywords: free recall, memory search, rational analysis, computational modeling\nPsychologists have used the free recall task for decades to gain insight into the processes and representations underlying memory search (Murdock, 1960, 1962; Roberts, 1972; Standing, 1973)."
+ },
+ {
+  "year": 2021,
+  "ctx": "Adding a period of delay after studying the list helps with disengaging from the end-of-list context (Murdock, 1962), and leads to increased accessibility of the beginning-of-list context during recall, as can be seen from Figure 8B, where there is a higher tendency to start the recall process from the first item in the delayed free recall condition than the immediate free recall condition (Mann–Whitney U = 185."
+ },
+ {
+  "year": 2021,
+  "ctx": "For this purpose, we leverage that additional stimulation of past information, especially of that which is not easily remembered through primacy or recency effects [17], leads to rehearsal of information and improves recall probability."
+ },
+ {
+  "year": 2021,
+  "ctx": "In an exploratory follow-up ANOVA we investigated a possible effect of rTMS on serial 104 position to assess whether left DLPFC stimulation affected the likelihood of recalling a word 105 as a function of its list position [18]."
+ },
+ {
+  "year": 2021,
+  "ctx": "To this end, serial position 431 curves were calculated [18]."
+ },
+ {
+  "year": 2021,
+  "ctx": "The order in which semantically unrelated items are learned affects the probability of recall of these items (Murdock, 1962), with primacy (i."
+ },
+ {
+  "year": 2021,
+  "ctx": "The order in which semantically unrelated items are learned affects the probability of recall of these items (Murdock, 1962), with primacy (i.e., better recall for earlier items) and recency (i.e., better recall for later items) effects, but learning order also affects the sequence of retrieval…"
+ },
+ {
+  "year": 2021,
+  "ctx": "Variability in each of these task parameters has been shown to influence free recall performance (Murdock et al., 1962; Roberts et al., 1972; Ward, 2002)."
+ },
+ {
+  "year": 2021,
+  "ctx": "Primacy and recency are key serial position effects: higher recall rates of words positioned at the beginning and end of the list, compared with middle list words (10, 11)."
+ },
+ {
+  "year": 2021,
+  "ctx": "The second one is the recency effect (Baddeley, 1976; Costabile & Klein, 2005; Kahneman, 2011; Murdock, 1962) investigated in social and general psychology."
+ },
+ {
+  "year": 2021,
+  "ctx": "According to our hypothesis and the literature (Murdock 1962), it was expected that both recall performance as well as effort allocation for memory processing are affected by the length of the list as more rehearsal is needed in longer conditions."
+ },
+ {
+  "year": 2021,
+  "ctx": "According to the literature (Murdock 1962), it is expected"
+ },
+ {
+  "year": 2021,
+  "ctx": "with the list-length effect, stating that average memory performance for short lists is superior to memory performance for long lists (Murdock 1962; Phillips et al. 1967; Roberts 1972; Ward 2002; Kinnell & Dennis 2011)."
+ },
+ {
+  "year": 2021,
+  "ctx": "According to the literature (Murdock 1962), it is expected that list length will impact memory processing, but not listening."
+ },
+ {
+  "year": 2021,
+  "ctx": "…Kluwer Health, Inc. Unauthorized reproduction of this article is prohibited.\nwith the list-length effect, stating that average memory performance for short lists is superior to memory performance for long lists (Murdock 1962; Phillips et al. 1967; Roberts 1972; Ward 2002; Kinnell & Dennis 2011)."
+ },
+ {
+  "year": 2021,
+  "ctx": "This is known as the list length effect (e.g., Murdock 1962; Roberts 1972)."
+ },
+ {
+  "year": 2020,
+  "ctx": "Finally, we find that our model reproduces both primacy and recency effects under increasing list length, as has been found in experiments [24] (Fig."
+ },
+ {
+  "year": 2020,
+  "ctx": "Also, the magnitude of the primacy effect seems to decrease the longer the list [24]."
+ },
+ {
+  "year": 2020,
+  "ctx": "11The empirical evidence of recency bias roots in the psychology literature, e.g., the seminal paper of Murdock (1962) in which it is shown that individuals presented to a list of words of irrelevant orders tend to recall the words presented the latest."
+ },
+ {
+  "year": 2020,
+  "ctx": "One reading strategy that has been shown to be effective in supporting learners’ text comprehension is to encourage them to take notes as they read (Liu, Yang, Williams and Wang, 2019; Nguyen and Liu, 2016; Ren, Li and Lank, 2014)."
+ },
+ {
+  "year": 2020,
+  "ctx": "The serial position phenomenon refers to the observation that healthy persons tend to better remember items from the beginning (primacy effect) and end (recency effect) of a supraspan word list.(4) Primacy items are proposed to have a greater opportunity for rehearsal and thus are transferred to and subsequently retrieved from hippocampal-dependent long-term memory stores at recall, whereas recency items are recalled from short-term working memory stores."
+ },
+ {
+  "year": 2020,
+  "ctx": "Given that larger recall sets lead to stronger recency effects (Murdock, 1962; Ward, 2002), and jurors are expected to recall large sets of information, they may remember content presented at closing arguments better than content presented earlier in the trial."
+ },
+ {
+  "year": 2020,
+  "ctx": "Given that recency effects increase in strength as a function of the length of the list being recalled (Murdock, 1962; Ward, 2002), it is not surprising that participants might rely on the recency effect when recalling information from the trial."
+ },
+ {
+  "year": 2020,
+  "ctx": "In addition to recency effects, the serial position effect also encompasses primacy effects, which is the tendency for content at the beginning of a list to be recalled better than content in the middle (Murdock, 1962)."
+ },
+ {
+  "year": 2020,
+  "ctx": "We used the filler words both as practice items and also to minimise primacy and recency effects in the study list (Murdock, 1962)."
+ },
+ {
+  "year": 2020,
+  "ctx": "Research on human memory has been strongly influenced by data from free recall experiments, wherein participants study a list of items (such as words) and then freely recall them in any order they wish (Murdock, 1962)."
+ },
+ {
+  "year": 2020,
+  "ctx": "Summary Research on human memory has been strongly influenced by data from free recall experiments, wherein participants study a list of items (such as words) and then freely recall them in any order they wish (Murdock, 1962)."
+ },
+ {
+  "year": 2020,
+  "ctx": "The Psifr package includes core utilities that simplify and standardize a number of different analyses of recall sequences, including analyses focused on serial position (Murdock, 1962), temporal order (Kahana, 1996; Polyn et al."
+ },
+ {
+  "year": 2020,
+  "ctx": "…core utilities that simplify and standardize a number of different analyses of recall sequences, including analyses focused on serial position (Murdock, 1962), temporal order (Kahana, 1996; Polyn et al., 2011), stimulus category (Morton & Polyn, 2016; Polyn, Norman, & Kahana, 2009), and the…"
+ },
+ {
+  "year": 2020,
+  "ctx": "Recency effects are well-documented in the adult [16,17] and infant [18] literature, but here we link these memory effects explicitly to category formation."
+ },
+ {
+  "year": 2020,
+  "ctx": "This phenomenon is known as serial position effect [2]."
+ },
+ {
+  "year": 2020,
+  "ctx": "For example, longer exposure times lead to better face recognition [30], better photograph recognition [31, 32], higher confidence ratings for complex picture recognition [33], and better word recognition [34]."
+ },
+ {
+  "year": 2020,
+  "ctx": "The serial position curve of free recall (Murdock, 1962; see Laming, 2010 for its variants) is well known; the data in Fig."
+ },
+ {
+  "year": 2020,
+  "ctx": "To test episodic memory functions, we used free (immediate) recall (Murdock, 1962), and word recognition for delayed retrieval (Nyberg et al., 1996)."
+ },
+ {
+  "year": 2020,
+  "ctx": "To test episodic memory functions, we used free (immediate) recall (Murdock, 1962), and word recognition for delayed retrieval (Nyberg et al."
+ },
+ {
+  "year": 2020,
+  "ctx": ", recency) of the action sequences [34, 35]."
+ },
+ {
+  "year": 2020,
+  "ctx": "Stronger reactions to recent outcomes in our experiment are consistent with the well documented “recency effect”, which suggests that people generally are more influenced by more recent information (Miller and Campbell 1959; Murdock 1962)."
+ },
+ {
+  "year": 2020,
+  "ctx": "The classic serial position effect (Murdock, 1962) supports this distinction between knowledge-based mechanisms and attentional processes, in which early items are properly encoded and hence remembered while later items are only stored temporarily and subject to decay."
+ },
+ {
+  "year": 2020,
+  "ctx": "The model, however, generally underestimates accuracy, this is probably due to the model being unable to capture the primacy effect (Murdock, 1962)."
+ },
+ {
+  "year": 2020,
+  "ctx": "Similarly, it could be that due to cognitive limitations and the large amount of information conveyed in real time by humans’ facial activity, we have learned to use only what is most recently available to us (Deese & Kaufman, 1957; Murdock, 1962)."
+ },
+ {
+  "year": 2020,
+  "ctx": "Similarly, overly extreme responses could stem from the over-weighing of recent observations [49], not unlike other general sequence effects found in perceptual judgments [50]."
+ },
+ {
+  "year": 2020,
+  "ctx": "This is known as the serial effect (e.g., Murdock, 1962)."
+ },
+ {
+  "year": 2020,
+  "ctx": "…deﬁnitions for memory are used in order to achieve speciﬁc aims, like the explanation of certain memory phenomena or the precise diagnosis of a neurological condition (Murdock, 1962; Glanzer and Cunitz, 1966; Baddeley, 1992; Frankland and Bontempi, 2005; Purves et al., 2013; Goldstein, 2014)."
+ },
+ {
+  "year": 2020,
+  "ctx": "Different working definitions for memory are used in order to achieve specific aims, like the explanation of certain memory phenomena or the precise diagnosis of a neurological condition (Murdock, 1962; Glanzer and Cunitz, 1966; Baddeley, 1992; Frankland and Bontempi, 2005; Purves et al., 2013; Goldstein, 2014)."
+ },
+ {
+  "year": 2020,
+  "ctx": "Here we construct several computational models within the proposed quality assessment framework by ﬁrst predicting frame-level quality using existing 2D IQA models [3], and then pooling the quality estimates [12] by considering cognitive effects of the human brain [13]."
+ },
+ {
+  "year": 2020,
+  "ctx": "Specifically, the recency effect (Deese and Kaufman, 1957; Murdock, 1962; Baddeley and Hitch, 1993), describes how individuals tend to recall better the last items on a list."
+ },
+ {
+  "year": 2020,
+  "ctx": "Studies in the psychology literature suggest that individuals exposed to a series of stimuli tend to be better at recalling the rst and the most recent values (Ebbinghaus, 1913; Murdock, 1962; Ward, 2002; )."
+ },
+ {
+  "year": 2020,
+  "ctx": "It is well known that primacy and recency are likely to occur when participants are asked to recall items which were presented in serial order [21]."
+ },
+ {
+  "year": 2020,
+  "ctx": "Pengetahuan yang demikian akan lebih lama tersimpan dalam ingatan siswa dibanding pengetahuan yang sekedar menghafal dan memahami (Murdock & Bennet, 1962)."
+ },
+ {
+  "year": 2020,
+  "ctx": "The neural fatigue account helps to explain why encoding may be unsuccessful, and in particular why encoding is generally worse following the first few items in a new context, termed the “law of primacy” or primacy effect (Murdock, 1962; Spurgeon et al., 2014)."
+ },
+ {
+  "year": 2020,
+  "ctx": "Tulving and Rosenbaum (2006) advanced this idea as an explanation for the well-known “law of primacy” which describes better memory for the initial items experienced within a given context (Murdock, 1962; Spurgeon et al., 2014)."
+ },
+ {
+  "year": 2020,
+  "ctx": "Thus, the primacy effect observed in free recall and other memory tasks arises from the lack of neural fatigue for the first few list items (Murdock, 1962; Spurgeon et al., 2014)."
+ },
+ {
+  "year": 2020,
+  "ctx": "4 Placing Broccoli between two table sections also avoids undue positional advantages for Broccoli which have been established for recall for both the earliest and the latest items [19]."
+ },
+ {
+  "year": 2020,
+  "ctx": "5, items shown first and last are remembered more easily than those shown in the middle [19])."
+ },
+ {
+  "year": 2020,
+  "ctx": "In the present study, each participant’s condition was determined based on the targeted affective state of the last story they read because this was the state primed most recently before measuring the dependent variables (Murdock, 1962)."
+ },
+ {
+  "year": 2020,
+  "ctx": "research could control for possible primacy and recency effects (Murdock, 1962)."
+ },
+ {
+  "year": 2020,
+  "ctx": "Because the final two activities in the semester were also the ones rated lowest, future research could control for possible primacy and recency effects (Murdock, 1962)."
+ },
+ {
+  "year": 2020,
+  "ctx": "For example, there are a multitude of studies investigating immediate or delayed word recall that document word accuracy across list position (e.g., Murdock, 1962; Watkins and Watkins, 1977), word omissions\nFrontiers in Human Neuroscience | www.frontiersin.org 3 March 2020 | Volume 14 | Article…"
+ },
+ {
+  "year": 2020,
+  "ctx": "Second, readers may recall information better for the gender that is consistently presented first; an order of importance is inherent to word pairs (e.g., Malkiel, 1968), and a primacy effect exists in that words listed first are better remembered (e.g., Murdock, 1962)."
+ },
+ {
+  "year": 2020,
+  "ctx": "Recency Effect: The recency effect is another well-established behavioral and memory effect, whereby, in this context, video quality is very strongly influenced by a viewer’s most recently percieved visual impression [24]."
+ },
+ {
+  "year": 2020,
+  "ctx": "Primacy Effect: The primacy effect describes the tendency of human viewers to recall the earliest portion of a video when providing overall evaluations [24]."
+ },
+ {
+  "year": 2020,
+  "ctx": "Another cognitive aspect relevant to temporal visual pooling is the serial-position effect (or memory effect) hypothesis [24]."
+ },
+ {
+  "year": 2020,
+  "ctx": "The ballot names bias shares some similarities with the serialpositioning effect [95] where people better recall the first (primacy) and last (recency) items in a list."
+ },
+ {
+  "year": 2020,
+  "ctx": "Given that recency effect stems from later information’s high availability (Haugtvedt & Wegener, 1994; Murdock, 1962), the significant effect of vertical arrangement could be more pronounced if the threads include a greater number of comments (e.g., 6:2 instead of 3:1) or utilize more extreme ratio…"
+ },
+ {
+  "year": 2020,
+  "ctx": "Murdock (1962), Anderson (1965), Slovic and Lichtenstein (1971) all presented evidence of a primacy effect (overweighting of early information) and a recency effect (overweighting of recent information)."
+ },
+ {
+  "year": 2019,
+  "ctx": "Normally, subjects remember more of the words from the beginning (primacy effect) or the end of a word list (recency effect), producing a \"U\" shaped curve in a graph, known as a serial position curve [49-51]."
+ },
+ {
+  "year": 2019,
+  "ctx": "effect and is usually interpreted as reflecting short-term memory processes [51, 62]."
+ },
+ {
+  "year": 2019,
+  "ctx": "Specifically, Murdock (1962) compared six groups of participants who were tested on verbal memory tasks composed of lists of 10, 15, 20 and 30 unrelated words, where each item was presented every 1 or 2 seconds."
+ },
+ {
+  "year": 2019,
+  "ctx": "Serial position effects occur in free recall when items presented early on a list (primacy) and items presented at the end of a list (recency) are remembered better than items in the middle (Murdock, 1962)."
+ },
+ {
+  "year": 2019,
+  "ctx": "Typically, IFR performance is dominated by strong and extended recency effects with limited primacy (e.g., Murdock, 1962)."
+ },
+ {
+  "year": 2019,
+  "ctx": "5 A reviewer raised the possibility that a primacy effect (e.g., Murdock, 1962) could explain the results of Experiment 2—that participants disproportionately rehearsed silent items at the beginning of each block of silent items."
+ },
+ {
+  "year": 2019,
+  "ctx": "Primacy and recency effects refer to recall advantages for the beginning and end-of-list items, respectively (e.g., Murdock, 1962); such advantages can also be reflected in probability of first recall (PFR) curves, where it is found that participants are most likely to initiate free recall at…"
+ },
+ {
+  "year": 2019,
+  "ctx": "In contrast, in memory experiments, the serial position curve is determined by the relative temporal position of the items within the item lists, while the time delay between the onset of the list and the given item plays only a minor role [30]."
+ },
+ {
+  "year": 2019,
+  "ctx": "Later studies have continued to find this serial position effect (Stagner, 1933; Deese & Kaufman, 1957; Murdock, 1962)."
+ },
+ {
+  "year": 2019,
+  "ctx": "초두효과와 최신효과는 이야기를 회상할 때 기억할 수 있는 용량(span)에 한계(limitation)를 넘 어서는 경우에 발생하는 현상으로, 이야기 다시 말하기 과제에 서 서열위치와 이야기 회상률을 그래프로 나타내면 U 자 형태 를 보이게 된다(Murdock, 1962)."
+ },
+ {
+  "year": 2019,
+  "ctx": "Yet, it has generated a wealth of classic ﬁ ndings about human memory, including the primacy and recency effects (Murdock, 1962), temporal contiguity (Kahana, 1996), and semantic clustering effects (Bous ﬁ eld, 1953; Romney et al., 1993)."
+ },
+ {
+  "year": 2019,
+  "ctx": "When individuals learn lists, the best memory is for the items at the beginning (primacy effect) and end (recency effect) of the list (Murdock, 1962)."
+ },
+ {
+  "year": 2019,
+  "ctx": "Due to attention and memory decay processes, people best remember the items that begin a list (primacy) and the items that conclude a list (recency), with recency being a stronger predictor of recall than primacy (Murdock, 1962)."
+ },
+ {
+  "year": 2019,
+  "ctx": "the information that is presented first is remembered best [29,30]."
+ },
+ {
+  "year": 2019,
+  "ctx": "The “echo box” hypothesis is based on the empirical finding of a recency effect in free recall (Murdock, 1962), combined with a rapid decay of the acoustic trace of recently presented items in the working memory (Sperling & Speelman, 1970), later defined as the “articulatory loop” (Baddeley & Della Sala, 1996)."
+ },
+ {
+  "year": 2019,
+  "ctx": "The “echo box” hypothesis is based on the empirical finding of a recency effect in free recall (Murdock, 1962), combined with a rapid decay of the acoustic trace of recently presented items in the working memory (Sperling & Speelman, 1970), later defined as the “articulatory loop” (Baddeley & Della…"
+ },
+ {
+  "year": 2019,
+  "ctx": "Analogously, slowing the rate of item presentation increased recall of early- and middle-list items, but did not have any discernible effect on recall of !nal-list items (Murdock 1962)."
+ },
+ {
+  "year": 2019,
+  "ctx": "Two patterns are immediately apparent, and are predicted from the literature: First, the U-shaped curve shows a classic primacy and recency effect (Murdock, 1962)."
+ },
+ {
+  "year": 2019,
+  "ctx": "…dependence (e.g., Bower, 1981), free recall (e.g., Tulving, 1964), repeated reproduction (e.g., Bartlett, 1932), serial position effects (e.g., Murdock, 1962), the temporal gradient of recollection (e.g., Ribot, 1882), the formation of semantic abstractions (e.g., Caramazza, 2000), encoding…"
+ },
+ {
+  "year": 2019,
+  "ctx": "The recency effect [16,41] refers to the ability of the human memory to recall the most recent events [42]; hence, the evaluated QoE heavily depends on the recent experiences."
+ },
+ {
+  "year": 2019,
+  "ctx": "In fact, the primacy effect always exponentially decreases by time [41]."
+ },
+ {
+  "year": 2019,
+  "ctx": "The primacy effect [16,41] describes the human behavior to recall (bitrate or rebuffering) initial events occurred at the beginning of the streaming session when providing the overall evaluation [42]."
+ },
+ {
+  "year": 2019,
+  "ctx": "First, consistent with longstanding findings (Murdock, 1962), recall probability for primacy items was higher than that for non-primacy items (main effect of item position in a 2-way repeated-measures ANOVA with factors item position (primacy/non-primacy items) and stimulation condition (ES/ NS),…"
+ },
+ {
+  "year": 2019,
+  "ctx": "First, consistent with longstanding findings (Murdock, 1962), recall probability for primacy items was higher than that for non-primacy items (main effect of item position in a 2-way repeated-measures ANOVA with factors item position (primacy/non-primacy items) and stimulation condition (ES/ NS), F(1,336) 49."
+ },
+ {
+  "year": 2019,
+  "ctx": "Prior research suggests that salient information is often attended to first, processed at a deep level, and rehearsed often (Krosnick and Alwin 1987; Murdock 1962)."
+ },
+ {
+  "year": 2019,
+  "ctx": "The scrambling of the scales was designed to subvert any possible primacy and recency effects during the study [25]."
+ },
+ {
+  "year": 2019,
+  "ctx": "In addition to the end and beginning of an experience, sometimes the peak moments of the experience have a strong influence and can be recalled with a higher probability, which is called the peak effect [4]."
+ },
+ {
+  "year": 2019,
+  "ctx": "Brain regions where reduced signal intensity significantly correlated with poor accuracy of primacy at a) Learning, b) SD and c) LD."
+ },
+ {
+  "year": 2019,
+  "ctx": "The present study systematically studied and found support for distinct neuroanatomical correlates for SPE at Learning, SD, and LD."
+ },
+ {
+  "year": 2019,
+  "ctx": "Overview of the VBM results demonstrating the cluster- and peak-level statistics for the three effects of interest (primacy, middle and recency) in the different VBM analyses (a) Learning, (b) Short Delay and (c) Long Delay and (d) the difference scores (Long Delay— Learning)."
+ },
+ {
+  "year": 2019,
+  "ctx": "The goals of the present study were to systematically determine the functional neuroanatomy of SPE at Learning, at SD, and at LD recall in healthy individuals and patients with Major and Minor Neurocognitive disorders."
+ },
+ {
+  "year": 2019,
+  "ctx": "Three separate models tested the neuroanatomical correlates of primacy, middle and recency item performance at Learning, (2) SD and (3) LD."
+ },
+ {
+  "year": 2019,
+  "ctx": "Performance accuracy for primacy, middle and recency serial list positions at Learning, Short Delay (SD) and Long Delay (LD) on the California Verbal Learning Test."
+ },
+ {
+  "year": 2019,
+  "ctx": "The primacy progression denotes that at Learning, items may not have been reported but were semantically encoded and hence available on later delay."
+ },
+ {
+  "year": 2019,
+  "ctx": "Three separate models tested the neuroanatomical correlates of primacy, middle and recency item performance at (1) Learning, (2) SD and (3) LD."
+ },
+ {
+  "year": 2019,
+  "ctx": "We systematically map the neuroanatomical correlates of each SPE across Learning, Short delay (SD) and Long delay (LD) recall."
+ },
+ {
+  "year": 2019,
+  "ctx": "To address this aim, we first calculated three SPE difference scores of primacy, middle, and recency positions for each participant (%-correct at LD – %-correct at Learning, Fig."
+ },
+ {
+  "year": 2019,
+  "ctx": "We found a significant main effect of List Position (F(2,254) = 3."
+ },
+ {
+  "year": 2019,
+  "ctx": "There also was a significant main effect of Time (F(2,254) = 3."
+ },
+ {
+  "year": 2019,
+  "ctx": "(b) The accuracy of primacy items at each time point (Learning, SD, and LD) for healthy controls (blue line) and patients (red line)."
+ },
+ {
+  "year": 2019,
+  "ctx": "All Accuracy scores were submitted to a mixed model analysis of covariance with group (HC, PAT) as the between-subject variable, and list position (primacy, middle, recency) and time (Learning, SD, LD) as within-subjects variables."
+ },
+ {
+  "year": 2019,
+  "ctx": "While individual SPE measures at Learning, SD, and LD were associated with distinct neuroanatomical coordinates, we newly demonstrate that the primacy progression measure may be a particularly sensitive cognitive-biomarker differentiating controls from of incipient AD-related pathology."
+ },
+ {
+  "year": 2019,
+  "ctx": "We examined serial position effects (e.g., Glanzer & Cunitz, 1966; Murdock, 1962) for offloaded information as a test of whether offloading mirrors the recall patterns of intentional/ directed forgetting."
+ },
+ {
+  "year": 2019,
+  "ctx": "Free recall tasks consistently produce serial position effects characterized by enhanced recall for beginning-of-list items (primacy) and end-of-list items (recency) relative to middle items (e.g., Glanzer & Cunitz, 1966; Murdock, 1962)."
+ },
+ {
+  "year": 2019,
+  "ctx": "This leads to the common finding of more pronounced recency than primacy in immediate free recall of longer lists (Murdock, 1962) as well as with continual distractor lists (Watkins et al., 1989)."
+ },
+ {
+  "year": 2019,
+  "ctx": "This leads to the common finding of more pronounced recency than primacy in immediate free recall of longer lists (Murdock, 1962) as well as with continual distractor lists (Watkins et al."
+ },
+ {
+  "year": 2019,
+  "ctx": "The relative strength of primacy and recency is not constant however (B. B. Murdock, 1962)."
+ },
+ {
+  "year": 2019,
+  "ctx": "In addition, participants exhibit a primacy effect such that items at the beginning of a studied list are more likely to be recalled (B. B. Murdock, 1962)."
+ },
+ {
+  "year": 2019,
+  "ctx": "Serial position effects occur in free recall when items presented early on a list (primacy) and items presented at the end of a list (recency) are remembered better than items in the middle (Murdock, 1962)."
+ },
+ {
+  "year": 2019,
+  "ctx": "The first and last were masking blocks that were included to\nprevent primacy and recency effects (Murdock, 1962) and that consisted of 20 mask compositional words."
+ },
+ {
+  "year": 2019,
+  "ctx": "Additionally, we prepared another 20 fixed compositional words (masks) that were used in the first and last block of the flash presentation to prevent primacy and recency effects (Murdock, 1962)."
+ },
+ {
+  "year": 2019,
+  "ctx": "The first and last were masking blocks that were included to prevent primacy and recency effects (Murdock, 1962) and that consisted of 20 mask compositional words."
+ },
+ {
+  "year": 2019,
+  "ctx": "It is possible that the arrangement of spots in the YouTube condition (single instead of blockwise) is an advantage: Primacy and recency effects can cause memory to be stronger for items presented first or last in a sequence compared to items presented in the middle of a sequence (Murdock, 1962)."
+ },
+ {
+  "year": 2019,
+  "ctx": "In current theories of memory, recall of items from the primacy region is attributed to multiple rehearsals that items in the initial positions of the study lists receive and are considered to be recalled from long-term memory (Atkinson & Shiffrin, 1968; Murdock, 1962; Rundus & Atkinson, 1970)."
+ },
+ {
+  "year": 2019,
+  "ctx": "The serial position effect in free recall is the finding that participants tend to recall more items from the primacy and recency regions of the serial position curve compared to recall of items from the middle prerecency region (Glanzer & Cunitz, 1966; Murdock, 1962; Postman & Phillips, 1965)."
+ },
+ {
+  "year": 2019,
+  "ctx": "However, those assumptions are questionable according to studies on human cognition, see, e.g., [8]."
+ },
+ {
+  "year": 2019,
+  "ctx": "Decades of research in cognitive psychology demonstrate that human timing and memory behavior exhibit the same properties on a wide range of timescales (Murdock, 1962; Glenberg et al., 1980; Rakitin et al., 1998; Howard, Youker, & Venkatadass, 2008)."
+ },
+ {
+  "year": 2019,
+  "ctx": "Indicative of a well-known recency effect (Murdock, 1962; Gershberg and Shimamura, 1994), participants scored better for questions concerning the last third of the text, compared to the first and\nTABLE 3 | Factual Recall Questionnaire: Rate of correct responses (%)."
+ },
+ {
+  "year": 2019,
+  "ctx": "SPCs, (e.g., Ward et al., 2003; Ward & Maylor, 2005; Unsworth et al., 2011; Bousfield et al., 1958; Jahnke, 1965), the recency effect usually tends to be larger than the primacy effect (Murdock, 1962; Healey & Kahana, 2014)."
+ },
+ {
+  "year": 2019,
+  "ctx": "SPCs reveal the overall probability of successfully recalling an item as a function of serial position and also typically show both a primacy and a recency effect (Murdock, 1962)."
+ },
+ {
+  "year": 2019,
+  "ctx": "Classical studies such as Murdock (1962) used highly practiced subjects who have completed multiple sessions of the task, and it is known that with practice subjects tend to shift from a primacy to a recency strategy (Unsworth et al., 2011; Dallett, 1963; Hasher, 1973; Goodwin, 1976)."
+ },
+ {
+  "year": 2019,
+  "ctx": "A second challenge is taking order effects [40] into account, i.e., the well-established tendency of human beings to place more attention and emphasis on items at the top 1 of a ranked list."
+ },
+ {
+  "year": 2019,
+  "ctx": "However, the results are actually quite consistent with the buffer model accounts of classical results such as those of Rundus (1971) and Murdock (1962)."
+ },
+ {
+  "year": 2019,
+  "ctx": "Performance on each individual word indicated a primacy effect (Murdock, 1962) such children correctly identified the first (76% correct) and second (67"
+ },
+ {
+  "year": 2019,
+  "ctx": "The quantitative details of this qualitative regularity, however, depend on details of the task, including how many items are studied and the time interval between their presentation (Murdock 1962)."
+ },
+ {
+  "year": 2019,
+  "ctx": "Intermediate items are more often forgotten [31]."
+ },
+ {
+  "year": 2019,
+  "ctx": "…resulted in stronger traces in LTS. Consistent with this dual-store interpretation of the serial position curve, variables such as the list length (Murdock, 1962), the presentation rate (Glanzer & Cunitz, 1966), and word frequency (Sumby, 1963) were assumed to affect selectively the LTS component…"
+ },
+ {
+  "year": 2019,
+  "ctx": "Extended recency effects are also shown in other immediate memory tasks such as the digit probe task (Waugh & Norman, 1965), running memory span (Hockey, 1973), and of course IFR of longer lists (Murdock, 1962; Ward et al., 2010)."
+ },
+ {
+  "year": 2019,
+  "ctx": "…distinction between STS and LTS is most commonly evidenced by the serial position curve in immediate free recall (IFR, e.g., Glanzer, 1972; Murdock, 1962; Glanzer & Cunitz, 1966; Postman & Phillips, 1965), a task in which participants are presented with a list of words, one at a time, and…"
+ },
+ {
+  "year": 2019,
+  "ctx": "Following Standing [1973], at the end of presentation we showed each participant a pair of words, one from the list just presented (target) and one randomly chosen lure, requesting to report which word was from the list."
+ },
+ {
+  "year": 2019,
+  "ctx": "For example, recall performance at initial SPs reflects transfer of information to long-term memory (LTM), and recall performance at final SPs reflects retrieval from STM (Glanzer & Cunitz, 1966; Murdock, 1962)."
+ },
+ {
+  "year": 2019,
+  "ctx": "By comparing the native and accented word recall in the initial and final SPs, we examined the impact of accents on the transfer of an item into LTM and its retrieval from STM (Glanzer & Cunitz, 1966; Murdock, 1962)."
+ },
+ {
+  "year": 2018,
+  "ctx": "…a sequence of different subsecond intervals and reproduces one of the intervals, the precision of the interval reproduction follows a tendency similar to the serial position effect (Murdock, 1962), where the first and last items are recalled better (i.e., primacy and recency effects, respectively)."
+ },
+ {
+  "year": 2018,
+  "ctx": "Episodic memory was assessed by tests of free recall (Murdock, 1962) and recognition (Nyberg et al., 1996)."
+ },
+ {
+  "year": 2018,
+  "ctx": "Episodic Memory Episodic memory was assessed by tests of free recall (Murdock, 1962) and recognition (Nyberg et al."
+ },
+ {
+  "year": 2018,
+  "ctx": "First,\t\r  in\t\r  line\t\r  with\t\r  long-­‐standing\t\r  findings\t\r  (42),\t\r  recall\t\r  probability\t\r  for\t\r  primacy\t\r  items\t\r  was\t\r  higher\t\r  than\t\r  that for\t\r  non-­‐primacy\t\r  items\t\r  (main\t\r  effect\t\r  of\t\r  item\t\r  position\t\r  in\t\r  a\t\r  2-­‐way\t\r  analysis\t\r  of\t\r  variance\t\r  (ANOVA)\t\r  with\t\r  factors"
+ },
+ {
+  "year": 2018,
+  "ctx": "For example, with serially presented items, the first and last items experienced are better remembered (i.e., primacy and recency effects; Murdock, 1962; Wright et al., 1985)."
+ },
+ {
+  "year": 2018,
+  "ctx": "…recall more words that are presented early in the list (a recall advantage known as the primacy effect) and more words that are presented late in the list (a recall advantage known as the recency effect) than items presented in the middle of the list (e.g., Deese, 1957; Jahnke 1965; Murdock, 1962)."
+ },
+ {
+  "year": 2018,
+  "ctx": "By contrast, variables such as the list length (e.g., Murdock, 1962), the presentation rate (e.g., Glanzer & Cunitz, 1966), and different characteristics of the word pool, such as the word frequency (Sumby, 1963), have been shown to influence the early and middle list items, with little or no…"
+ },
+ {
+  "year": 2018,
+  "ctx": "The serial position effect (SPE) [1,2] is a well-established psychological phenomenon of free recall."
+ },
+ {
+  "year": 2018,
+  "ctx": "In an exploratory follow-up ANOVA we investigated the effect of serial position in order to assess whether left DLPFC stimulation affected the likelihood of recalling an item as a function of its list position (Murdock, 1962)."
+ },
+ {
+  "year": 2018,
+  "ctx": "To this end, serial position curves were calculated (Murdock, 1962)."
+ },
+ {
+  "year": 2018,
+  "ctx": "First, it helps to avoid a primacy and recency effect (Murdock, 1962)."
+ },
+ {
+  "year": 2018,
+  "ctx": "Finding 15: Larger for short lists\nList length is another influential variable in recall experiments (Murdock, 1962)."
+ },
+ {
+  "year": 2018,
+  "ctx": "…in the 1 sec presentation rate condition in Experiment 1 of Murdock and Walker (1969). i Written vs. spoken recall in Murdock\nand Walker (1969) and Murdock (1962) respectively (20-item lists presented auditorily for 1 sec/item in both cases). j List length 20 vs. 40 in Murdock (1962, 1…"
+ },
+ {
+  "year": 2018,
+  "ctx": "Figure 2j compares lists of 20 versus 40 items in the Murdock (1962) dataset."
+ },
+ {
+  "year": 2018,
+  "ctx": "2i comparing data from Murdock and Walker (1969) and Murdock (1962) (both immediate recall), the effect of spoken versus written recall is small, suggesting that contiguity does not depend on having previous recalls visually available for use as cues."
+ },
+ {
+  "year": 2018,
+  "ctx": "…the position of the items in the word list, because recall accuracy varies as a function of the item’s position in the study list, i.e., it is greater for words at the beginning (primacy effect) and the end (recency effect) of the list compared to the mid-list (intermediate) items (Murdock, 1962)."
+ },
+ {
+  "year": 2018,
+  "ctx": ", it is greater for words at the beginning (primacy effect) and the end (recency effect) of the list compared to the mid-list (intermediate) items (Murdock, 1962)."
+ },
+ {
+  "year": 2018,
+  "ctx": "Furthermore, the results of Experiment 2 revealed classical serial position effects (Deese and Kaufman, 1957; Murdock, 1962) on the masking release due to both same-sentence and different-sentence maskerpriming among both the younger and older listeners."
+ },
+ {
+  "year": 2018,
+  "ctx": "These positional effects appear to be consistent with the classical serial position effects (Deese and Kaufman, 1957; Murdock, 1962)."
+ },
+ {
+  "year": 2018,
+  "ctx": "Recency effects (Murdock, 1962) also favor compression generally and compression in a WPL environment in particular, as a learner can more readily recall the events of yesterday versus the events of last week; thus, the varied activity schedule of WPL promotes emotions and learning efficacy."
+ },
+ {
+  "year": 2018,
+  "ctx": "Less time between sessions presents opportunities to build behavioral habits and repertoires, and to take advantage of recency effects (Murdock, 1962) to apply and personally integrate concepts in the classroom."
+ },
+ {
+  "year": 2018,
+  "ctx": "Our Bayesian network model of the person’s WM has to be previously fitted to the user’s characteristics; it is based on the premise that, when sequential data is presented, a “U” curve of recall appears (called the “serial position effect” [15]), i."
+ },
+ {
+  "year": 2018,
+  "ctx": "Contextual factors such as list length and strength, category length and strength, serial position, and pure and mixed lists (e.g., Gregg, Montgomery, & Castano, 1980; Murdock, 1962; Ratcliff, Clark, & Shiffrin, 1990; Shiffrin, Huber, & Marinelli, 1995) have been well studied and contribute significantly to memorial performance."
+ },
+ {
+  "year": 2018,
+  "ctx": "This is potentially problematic 5 because self-reported behaviour measures are vulnerable to cognitive (e.g., Murdock, 1962), 6 affective (e.g., Mayer, McCormick, & Strong, 1995) and self-presentation biases (e.g., Gur & 7 Sackeim, 1979; Paulhus & Reid, 1991)."
+ },
+ {
+  "year": 2018,
+  "ctx": "Given that objective behaviour measures are less 4 vulnerable to potential cognitive (e.g., Murdock, 1962), affective (e.g., Mayer, et al, 1995) 5 and self-presentation biases (e.g., Gur & Sackeim, 1979; Paulhus & Reid, 1991) than are self-6 reported measures, it means that the findings can be held…"
+ },
+ {
+  "year": 2018,
+  "ctx": "Effects that dem-\nSocial Psychological Bulletin | 2569-653X https://doi.org/10.5964/spb.v13i3.28590\nonstrate the interfering effect of stimuli presented before the to-be-learned pairs are the primacy effect (e.g., Murdock, 1962) and the proactive inhibition effect (Keppel & Underwood, 1962)."
+ },
+ {
+  "year": 2018,
+  "ctx": "It is worth noting two other aspects that are not part of the simple model described\nbeginning or end of a set are remembered relative to other items presented in the same session (e.g. Murdock 1962)."
+ },
+ {
+  "year": 2018,
+  "ctx": "3B; Kahana, 1996); and which events they were 210 likely to remember overall (serial position recall analyses; Fig. 3C; Murdock, 1962)."
+ },
+ {
+  "year": 2018,
+  "ctx": "In traditional episodic memory experiments (e.g., list-learning or trial-based experiments; Kahana, 1996; Murdock, 1962), remembering is often cast as a discrete, binary operation: each studied item may be separated from the rest of one’s experience and labeled as having been either recalled or…"
+ },
+ {
+  "year": 2018,
+  "ctx": "What does it mean to remember something? In traditional episodic memory experiments (e.g., list20 learning or trial-based experiments; Kahana, 1996; Murdock, 1962), remembering is often cast as a 21 discrete, binary operation: each studied item may be separated from the rest of one’s experience and 22 labeled as having been either recalled or forgotten."
+ },
+ {
+  "year": 2018,
+  "ctx": "SPCs (Murdock, 1962) reflect the proportion of participants that 659 remember each item as a function of the item’s serial position during encoding."
+ },
+ {
+  "year": 2018,
+  "ctx": "Serial position curve (SPC) SPCs (Murdock, 1962) reflect the proportion of participants that remember each item as a function of the item’s serial position during encoding."
+ },
+ {
+  "year": 2018,
+  "ctx": "In traditional episodic memory experiments (e.g., list-learning or trial-based experiments; Murdock, 1962; Kahana, 1996), remembering is often cast as a discrete and binary operation: each studied item may be separated from the rest of one’s experiences, and that item may be labeled as having been…"
+ },
+ {
+  "year": 2018,
+  "ctx": "What does it mean to remember something? In traditional episodic memory experiments (e.g., list-learning or trial-based experiments; Murdock, 1962; Kahana, 1996), remembering is often cast as a discrete and binary operation: each studied item may be separated from the rest of one’s experiences, and that item may be labeled as having been recalled versus forgotten."
+ },
+ {
+  "year": 2018,
+  "ctx": "S4B; Kahana, 1996); and which events they were likely to remember overall (serial position recall analyses; Fig. S4C; Murdock, 1962)."
+ },
+ {
+  "year": 2018,
+  "ctx": "The recency effect, the benefit for late list items, can be abolished in the face of interference (Glanzer & Cunitz, 1966), is unchanged based on list presentation rate (Murdock, 1962), and is selectively susceptible to acoustic or phonological errors (Craik, 1968)."
+ },
+ {
+  "year": 2018,
+  "ctx": "To look at the distribution of correct responses as a function of presentation position at encoding, we computed serial position curves (Laming, 2010; Murdock, 1962)."
+ },
+ {
+  "year": 2018,
+  "ctx": "Previous work with the list-learning task identified dissociable primacy and recency effects by examining errors associated with words in initial and late positions in lists of otherwise unrelated words (Deese & Kaufman, 1957; Glanzer & Cunitz, 1966; Murdock, 1962)."
+ },
+ {
+  "year": 2018,
+  "ctx": "The primacy effect, the benefit for early list items, is relatively resilient to interference (Glanzer & Cunitz, 1966), benefits from slower presentation rates (Murdock, 1962), and is predominately susceptible to semantic errors (Craik & Levy, 1970)."
+ },
+ {
+  "year": 2018,
+  "ctx": "This well-established serial position effect (Capitani et al., 1992; Craik & Levy, 1970; Glanzer & Cunitz, 1966; Laming, 2010; Murdock, 1962; Nipher, 1877; Postman & Phillips, 1965) was selectively diminished in Experiment 2 by inserting a task-filled retention interval prior to recall which…"
+ },
+ {
+  "year": 2018,
+  "ctx": "This well-established serial position effect (Capitani et al., 1992; Craik & Levy, 1970; Glanzer & Cunitz, 1966; Laming, 2010; Murdock, 1962; Nipher, 1877; Postman & Phillips, 1965) was selectively diminished in Experiment 2 by inserting a task-filled retention interval prior to recall which reduced memory accuracy for sublist C."
+ },
+ {
+  "year": 2018,
+  "ctx": "The\naim of this group was to control for sequence effects such as primacy or recency effects (Murdock, 1962)."
+ },
+ {
+  "year": 2018,
+  "ctx": "This difference is due to the recency effect (Ashcraft, 2002; Murdock, 1962), whereby individuals are particularly affected by events that have just happened."
+ },
+ {
+  "year": 2018,
+  "ctx": "…et al., 1986; Schraudolph et al., 1994; Sutton and Barto, 1998), we found that heterogeneous action sequences are learned in a non-back-propagation manner, where the start and stop actions represent highly significant elements (Jin and Costa, 2010; Murdock, 1962; Roediger and DeSoto, 2014)."
+ },
+ {
+  "year": 2018,
+  "ctx": "Together, these learning data are incompatible with the simple back-propagation rule in reinforcement learning theory and underscore the significance of the start and stop elements of a sequence (Jin and Costa, 2010; Murdock, 1962)."
+ },
+ {
+  "year": 2018,
+  "ctx": "In addition, the primacy and recency components of word lists are known to be robust to interference, availability, and processing issues that could undermine later recall [35], and future work should consider evaluating this factor for added clarity; especially, as indicated previously, the shorter the retention interval, the less likely PI will play an appreciable role in short-term memory processing."
+ },
+ {
+  "year": 2018,
+  "ctx": "In Murdock (1962) reported his classic findings on the relation between serial position and recall probability."
+ },
+ {
+  "year": 2018,
+  "ctx": "…end of the post or the very beginning of the post (given that readers often emphasize or remember the first information they encounter or the most recent; Murdock, 1962), (b) include any series of helpseeking sentences together in one location, and (c) avoid including any background information."
+ },
+ {
+  "year": 2018,
+  "ctx": "Cela est dû à l’effet de récence (Ashcraft, 2002 ; Murdock 1962), qui explique que les individus sont particulièrement affectés par des événements venant juste d’arriver."
+ },
+ {
+  "year": 2018,
+  "ctx": "For that purpose, we additionally refer to explicit measures of WM, ie, response latency and omission errors from the N-back task and concept failures from the Wisconsin Card Sorting Test (WCST)."
+ },
+ {
+  "year": 2018,
+  "ctx": "The current study sought to elucidate the influence of WM on verbal episodic memory encoding by means of the serial position effect of free recall 24 and the semantic cluster ratio (SCR) in ARMS and FE individuals."
+ },
+ {
+  "year": 2018,
+  "ctx": "According to the view that the rec effect reflects maintenance WM, 24,26–28 we provided additional evidence for a compromised WM in FE and ARMS patients."
+ },
+ {
+  "year": 2018,
+  "ctx": "The recency (rec) recall probability from the serial position curve is used as a surrogate measure of WM capacity 24,26–28 and is related to learning curves derived from the California Verbal Learning Test (CVLT)."
+ },
+ {
+  "year": 2018,
+  "ctx": "As expected (Murdock, 1962), overall recall probabilities for primacy items were higher than for nonprimacy items."
+ },
+ {
+  "year": 2018,
+  "ctx": "…extent to which the computer-generated transcripts recovered (with high fidelity, treating the human-generated transcripts as the “ground truth”) the major patterns in free recall dynamics that have been well reported in the literature (Murdock 1962; Kahana 1996, 2012, 2017; Manning et al. 2015)."
+ },
+ {
+  "year": 2018,
+  "ctx": "Prior work on free recall has established that participants are more likely to remember words that they studied at the beginning or end of a list, relative to middle words (these are often referred to as the primacy effect and recency effect , respectively; Murdock (1962))."
+ },
+ {
+  "year": 2018,
+  "ctx": "…tests of human memory performance is the serial position curve, especially when memory is tested immediately after learning: performance is typically better for stimuli learned either at the beginning (primacy) or at the end (recency) of a study list, as compared to the middle (e.g. Murdock, 1962)."
+ },
+ {
+  "year": 2018,
+  "ctx": "2013), that order memory is impacted by recency, contiguity, and primacy effects (Howard et al., 2015; Murdock, 1962), and an enormous litany of other discoveries, all which make the same crucial assumption – that time need always be sampled unidirectionally and in isolation of space, despite the fact that space and time are being constantly sampled together and memory for temporal events may involve more flexible representations than just a unidirectional sampling allows us to examine."
+ },
+ {
+  "year": 2018,
+  "ctx": "…distances across time (DuBrow & Davachi, 2013), that order memory is impacted by recency, contiguity, and primacy effects (Howard et al., 2015; Murdock, 1962), and an enormous litany of other discoveries, all which make the same crucial assumption – that time need always be sampled…"
+ },
+ {
+  "year": 2018,
+  "ctx": "These heuristic-driven behavioral patterns, known as order effects , are among the most robust effects ever discovered in the psychological and behavioral sciences, and imbue the entity ranking the content with the power to change attitudes, beliefs, and behavior [3, 20, 21, 34, 55]."
+ },
+ {
+  "year": 2018,
+  "ctx": "The performance of the models can be related to the serial position effect (Murdock, 1962)."
+ },
+ {
+  "year": 2018,
+  "ctx": "It consisted of three sessions, each corresponding to a cognitive load level, ordered randomly for each participant, to counterbalance experimental condition and avoid recency and primacy effects (Murdock, 1962)."
+ },
+ {
+  "year": 2018,
+  "ctx": "…are typically measured using self-report questionnaires, which can be susceptible to various cognitive biases, such as primary and recency effects (Murdock, 1962), affective biases such as mood congruent memory effects (e.g., Mayer, McCormick, & Strong, 1995), and self-presentation biases such as…"
+ },
+ {
+  "year": 2018,
+  "ctx": "Second, explicit attitudes are typically measured using self-report questionnaires, which can be susceptible to various cognitive biases, such as primary and recency effects (Murdock, 1962), affective biases such as mood congruent memory effects (e."
+ },
+ {
+  "year": 2018,
+  "ctx": "Because memory for Spaced items in study 1 could have been stronger due to primacy effects [27] and could have influenced choices [28], we conducted study 2 to test whether spacing CAT trials over two days while contracting the within-session lag from day 1 to day 2 and presenting Massed items only…"
+ },
+ {
+  "year": 2018,
+  "ctx": "As expected, free recall varied as a function of serial position of the list (F(23, 506) 6.82, p .001, 2 .237, Figure 4A), where items at the beginning and the\nend of the list were more likely to be recalled than items in the middle of the list (Murdock, 1962)."
+ },
+ {
+  "year": 2018,
+  "ctx": "237, Figure 4A), where items at the beginning and the end of the list were more likely to be recalled than items in the middle of the list (Murdock, 1962)."
+ },
+ {
+  "year": 2018,
+  "ctx": "Importantly, Anderson & Schooler (1991) showed that this model could capture two well-known memory retrieval effects: the recency effect (Murdock 1962)—whereby people who study lists of items remember items presented toward the end better than those presented in the middle—and the word-frequency…"
+ },
+ {
+  "year": 2018,
+  "ctx": "Importantly, Anderson & Schooler (1991) showed that this model could capture two well-known memory retrieval effects: the recency effect (Murdock 1962)—whereby people who study lists of items remember items presented toward the end better than those presented in the middle—and the word-frequency effect (Gregg 1976)—whereby high-frequency words are remembered better than low-frequency words."
+ },
+ {
+  "year": 2018,
+  "ctx": "The primacy effect refers to the finding that, all else equal, stimuli from the beginning of a list are better remembered than stimuli from the end of a list [88, 89]."
+ },
+ {
+  "year": 2018,
+  "ctx": "of recall, which is a robust and fundamental property of human memory [22,23]."
+ },
+ {
+  "year": 2018,
+  "ctx": "Specifically, we examined the u-shaped curve of recall, which is a robust and fundamental property of human memory [22,23]."
+ },
+ {
+  "year": 2018,
+  "ctx": "For example, items presented first and last tend to be better recalled (Glanzer & Cunitz, 1966; Murdock, 1962), which are called primacy and recency effects, respectively."
+ },
+ {
+  "year": 2017,
+  "ctx": "1 Order Effects and Ranking Algorithms Order effects are among the strongest and most reliable effects ever discovered in the psychological sciences [29, 88]."
+ },
+ {
+  "year": 2017,
+  "ctx": "Other examples of such a Bset-size effect^ include the Bfan effect^ (Anderson, 1974) and the decrease in free recall performance with list length (Murdock, 1962)."
+ },
+ {
+  "year": 2017,
+  "ctx": "…participants tend to recall more words from early list positions (the primacy effect) and later list positions (the recency effect) than the middle of the list (sometimes known as the asymptote) such that there is a U-shaped serial position curve (e.g., Deese, 1957; Jahnke, 1965; Murdock, 1962)."
+ },
+ {
+  "year": 2017,
+  "ctx": "The list length effect is well established in free recall: as the list length effect increases, so the number of\nwords recalled increases, but the proportion of words recalled decreases (e.g., Murdock, 1962; Roberts, 1972; Ward, 2002)."
+ },
+ {
+  "year": 2017,
+  "ctx": "This method has been widely used to study memory in tasks such as free recall (e.g., Murdock, 1962), serial recall (e.g., Drewnowski & Murdock, 1980), recognition memory (e.g., Ratcliff, Clark, & Shiffrin, 1990), and tests of implicit memory (e.g., Hayman & Tulving, 1989)."
+ },
+ {
+  "year": 2017,
+  "ctx": "Specifically, results from laboratory studies have shown that participants tend to recall more words from early list positions (the primacy effect) and later list positions (the recency effect) than the middle of the list (sometimes known as the asymptote) such that there is a U-shaped serial position curve (e.g., Deese, 1957; Jahnke, 1965; Murdock, 1962)."
+ },
+ {
+  "year": 2017,
+  "ctx": "Memory is also imperfect, people more easily recall more recent and primary events compared to events that occur in the middle [102]."
+ },
+ {
+  "year": 2017,
+  "ctx": "According to the serial position effect (Deese and Kaufman, 1957; Murdock and Bennet, 1962), the probability of recall for words at the beginning and the end of a presented list is elevated as opposed to items appearing in the middle of the list."
+ },
+ {
+  "year": 2017,
+  "ctx": "Based on the finding by Murdock and Bennet (1962) that the number of words impacted by the\nserial position effect is independent of the length of the word list (i.e., the primacy effect extending over first 3 to 4 positions and the recency effect extending over last 8 items), positions 5 through 32…"
+ }
+]

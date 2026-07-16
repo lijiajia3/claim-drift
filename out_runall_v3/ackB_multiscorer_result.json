@@ -1,0 +1,10 @@
+{
+ "per_model": {
+  "Qwen/Qwen2.5-72B-Instruct": 9,
+  "deepseek-ai/DeepSeek-V3": 10,
+  "deepseek-ai/DeepSeek-V4-Flash": 8,
+  "LongCat-2.0": 9
+ },
+ "n": 150,
+ "majority_pos": 7
+}

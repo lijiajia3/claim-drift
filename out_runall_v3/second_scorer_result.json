@@ -1,0 +1,13 @@
+{
+ "model": "deepseek-ai/DeepSeek-V3",
+ "n_sentence_pairs": 8238,
+ "assert_agreement": 0.8649,
+ "s_pearson": 0.5738,
+ "level_refuted_ds": 0.7,
+ "level_robust_ds": 0.6997,
+ "n_claims": {
+  "robust": 39,
+  "refuted": 63
+ },
+ "seconds": 4148.5
+}

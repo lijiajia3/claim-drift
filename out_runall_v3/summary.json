@@ -1,0 +1,1861 @@
+{
+ "seeds": [
+  {
+   "name": "v3_reference_points_and_effort_provision",
+   "arm": "refuted",
+   "error": "no_cache"
+  },
+  {
+   "name": "v3_the_lure_of_authority_motivation_and_inc",
+   "arm": "robust",
+   "citationCount": 334,
+   "birth": 2013,
+   "beta": 0.0069,
+   "implied_s0": 0.537,
+   "r2": 0.013,
+   "mean_s": 0.549,
+   "n_assert": 99,
+   "n_all": 190,
+   "bins": 9,
+   "g_range": [
+    1,
+    11
+   ]
+  },
+  {
+   "name": "v3_a_continuous_dilemma",
+   "arm": "robust",
+   "error": "no_cache"
+  },
+  {
+   "name": "v3_slow_to_anger_and_fast_to_forgive_cooper",
+   "arm": "robust",
+   "citationCount": 365,
+   "birth": 2012,
+   "beta": 0.0174,
+   "implied_s0": 0.538,
+   "r2": 0.566,
+   "mean_s": 0.582,
+   "n_assert": 90,
+   "n_all": 279,
+   "bins": 8,
+   "g_range": [
+    1,
+    12
+   ]
+  },
+  {
+   "name": "v3_deferred_compensation_in_multiperiod_lab",
+   "arm": "refuted",
+   "citationCount": 44,
+   "birth": 2011,
+   "beta": null,
+   "note": "few_assert",
+   "n_assert": 10,
+   "n_all": 26
+  },
+  {
+   "name": "v3_happiness_and_time_preference_the_effect",
+   "arm": "refuted",
+   "citationCount": 300,
+   "birth": 2011,
+   "beta": 0.0181,
+   "implied_s0": 0.589,
+   "r2": 0.147,
+   "mean_s": 0.636,
+   "n_assert": 118,
+   "n_all": 212,
+   "bins": 7,
+   "g_range": [
+    1,
+    13
+   ]
+  },
+  {
+   "name": "v3_organ_allocation_policy_and_the_decision",
+   "arm": "robust",
+   "citationCount": 124,
+   "birth": 2012,
+   "beta": null,
+   "note": "narrow",
+   "n_assert": 25,
+   "n_all": 109,
+   "mean_s": 0.606,
+   "bins": 2
+  },
+  {
+   "name": "v3_thar_she_bursts_reducing_confusion_reduc",
+   "arm": "robust",
+   "citationCount": 294,
+   "birth": 2012,
+   "beta": -0.0006,
+   "implied_s0": 0.577,
+   "r2": 0.0,
+   "mean_s": 0.573,
+   "n_assert": 130,
+   "n_all": 274,
+   "bins": 8,
+   "g_range": [
+    0,
+    10
+   ]
+  },
+  {
+   "name": "v3_coordination_in_the_presence_of_asset_ma",
+   "arm": "robust",
+   "citationCount": 32,
+   "birth": 2011,
+   "beta": null,
+   "note": "few_assert",
+   "n_assert": 8,
+   "n_all": 16
+  },
+  {
+   "name": "v3_last_place_aversion_evidence_and_redistr",
+   "arm": "refuted",
+   "citationCount": 328,
+   "birth": 2014,
+   "beta": -0.0409,
+   "implied_s0": 0.642,
+   "r2": 0.593,
+   "mean_s": 0.537,
+   "n_assert": 167,
+   "n_all": 264,
+   "bins": 10,
+   "g_range": [
+    0,
+    11
+   ]
+  },
+  {
+   "name": "v3_imperfect_public_monitoring_with_costly_",
+   "arm": "robust",
+   "citationCount": 156,
+   "birth": 2012,
+   "beta": 0.0215,
+   "implied_s0": 0.518,
+   "r2": 0.383,
+   "mean_s": 0.568,
+   "n_assert": 74,
+   "n_all": 150,
+   "bins": 6,
+   "g_range": [
+    1,
+    10
+   ]
+  },
+  {
+   "name": "v3_screening_competition_and_job_design_eco",
+   "arm": "robust",
+   "citationCount": 143,
+   "birth": 2012,
+   "beta": 0.0182,
+   "implied_s0": 0.53,
+   "r2": 0.287,
+   "mean_s": 0.571,
+   "n_assert": 38,
+   "n_all": 100,
+   "bins": 3,
+   "g_range": [
+    2,
+    8
+   ]
+  },
+  {
+   "name": "v3_participation",
+   "arm": "robust",
+   "error": "no_cache"
+  },
+  {
+   "name": "v3_the_potential_of_social_identity_for_equ",
+   "arm": "refuted",
+   "citationCount": 389,
+   "birth": 2011,
+   "beta": 0.0217,
+   "implied_s0": 0.556,
+   "r2": 0.411,
+   "mean_s": 0.617,
+   "n_assert": 135,
+   "n_all": 330,
+   "bins": 10,
+   "g_range": [
+    0,
+    13
+   ]
+  },
+  {
+   "name": "v3_on_the_selection_of_arbitrators",
+   "arm": "robust",
+   "citationCount": 61,
+   "birth": 2014,
+   "beta": null,
+   "note": "few_assert",
+   "n_assert": 5,
+   "n_all": 59
+  },
+  {
+   "name": "v3_gift_exchange_versus_monetary_exchange_t",
+   "arm": "refuted",
+   "citationCount": 93,
+   "birth": 2014,
+   "beta": null,
+   "note": "narrow",
+   "n_assert": 23,
+   "n_all": 52,
+   "mean_s": 0.504,
+   "bins": 2
+  },
+  {
+   "name": "v3_the_economics_of_credence_goods_an_exper",
+   "arm": "robust",
+   "citationCount": 329,
+   "birth": 2011,
+   "beta": -0.0044,
+   "implied_s0": 0.604,
+   "r2": 0.054,
+   "mean_s": 0.591,
+   "n_assert": 117,
+   "n_all": 304,
+   "bins": 9,
+   "g_range": [
+    1,
+    14
+   ]
+  },
+  {
+   "name": "v3_expectations_as_endowments_evidence_on_r",
+   "arm": "refuted",
+   "citationCount": 342,
+   "birth": 2011,
+   "beta": 0.01,
+   "implied_s0": 0.495,
+   "r2": 0.189,
+   "mean_s": 0.525,
+   "n_assert": 81,
+   "n_all": 185,
+   "bins": 7,
+   "g_range": [
+    1,
+    11
+   ]
+  },
+  {
+   "name": "v3_instructional_manipulation_checks_detect",
+   "arm": "refuted",
+   "citationCount": 3355,
+   "birth": 2009,
+   "beta": null,
+   "note": "few_assert",
+   "n_assert": 14,
+   "n_all": 81
+  },
+  {
+   "name": "v3_experiments_in_wording_questions_ii",
+   "arm": "refuted",
+   "citationCount": 148,
+   "birth": 1941,
+   "beta": -0.0019,
+   "implied_s0": 0.628,
+   "r2": 0.056,
+   "mean_s": 0.572,
+   "n_assert": 45,
+   "n_all": 89,
+   "bins": 4,
+   "g_range": [
+    63,
+    79
+   ]
+  },
+  {
+   "name": "v3_prestige_suggestion_and_attitudes",
+   "arm": "refuted",
+   "citationCount": 103,
+   "birth": 1936,
+   "beta": null,
+   "note": "narrow",
+   "n_assert": 19,
+   "n_all": 37,
+   "mean_s": 0.605,
+   "bins": 2
+  },
+  {
+   "name": "v3_a_single_exposure_to_the_american_flag_s",
+   "arm": "refuted",
+   "citationCount": 123,
+   "birth": 2011,
+   "beta": -0.0076,
+   "implied_s0": 0.607,
+   "r2": 0.057,
+   "mean_s": 0.589,
+   "n_assert": 76,
+   "n_all": 127,
+   "bins": 5,
+   "g_range": [
+    0,
+    13
+   ]
+  },
+  {
+   "name": "v3_mere_exposure_to_money_increases_endorse",
+   "arm": "refuted",
+   "citationCount": 132,
+   "birth": 2013,
+   "beta": 0.0009,
+   "implied_s0": 0.545,
+   "r2": 0.001,
+   "mean_s": 0.546,
+   "n_assert": 89,
+   "n_all": 158,
+   "bins": 6,
+   "g_range": [
+    1,
+    11
+   ]
+  },
+  {
+   "name": "v3_elaboration_enhances_the_imagined_contac",
+   "arm": "refuted",
+   "citationCount": 213,
+   "birth": 2010,
+   "beta": -0.008,
+   "implied_s0": 0.62,
+   "r2": 0.101,
+   "mean_s": 0.599,
+   "n_assert": 179,
+   "n_all": 384,
+   "bins": 10,
+   "g_range": [
+    0,
+    13
+   ]
+  },
+  {
+   "name": "v3_math_male_me_female_therefore_math_ne_me",
+   "arm": "robust",
+   "citationCount": 811,
+   "birth": 2002,
+   "beta": -0.005,
+   "implied_s0": 0.621,
+   "r2": 0.015,
+   "mean_s": 0.579,
+   "n_assert": 116,
+   "n_all": 175,
+   "bins": 7,
+   "g_range": [
+    15,
+    23
+   ]
+  },
+  {
+   "name": "v3_the_framing_of_decisions_and_the_psychol",
+   "arm": "robust",
+   "citationCount": 17578,
+   "birth": 1981,
+   "beta": 0.0009,
+   "implied_s0": 0.557,
+   "r2": 0.02,
+   "mean_s": 0.57,
+   "n_assert": 88,
+   "n_all": 148,
+   "bins": 3,
+   "g_range": [
+    29,
+    45
+   ]
+  },
+  {
+   "name": "v3_measures_of_anchoring_in_estimation_task",
+   "arm": "robust",
+   "citationCount": 761,
+   "birth": 1995,
+   "beta": 0.043,
+   "implied_s0": -0.204,
+   "r2": 0.649,
+   "mean_s": 0.577,
+   "n_assert": 91,
+   "n_all": 195,
+   "bins": 6,
+   "g_range": [
+    20,
+    30
+   ]
+  },
+  {
+   "name": "v3_the_retrospective_gambler_s_fallacy_unli",
+   "arm": "robust",
+   "citationCount": 60,
+   "birth": 2009,
+   "beta": null,
+   "note": "narrow",
+   "n_assert": 17,
+   "n_all": 38,
+   "mean_s": 0.488,
+   "bins": 2
+  },
+  {
+   "name": "v3_response_scales_effects_of_category_rang",
+   "arm": "refuted",
+   "citationCount": 357,
+   "birth": 1985,
+   "beta": 0.0033,
+   "implied_s0": 0.463,
+   "r2": 0.094,
+   "mean_s": 0.505,
+   "n_assert": 90,
+   "n_all": 178,
+   "bins": 9,
+   "g_range": [
+    8,
+    37
+   ]
+  },
+  {
+   "name": "v3_the_current_status_of_american_public_op",
+   "arm": "refuted",
+   "error": "no_cache"
+  },
+  {
+   "name": "v3_power_and_perspectives_not_taken",
+   "arm": "refuted",
+   "error": "no_cache"
+  },
+  {
+   "name": "v3_weight_as_an_embodiment_of_importance",
+   "arm": "refuted",
+   "citationCount": 393,
+   "birth": 2009,
+   "beta": -0.0047,
+   "implied_s0": 0.605,
+   "r2": 0.015,
+   "mean_s": 0.587,
+   "n_assert": 139,
+   "n_all": 222,
+   "bins": 10,
+   "g_range": [
+    2,
+    15
+   ]
+  },
+  {
+   "name": "v3_moral_credentials_and_the_expression_of_",
+   "arm": "refuted",
+   "citationCount": 1107,
+   "birth": 2001,
+   "beta": 0.013,
+   "implied_s0": 0.426,
+   "r2": 0.115,
+   "mean_s": 0.565,
+   "n_assert": 155,
+   "n_all": 225,
+   "bins": 6,
+   "g_range": [
+    18,
+    24
+   ]
+  },
+  {
+   "name": "v3_it_feels_like_yesterday_self_esteem_vale",
+   "arm": "refuted",
+   "citationCount": 330,
+   "birth": 2002,
+   "beta": 0.0006,
+   "implied_s0": 0.55,
+   "r2": 0.001,
+   "mean_s": 0.55,
+   "n_assert": 219,
+   "n_all": 344,
+   "bins": 16,
+   "g_range": [
+    1,
+    23
+   ]
+  },
+  {
+   "name": "v3_availability_a_heuristic_for_judging_fre",
+   "arm": "refuted",
+   "citationCount": 9894,
+   "birth": 1973,
+   "beta": 0.0045,
+   "implied_s0": 0.447,
+   "r2": 0.793,
+   "mean_s": 0.542,
+   "n_assert": 90,
+   "n_all": 152,
+   "bins": 3,
+   "g_range": [
+    31,
+    53
+   ]
+  },
+  {
+   "name": "v3_running_on_empty_neural_signals_for_self",
+   "arm": "robust",
+   "citationCount": 197,
+   "birth": 2007,
+   "beta": -0.0016,
+   "implied_s0": 0.588,
+   "r2": 0.004,
+   "mean_s": 0.577,
+   "n_assert": 47,
+   "n_all": 63,
+   "bins": 5,
+   "g_range": [
+    1,
+    16
+   ]
+  },
+  {
+   "name": "v3_warmer_hearts_warmer_rooms",
+   "arm": "refuted",
+   "citationCount": 43,
+   "birth": 2013,
+   "beta": null,
+   "note": "few_assert",
+   "n_assert": 11,
+   "n_all": 17
+  },
+  {
+   "name": "v3_effects_of_need_for_cognition_on_message",
+   "arm": "refuted",
+   "citationCount": 879,
+   "birth": 1983,
+   "beta": -0.0227,
+   "implied_s0": 0.837,
+   "r2": 0.223,
+   "mean_s": 0.628,
+   "n_assert": 107,
+   "n_all": 174,
+   "bins": 8,
+   "g_range": [
+    32,
+    41
+   ]
+  },
+  {
+   "name": "v3_cloningertextquotesingles_psychobiologic",
+   "arm": "refuted",
+   "citationCount": 434,
+   "birth": 2000,
+   "beta": 0.001,
+   "implied_s0": 0.576,
+   "r2": 0.002,
+   "mean_s": 0.582,
+   "n_assert": 124,
+   "n_all": 203,
+   "bins": 8,
+   "g_range": [
+    11,
+    24
+   ]
+  },
+  {
+   "name": "v3_metaphoric_structuring_understanding_tim",
+   "arm": "refuted",
+   "citationCount": 1394,
+   "birth": 2000,
+   "beta": 0.0313,
+   "implied_s0": 0.122,
+   "r2": 0.325,
+   "mean_s": 0.562,
+   "n_assert": 153,
+   "n_all": 309,
+   "bins": 7,
+   "g_range": [
+    19,
+    25
+   ]
+  },
+  {
+   "name": "v3_tracing_attention_and_the_activation_flo",
+   "arm": "refuted",
+   "citationCount": 103,
+   "birth": 2008,
+   "beta": 0.015,
+   "implied_s0": 0.523,
+   "r2": 0.269,
+   "mean_s": 0.563,
+   "n_assert": 115,
+   "n_all": 198,
+   "bins": 8,
+   "g_range": [
+    1,
+    15
+   ]
+  },
+  {
+   "name": "v3_across_notation_automatic_numerical_proc",
+   "arm": "robust",
+   "citationCount": 58,
+   "birth": 2008,
+   "beta": -0.019,
+   "implied_s0": 0.597,
+   "r2": 0.745,
+   "mean_s": 0.559,
+   "n_assert": 33,
+   "n_all": 67,
+   "bins": 3,
+   "g_range": [
+    0,
+    9
+   ]
+  },
+  {
+   "name": "v3_effects_of_fluency_on_psychological_dist",
+   "arm": "refuted",
+   "citationCount": 271,
+   "birth": 2008,
+   "beta": 0.0182,
+   "implied_s0": 0.513,
+   "r2": 0.245,
+   "mean_s": 0.58,
+   "n_assert": 148,
+   "n_all": 248,
+   "bins": 10,
+   "g_range": [
+    1,
+    16
+   ]
+  },
+  {
+   "name": "v3_more_than_meets_the_eye_the_role_of_lang",
+   "arm": "refuted",
+   "error": "no_cache"
+  },
+  {
+   "name": "v3_nonconscious_goal_pursuit_in_novel_envir",
+   "arm": "refuted",
+   "error": "no_cache"
+  },
+  {
+   "name": "v3_attractor_dynamics_and_semantic_neighbor",
+   "arm": "robust",
+   "citationCount": 75,
+   "birth": 2008,
+   "beta": -0.0137,
+   "implied_s0": 0.635,
+   "r2": 0.884,
+   "mean_s": 0.586,
+   "n_assert": 54,
+   "n_all": 98,
+   "bins": 5,
+   "g_range": [
+    2,
+    16
+   ]
+  },
+  {
+   "name": "v3_perceptual_mechanisms_that_characterize_",
+   "arm": "refuted",
+   "citationCount": 89,
+   "birth": 2008,
+   "beta": 0.0087,
+   "implied_s0": 0.466,
+   "r2": 0.046,
+   "mean_s": 0.5,
+   "n_assert": 59,
+   "n_all": 85,
+   "bins": 5,
+   "g_range": [
+    3,
+    15
+   ]
+  },
+  {
+   "name": "v3_precision_of_the_anchor_influences_the_a",
+   "arm": "robust",
+   "citationCount": 174,
+   "birth": 2008,
+   "beta": 0.0064,
+   "implied_s0": 0.634,
+   "r2": 0.046,
+   "mean_s": 0.652,
+   "n_assert": 83,
+   "n_all": 121,
+   "bins": 7,
+   "g_range": [
+    2,
+    16
+   ]
+  },
+  {
+   "name": "v3_action_dynamics_reveal_parallel_competit",
+   "arm": "robust",
+   "citationCount": 254,
+   "birth": 2008,
+   "beta": 0.0205,
+   "implied_s0": 0.536,
+   "r2": 0.702,
+   "mean_s": 0.603,
+   "n_assert": 63,
+   "n_all": 170,
+   "bins": 6,
+   "g_range": [
+    1,
+    15
+   ]
+  },
+  {
+   "name": "v3_prescribed_optimism_is_it_right_to_be_wr",
+   "arm": "robust",
+   "citationCount": 72,
+   "birth": 2008,
+   "beta": 0.0216,
+   "implied_s0": 0.432,
+   "r2": 0.601,
+   "mean_s": 0.55,
+   "n_assert": 25,
+   "n_all": 51,
+   "bins": 3,
+   "g_range": [
+    6,
+    15
+   ]
+  },
+  {
+   "name": "v3_age_related_changes_in_the_episodic_simu",
+   "arm": "robust",
+   "citationCount": 639,
+   "birth": 2008,
+   "beta": -0.0093,
+   "implied_s0": 0.603,
+   "r2": 0.087,
+   "mean_s": 0.553,
+   "n_assert": 144,
+   "n_all": 301,
+   "bins": 8,
+   "g_range": [
+    8,
+    17
+   ]
+  },
+  {
+   "name": "v3_preschoolers_perspective_taking_in_word_",
+   "arm": "refuted",
+   "citationCount": 33,
+   "birth": 2008,
+   "beta": null,
+   "note": "narrow",
+   "n_assert": 16,
+   "n_all": 27,
+   "mean_s": 0.637,
+   "bins": 2
+  },
+  {
+   "name": "v3_measuring_the_crowd_within_probabilistic",
+   "arm": "robust",
+   "citationCount": 185,
+   "birth": 2008,
+   "beta": 0.0005,
+   "implied_s0": 0.541,
+   "r2": 0.0,
+   "mean_s": 0.541,
+   "n_assert": 95,
+   "n_all": 204,
+   "bins": 9,
+   "g_range": [
+    3,
+    16
+   ]
+  },
+  {
+   "name": "v3_temporal_selection_is_suppressed_delayed",
+   "arm": "robust",
+   "citationCount": 34,
+   "birth": 2008,
+   "beta": null,
+   "note": "few_assert",
+   "n_assert": 11,
+   "n_all": 24
+  },
+  {
+   "name": "v3_toward_a_physiology_of_dual_process_reas",
+   "arm": "refuted",
+   "citationCount": 325,
+   "birth": 2008,
+   "beta": 0.0046,
+   "implied_s0": 0.584,
+   "r2": 0.047,
+   "mean_s": 0.596,
+   "n_assert": 138,
+   "n_all": 227,
+   "bins": 11,
+   "g_range": [
+    1,
+    15
+   ]
+  },
+  {
+   "name": "v3_when_does_between_sequence_phonological_",
+   "arm": "refuted",
+   "citationCount": 31,
+   "birth": 2008,
+   "beta": 0.0055,
+   "implied_s0": 0.558,
+   "r2": 0.056,
+   "mean_s": 0.577,
+   "n_assert": 73,
+   "n_all": 98,
+   "bins": 3,
+   "g_range": [
+    5,
+    10
+   ]
+  },
+  {
+   "name": "v3_errors_are_aversive_defensive_motivation",
+   "arm": "refuted",
+   "error": "no_cache"
+  },
+  {
+   "name": "v3_the_sunny_side_of_fairness_preference_fo",
+   "arm": "robust",
+   "error": "no_cache"
+  },
+  {
+   "name": "v3_the_representation_of_simple_ensemble_vi",
+   "arm": "robust",
+   "citationCount": 366,
+   "birth": 2008,
+   "beta": -0.0027,
+   "implied_s0": 0.599,
+   "r2": 0.007,
+   "mean_s": 0.584,
+   "n_assert": 144,
+   "n_all": 295,
+   "bins": 10,
+   "g_range": [
+    2,
+    16
+   ]
+  },
+  {
+   "name": "v3_loving_those_who_justify_inequality_the_",
+   "arm": "refuted",
+   "error": "no_cache"
+  },
+  {
+   "name": "v3_a_motion_aftereffect_from_still_photogra",
+   "arm": "robust",
+   "citationCount": 99,
+   "birth": 2008,
+   "beta": -0.0154,
+   "implied_s0": 0.608,
+   "r2": 0.198,
+   "mean_s": 0.556,
+   "n_assert": 34,
+   "n_all": 59,
+   "bins": 3,
+   "g_range": [
+    3,
+    12
+   ]
+  },
+  {
+   "name": "v3_the_threat_of_appearing_prejudiced_and_r",
+   "arm": "refuted",
+   "citationCount": 139,
+   "birth": 2008,
+   "beta": -0.0235,
+   "implied_s0": 0.606,
+   "r2": 0.293,
+   "mean_s": 0.519,
+   "n_assert": 82,
+   "n_all": 126,
+   "bins": 7,
+   "g_range": [
+    0,
+    15
+   ]
+  },
+  {
+   "name": "v3_bidirectional_associations_in_multiplica",
+   "arm": "robust",
+   "error": "no_cache"
+  },
+  {
+   "name": "v3_where_do_we_look_during_potentially_offe",
+   "arm": "refuted",
+   "citationCount": 77,
+   "birth": 2008,
+   "beta": -0.0192,
+   "implied_s0": 0.547,
+   "r2": 1.0,
+   "mean_s": 0.472,
+   "n_assert": 32,
+   "n_all": 39,
+   "bins": 3,
+   "g_range": [
+    3,
+    12
+   ]
+  },
+  {
+   "name": "v3_adaptive_memory_the_comparative_value_of",
+   "arm": "robust",
+   "error": "no_cache"
+  },
+  {
+   "name": "v3_is_happiness_having_what_you_want_wantin",
+   "arm": "robust",
+   "citationCount": 56,
+   "birth": 2008,
+   "beta": null,
+   "note": "narrow",
+   "n_assert": 19,
+   "n_all": 30,
+   "mean_s": 0.516,
+   "bins": 2
+  },
+  {
+   "name": "v3_the_value_of_believing_in_free_will_enco",
+   "arm": "refuted",
+   "error": "no_cache"
+  },
+  {
+   "name": "v3_auditory_change_detection_simple_sounds_",
+   "arm": "robust",
+   "citationCount": 54,
+   "birth": 2008,
+   "beta": -0.0213,
+   "implied_s0": 0.55,
+   "r2": 0.617,
+   "mean_s": 0.481,
+   "n_assert": 31,
+   "n_all": 62,
+   "bins": 3,
+   "g_range": [
+    2,
+    10
+   ]
+  },
+  {
+   "name": "v3_keeping_one_s_distance_the_influence_of_",
+   "arm": "refuted",
+   "error": "no_cache"
+  },
+  {
+   "name": "v3_hedonic_and_instrumental_motives_in_ange",
+   "arm": "robust",
+   "citationCount": 413,
+   "birth": 2008,
+   "beta": -0.0007,
+   "implied_s0": 0.586,
+   "r2": 0.001,
+   "mean_s": 0.58,
+   "n_assert": 133,
+   "n_all": 200,
+   "bins": 11,
+   "g_range": [
+    2,
+    17
+   ]
+  },
+  {
+   "name": "v3_creating_social_connection_through_infer",
+   "arm": "refuted",
+   "error": "no_cache"
+  },
+  {
+   "name": "v3_in_group_love_and_out_group_hate_as_moti",
+   "arm": "robust",
+   "error": "no_cache"
+  },
+  {
+   "name": "v3_a_word_order_constraint_on_phonological_",
+   "arm": "refuted",
+   "citationCount": 24,
+   "birth": 2008,
+   "beta": null,
+   "note": "narrow",
+   "n_assert": 24,
+   "n_all": 41,
+   "mean_s": 0.55,
+   "bins": 2
+  },
+  {
+   "name": "v3_the_best_men_are_not_always_already_take",
+   "arm": "refuted",
+   "error": "no_cache"
+  },
+  {
+   "name": "v3_the_stroop_effect_why_proportion_congrue",
+   "arm": "robust",
+   "citationCount": 301,
+   "birth": 2008,
+   "beta": -0.0121,
+   "implied_s0": 0.552,
+   "r2": 0.162,
+   "mean_s": 0.5,
+   "n_assert": 267,
+   "n_all": 455,
+   "bins": 13,
+   "g_range": [
+    1,
+    16
+   ]
+  },
+  {
+   "name": "v3_sensitivity_to_object_viewpoint_and_acti",
+   "arm": "refuted",
+   "error": "no_cache"
+  },
+  {
+   "name": "v3_with_a_clean_conscience_cleanliness_redu",
+   "arm": "refuted",
+   "error": "no_cache"
+  },
+  {
+   "name": "v3_extremal_edge_a_powerful_cue_to_depth_pe",
+   "arm": "refuted",
+   "citationCount": 40,
+   "birth": 2008,
+   "beta": null,
+   "note": "narrow",
+   "n_assert": 24,
+   "n_all": 48,
+   "mean_s": 0.642,
+   "bins": 2
+  },
+  {
+   "name": "v3_what_do_cross_national_comparisons_of_pe",
+   "arm": "refuted",
+   "citationCount": 26,
+   "birth": 2008,
+   "beta": null,
+   "note": "few_assert",
+   "n_assert": 14,
+   "n_all": 23
+  },
+  {
+   "name": "v3_personality_dominance_and_preferential_u",
+   "arm": "refuted",
+   "citationCount": 62,
+   "birth": 2008,
+   "beta": null,
+   "note": "few_assert",
+   "n_assert": 12,
+   "n_all": 20
+  },
+  {
+   "name": "v3_conflict_triggered_goal_shielding_respon",
+   "arm": "robust",
+   "citationCount": 78,
+   "birth": 2008,
+   "beta": 0.0237,
+   "implied_s0": 0.458,
+   "r2": 0.768,
+   "mean_s": 0.573,
+   "n_assert": 30,
+   "n_all": 51,
+   "bins": 3,
+   "g_range": [
+    3,
+    16
+   ]
+  },
+  {
+   "name": "v3_detecting_the_snake_in_the_grass_attenti",
+   "arm": "refuted",
+   "error": "no_cache"
+  },
+  {
+   "name": "v3_the_value_heuristic_in_judgments_of_rela",
+   "arm": "refuted",
+   "citationCount": 57,
+   "birth": 2008,
+   "beta": null,
+   "note": "narrow",
+   "n_assert": 17,
+   "n_all": 25,
+   "mean_s": 0.553,
+   "bins": 2
+  },
+  {
+   "name": "v3_head_up_foot_down_object_words_orient_at",
+   "arm": "refuted",
+   "citationCount": 128,
+   "birth": 2008,
+   "beta": -0.0025,
+   "implied_s0": 0.546,
+   "r2": 0.003,
+   "mean_s": 0.529,
+   "n_assert": 68,
+   "n_all": 144,
+   "bins": 6,
+   "g_range": [
+    2,
+    15
+   ]
+  },
+  {
+   "name": "v3_the_ultimate_sampling_dilemma_in_experie",
+   "arm": "robust",
+   "citationCount": 59,
+   "birth": 2008,
+   "beta": 0.0108,
+   "implied_s0": 0.509,
+   "r2": 0.481,
+   "mean_s": 0.547,
+   "n_assert": 31,
+   "n_all": 54,
+   "bins": 3,
+   "g_range": [
+    2,
+    11
+   ]
+  },
+  {
+   "name": "v3_how_to_say_no_single_and_dual_process_th",
+   "arm": "refuted",
+   "citationCount": 32,
+   "birth": 2008,
+   "beta": null,
+   "note": "narrow",
+   "n_assert": 23,
+   "n_all": 66,
+   "mean_s": 0.543,
+   "bins": 2
+  },
+  {
+   "name": "v3_now_you_see_it_now_you_don_t_repetition_",
+   "arm": "refuted",
+   "error": "no_cache"
+  },
+  {
+   "name": "v3_intentional_forgetting_is_easier_after_t",
+   "arm": "refuted",
+   "citationCount": 42,
+   "birth": 2008,
+   "beta": null,
+   "note": "narrow",
+   "n_assert": 21,
+   "n_all": 30,
+   "mean_s": 0.569,
+   "bins": 2
+  },
+  {
+   "name": "v3_how_does_bilingualism_improve_executive_",
+   "arm": "refuted",
+   "citationCount": 342,
+   "birth": 2008,
+   "beta": -0.0051,
+   "implied_s0": 0.56,
+   "r2": 0.026,
+   "mean_s": 0.541,
+   "n_assert": 186,
+   "n_all": 335,
+   "bins": 13,
+   "g_range": [
+    0,
+    16
+   ]
+  },
+  {
+   "name": "v3_priming_addition_facts_with_semantic_rel",
+   "arm": "robust",
+   "citationCount": 61,
+   "birth": 2008,
+   "beta": 0.0024,
+   "implied_s0": 0.523,
+   "r2": 0.097,
+   "mean_s": 0.532,
+   "n_assert": 41,
+   "n_all": 66,
+   "bins": 4,
+   "g_range": [
+    2,
+    14
+   ]
+  },
+  {
+   "name": "v3_learning_correct_responses_and_errors_in",
+   "arm": "robust",
+   "citationCount": 28,
+   "birth": 2008,
+   "beta": null,
+   "note": "narrow",
+   "n_assert": 15,
+   "n_all": 19,
+   "mean_s": 0.553,
+   "bins": 1
+  },
+  {
+   "name": "v3_on_the_additive_effects_of_stimulus_qual",
+   "arm": "robust",
+   "citationCount": 92,
+   "birth": 2008,
+   "beta": 0.0137,
+   "implied_s0": 0.526,
+   "r2": 0.364,
+   "mean_s": 0.577,
+   "n_assert": 37,
+   "n_all": 100,
+   "bins": 4,
+   "g_range": [
+    3,
+    14
+   ]
+  },
+  {
+   "name": "v3_semantic_interference_in_a_delayed_namin",
+   "arm": "refuted",
+   "citationCount": 127,
+   "birth": 2008,
+   "beta": -0.003,
+   "implied_s0": 0.534,
+   "r2": 0.008,
+   "mean_s": 0.522,
+   "n_assert": 63,
+   "n_all": 138,
+   "bins": 4,
+   "g_range": [
+    2,
+    13
+   ]
+  },
+  {
+   "name": "v3_multidimensional_visual_statistical_lear",
+   "arm": "robust",
+   "citationCount": 149,
+   "birth": 2008,
+   "beta": 0.0282,
+   "implied_s0": 0.481,
+   "r2": 0.676,
+   "mean_s": 0.573,
+   "n_assert": 43,
+   "n_all": 121,
+   "bins": 4,
+   "g_range": [
+    1,
+    13
+   ]
+  },
+  {
+   "name": "v3_working_memory_costs_of_task_switching",
+   "arm": "refuted",
+   "citationCount": 147,
+   "birth": 2008,
+   "beta": 0.0155,
+   "implied_s0": 0.528,
+   "r2": 0.353,
+   "mean_s": 0.583,
+   "n_assert": 66,
+   "n_all": 98,
+   "bins": 6,
+   "g_range": [
+    1,
+    16
+   ]
+  },
+  {
+   "name": "v3_accounting_for_occurrences_a_new_view_of",
+   "arm": "robust",
+   "error": "no_cache"
+  },
+  {
+   "name": "v3_multiple_roles_for_time_in_short_term_me",
+   "arm": "robust",
+   "citationCount": 43,
+   "birth": 2008,
+   "beta": 0.0041,
+   "implied_s0": 0.563,
+   "r2": 0.024,
+   "mean_s": 0.573,
+   "n_assert": 112,
+   "n_all": 239,
+   "bins": 6,
+   "g_range": [
+    0,
+    13
+   ]
+  },
+  {
+   "name": "v3_an_attention_based_associative_account_o",
+   "arm": "robust",
+   "error": "no_cache"
+  },
+  {
+   "name": "v3_orienting_attention_in_visual_working_me",
+   "arm": "refuted",
+   "citationCount": 261,
+   "birth": 2008,
+   "beta": -0.0281,
+   "implied_s0": 0.648,
+   "r2": 0.324,
+   "mean_s": 0.576,
+   "n_assert": 155,
+   "n_all": 259,
+   "bins": 9,
+   "g_range": [
+    1,
+    14
+   ]
+  },
+  {
+   "name": "v3_decision_making_and_learning_while_takin",
+   "arm": "refuted",
+   "citationCount": 114,
+   "birth": 2008,
+   "beta": -0.0418,
+   "implied_s0": 0.644,
+   "r2": 0.575,
+   "mean_s": 0.5,
+   "n_assert": 54,
+   "n_all": 198,
+   "bins": 5,
+   "g_range": [
+    0,
+    12
+   ]
+  },
+  {
+   "name": "v3_accelerated_relearning_after_retrieval_i",
+   "arm": "refuted",
+   "citationCount": 87,
+   "birth": 2008,
+   "beta": -0.013,
+   "implied_s0": 0.602,
+   "r2": 0.187,
+   "mean_s": 0.541,
+   "n_assert": 49,
+   "n_all": 78,
+   "bins": 4,
+   "g_range": [
+    3,
+    16
+   ]
+  },
+  {
+   "name": "v3_the_rejection_of_moral_rebels_resenting_",
+   "arm": "refuted",
+   "error": "no_cache"
+  },
+  {
+   "name": "v3_why_do_implicit_and_explicit_attitude_te",
+   "arm": "robust",
+   "citationCount": 361,
+   "birth": 2008,
+   "beta": -0.0193,
+   "implied_s0": 0.629,
+   "r2": 0.867,
+   "mean_s": 0.556,
+   "n_assert": 79,
+   "n_all": 186,
+   "bins": 7,
+   "g_range": [
+    3,
+    15
+   ]
+  },
+  {
+   "name": "v3_the_developmental_psychometrics_of_big_f",
+   "arm": "robust",
+   "citationCount": 526,
+   "birth": 2008,
+   "beta": -0.0108,
+   "implied_s0": 0.609,
+   "r2": 0.073,
+   "mean_s": 0.549,
+   "n_assert": 141,
+   "n_all": 252,
+   "bins": 10,
+   "g_range": [
+    7,
+    17
+   ]
+  },
+  {
+   "name": "v3_terror_management_and_adults_attachment_",
+   "arm": "refuted",
+   "citationCount": 138,
+   "birth": 2008,
+   "beta": 0.0064,
+   "implied_s0": 0.579,
+   "r2": 0.032,
+   "mean_s": 0.596,
+   "n_assert": 112,
+   "n_all": 138,
+   "bins": 9,
+   "g_range": [
+    1,
+    15
+   ]
+  },
+  {
+   "name": "v3_increasing_and_decreasing_motor_and_cogn",
+   "arm": "refuted",
+   "citationCount": 89,
+   "birth": 2008,
+   "beta": 0.0061,
+   "implied_s0": 0.593,
+   "r2": 0.024,
+   "mean_s": 0.603,
+   "n_assert": 136,
+   "n_all": 251,
+   "bins": 9,
+   "g_range": [
+    1,
+    14
+   ]
+  },
+  {
+   "name": "v3_the_intermixed_blocked_effect_in_human_p",
+   "arm": "refuted",
+   "citationCount": 70,
+   "birth": 2008,
+   "beta": -0.0183,
+   "implied_s0": 0.616,
+   "r2": 0.967,
+   "mean_s": 0.573,
+   "n_assert": 32,
+   "n_all": 49,
+   "bins": 3,
+   "g_range": [
+    3,
+    10
+   ]
+  },
+  {
+   "name": "v3_affective_incoherence_when_affective_con",
+   "arm": "refuted",
+   "citationCount": 62,
+   "birth": 2008,
+   "beta": -0.033,
+   "implied_s0": 0.653,
+   "r2": 0.915,
+   "mean_s": 0.565,
+   "n_assert": 37,
+   "n_all": 58,
+   "bins": 3,
+   "g_range": [
+    2,
+    10
+   ]
+  },
+  {
+   "name": "v3_individual_differences_in_the_regulation",
+   "arm": "refuted",
+   "citationCount": 128,
+   "birth": 2008,
+   "beta": 0.001,
+   "implied_s0": 0.565,
+   "r2": 0.002,
+   "mean_s": 0.565,
+   "n_assert": 84,
+   "n_all": 130,
+   "bins": 7,
+   "g_range": [
+    0,
+    12
+   ]
+  },
+  {
+   "name": "v3_left_frontal_cortical_activation_and_spr",
+   "arm": "refuted",
+   "citationCount": 162,
+   "birth": 2008,
+   "beta": 0.0049,
+   "implied_s0": 0.61,
+   "r2": 0.031,
+   "mean_s": 0.622,
+   "n_assert": 62,
+   "n_all": 99,
+   "bins": 6,
+   "g_range": [
+    1,
+    14
+   ]
+  },
+  {
+   "name": "v3_a_social_functional_approach_to_emotions",
+   "arm": "refuted",
+   "citationCount": 202,
+   "birth": 2008,
+   "beta": 0.0234,
+   "implied_s0": 0.514,
+   "r2": 0.408,
+   "mean_s": 0.602,
+   "n_assert": 83,
+   "n_all": 134,
+   "bins": 7,
+   "g_range": [
+    1,
+    16
+   ]
+  },
+  {
+   "name": "v3_walking_on_eggshells_how_expressing_rela",
+   "arm": "refuted",
+   "citationCount": 93,
+   "birth": 2008,
+   "beta": -0.0237,
+   "implied_s0": 0.649,
+   "r2": 0.548,
+   "mean_s": 0.579,
+   "n_assert": 26,
+   "n_all": 39,
+   "bins": 3,
+   "g_range": [
+    2,
+    13
+   ]
+  },
+  {
+   "name": "v3_how_the_head_liberates_the_heart_project",
+   "arm": "refuted",
+   "citationCount": 165,
+   "birth": 2008,
+   "beta": -0.0083,
+   "implied_s0": 0.629,
+   "r2": 0.04,
+   "mean_s": 0.594,
+   "n_assert": 93,
+   "n_all": 116,
+   "bins": 8,
+   "g_range": [
+    3,
+    16
+   ]
+  },
+  {
+   "name": "v3_a_single_system_account_of_the_relations",
+   "arm": "robust",
+   "citationCount": 67,
+   "birth": 2008,
+   "beta": 0.0274,
+   "implied_s0": 0.473,
+   "r2": 0.711,
+   "mean_s": 0.53,
+   "n_assert": 33,
+   "n_all": 61,
+   "bins": 3,
+   "g_range": [
+    1,
+    10
+   ]
+  },
+  {
+   "name": "v3_poignancy_mixed_emotional_experience_in_",
+   "arm": "refuted",
+   "citationCount": 237,
+   "birth": 2008,
+   "beta": -0.0015,
+   "implied_s0": 0.539,
+   "r2": 0.008,
+   "mean_s": 0.532,
+   "n_assert": 85,
+   "n_all": 150,
+   "bins": 8,
+   "g_range": [
+    1,
+    15
+   ]
+  },
+  {
+   "name": "v3_1_f_noise_and_effort_on_implicit_measure",
+   "arm": "refuted",
+   "citationCount": 83,
+   "birth": 2008,
+   "beta": 0.0245,
+   "implied_s0": 0.511,
+   "r2": 0.992,
+   "mean_s": 0.583,
+   "n_assert": 43,
+   "n_all": 89,
+   "bins": 4,
+   "g_range": [
+    2,
+    12
+   ]
+  },
+  {
+   "name": "v3_the_effect_of_global_versus_local_proces",
+   "arm": "refuted",
+   "citationCount": 211,
+   "birth": 2008,
+   "beta": -0.0043,
+   "implied_s0": 0.568,
+   "r2": 0.052,
+   "mean_s": 0.556,
+   "n_assert": 99,
+   "n_all": 164,
+   "bins": 6,
+   "g_range": [
+    1,
+    11
+   ]
+  },
+  {
+   "name": "v3_not_so_innocent_does_seeing_one_s_own_ca",
+   "arm": "refuted",
+   "citationCount": 156,
+   "birth": 2008,
+   "beta": 0.0132,
+   "implied_s0": 0.516,
+   "r2": 0.467,
+   "mean_s": 0.554,
+   "n_assert": 99,
+   "n_all": 150,
+   "bins": 5,
+   "g_range": [
+    0,
+    12
+   ]
+  },
+  {
+   "name": "v3_why_people_are_reluctant_to_tempt_fate",
+   "arm": "refuted",
+   "citationCount": 134,
+   "birth": 2008,
+   "beta": 0.0095,
+   "implied_s0": 0.504,
+   "r2": 0.598,
+   "mean_s": 0.543,
+   "n_assert": 67,
+   "n_all": 131,
+   "bins": 5,
+   "g_range": [
+    3,
+    16
+   ]
+  },
+  {
+   "name": "v3_the_nonverbal_expression_of_pride_eviden",
+   "arm": "robust",
+   "citationCount": 296,
+   "birth": 2008,
+   "beta": 0.0005,
+   "implied_s0": 0.693,
+   "r2": 0.0,
+   "mean_s": 0.69,
+   "n_assert": 142,
+   "n_all": 230,
+   "bins": 10,
+   "g_range": [
+    0,
+    14
+   ]
+  },
+  {
+   "name": "v3_modeling_distributions_of_immediate_memo",
+   "arm": "refuted",
+   "citationCount": 25,
+   "birth": 2008,
+   "beta": null,
+   "note": "few_assert",
+   "n_assert": 6,
+   "n_all": 16
+  },
+  {
+   "name": "v3_on_the_relative_independence_of_thinking",
+   "arm": "refuted",
+   "citationCount": 619,
+   "birth": 2008,
+   "beta": 0.0251,
+   "implied_s0": 0.391,
+   "r2": 0.737,
+   "mean_s": 0.535,
+   "n_assert": 134,
+   "n_all": 225,
+   "bins": 8,
+   "g_range": [
+    7,
+    14
+   ]
+  },
+  {
+   "name": "v3_opening_the_mind_to_close_it_considering",
+   "arm": "refuted",
+   "citationCount": 69,
+   "birth": 2008,
+   "beta": null,
+   "note": "narrow",
+   "n_assert": 27,
+   "n_all": 43,
+   "mean_s": 0.567,
+   "bins": 2
+  },
+  {
+   "name": "v3_distinguishing_between_silent_and_vocal_",
+   "arm": "robust",
+   "citationCount": 52,
+   "birth": 2008,
+   "beta": null,
+   "note": "narrow",
+   "n_assert": 16,
+   "n_all": 22,
+   "mean_s": 0.516,
+   "bins": 2
+  },
+  {
+   "name": "v3_dynamics_of_self_regulation_how_un_accom",
+   "arm": "refuted",
+   "error": "no_cache"
+  },
+  {
+   "name": "v3_stereotypes_and_retrieval_provoked_illus",
+   "arm": "refuted",
+   "citationCount": 31,
+   "birth": 2008,
+   "beta": null,
+   "note": "few_assert",
+   "n_assert": 12,
+   "n_all": 20
+  },
+  {
+   "name": "v3_the_effects_of_an_implemental_mind_set_o",
+   "arm": "refuted",
+   "citationCount": 22,
+   "birth": 2008,
+   "beta": null,
+   "note": "few_assert",
+   "n_assert": 8,
+   "n_all": 14
+  },
+  {
+   "name": "v3_a_needs_based_model_of_reconciliation_sa",
+   "arm": "refuted",
+   "citationCount": 545,
+   "birth": 2008,
+   "beta": -0.0069,
+   "implied_s0": 0.592,
+   "r2": 0.034,
+   "mean_s": 0.552,
+   "n_assert": 173,
+   "n_all": 254,
+   "bins": 9,
+   "g_range": [
+    9,
+    17
+   ]
+  },
+  {
+   "name": "v3_the_face_of_success_inferences_from_chie",
+   "arm": "refuted",
+   "citationCount": 170,
+   "birth": 2008,
+   "beta": 0.0236,
+   "implied_s0": 0.551,
+   "r2": 0.432,
+   "mean_s": 0.623,
+   "n_assert": 95,
+   "n_all": 174,
+   "bins": 8,
+   "g_range": [
+    1,
+    15
+   ]
+  },
+  {
+   "name": "v3_selective_exposure_and_information_quant",
+   "arm": "robust",
+   "citationCount": 130,
+   "birth": 2008,
+   "beta": -0.014,
+   "implied_s0": 0.623,
+   "r2": 0.14,
+   "mean_s": 0.562,
+   "n_assert": 56,
+   "n_all": 87,
+   "bins": 5,
+   "g_range": [
+    3,
+    15
+   ]
+  },
+  {
+   "name": "v3_self_regulation_and_selective_exposure_t",
+   "arm": "refuted",
+   "citationCount": 158,
+   "birth": 2008,
+   "beta": 0.0054,
+   "implied_s0": 0.621,
+   "r2": 0.054,
+   "mean_s": 0.636,
+   "n_assert": 47,
+   "n_all": 92,
+   "bins": 4,
+   "g_range": [
+    3,
+    13
+   ]
+  },
+  {
+   "name": "v3_the_space_between_us_stereotype_threat_a",
+   "arm": "refuted",
+   "citationCount": 399,
+   "birth": 2008,
+   "beta": -0.0166,
+   "implied_s0": 0.652,
+   "r2": 0.438,
+   "mean_s": 0.589,
+   "n_assert": 132,
+   "n_all": 207,
+   "bins": 10,
+   "g_range": [
+    0,
+    16
+   ]
+  },
+  {
+   "name": "v3_balancing_connectedness_and_self_protect",
+   "arm": "refuted",
+   "citationCount": 261,
+   "birth": 2008,
+   "beta": -0.0123,
+   "implied_s0": 0.643,
+   "r2": 0.156,
+   "mean_s": 0.605,
+   "n_assert": 191,
+   "n_all": 277,
+   "bins": 12,
+   "g_range": [
+    0,
+    16
+   ]
+  },
+  {
+   "name": "v3_self_handicapping_excuse_making_and_coun",
+   "arm": "robust",
+   "citationCount": 94,
+   "birth": 2008,
+   "beta": -0.0061,
+   "implied_s0": 0.596,
+   "r2": 0.155,
+   "mean_s": 0.573,
+   "n_assert": 83,
+   "n_all": 116,
+   "bins": 7,
+   "g_range": [
+    1,
+    15
+   ]
+  },
+  {
+   "name": "v3_social_identity_contingencies_how_divers",
+   "arm": "refuted",
+   "citationCount": 777,
+   "birth": 2008,
+   "beta": 0.0245,
+   "implied_s0": 0.394,
+   "r2": 0.168,
+   "mean_s": 0.569,
+   "n_assert": 170,
+   "n_all": 286,
+   "bins": 7,
+   "g_range": [
+    11,
+    17
+   ]
+  }
+ ],
+ "aggregate": {
+  "n_ok": 85,
+  "n_robust": 34,
+  "n_refuted": 51,
+  "beta_robust_mean": 0.0033,
+  "beta_refuted_mean": -0.0001,
+  "means_robust_mean_s": 0.568,
+  "means_refuted_mean_s": 0.567
+ }
+}

@@ -1,0 +1,1298 @@
+[
+ {
+  "year": 2026,
+  "ctx": "Notifications were delivered between 09:00 and 21:00 PHT (GMT+8) to minimize fatigue and differed only in emotional feedback framing (positive, negative, empathetic, gamified, or social), with all other attributes held constant [11, 12][32, 33]."
+ },
+ {
+  "year": 2026,
+  "ctx": "Prospect theory argues that individuals are more sensitive to relative changes than to absolute levels [30]."
+ },
+ {
+  "year": 2026,
+  "ctx": "Prospect Theory [32] demonstrates that as stakes rise, people’s judgments become more sensitive to potential losses than to equivalent gains, and their emotional and moral responses intensify when decisions involve personal or social risk."
+ },
+ {
+  "year": 2026,
+  "ctx": "High-risk decisions involve uncertainty with potentially severe outcomes—such as threats to life, financial loss, or ethical dilemmas requiring users to balance multiple options and probabilities [53, 114]."
+ },
+ {
+  "year": 2026,
+  "ctx": "Yet a growing body of evidence shows that the predictions of rational choice theory are often inaccurate [53]."
+ },
+ {
+  "year": 2026,
+  "ctx": "Cognitive biases and heuristics, extensively documented in the seminal work of Kahneman and Tversky (1979), represent systematic patterns of thought that can lead to predictable deviations from normative rationality."
+ },
+ {
+  "year": 2026,
+  "ctx": "A well-documented example is the availability heuristic, whereby individuals estimate the likelihood or importance of an event based on the ease with which similar instances come to mind (Kahneman & Tversky, 1979)."
+ },
+ {
+  "year": 2026,
+  "ctx": "Consistent with prior work in judgment and decision-making [21, 54], we use the term framing to refer to variations in presentation that influence how individuals evaluate and respond to information while holding the underlying propositional content fixed."
+ },
+ {
+  "year": 2026,
+  "ctx": "…work in judgment and decision-making shows that logically equivalent information can elicit different beliefs and choices depending on presentation [21, 54], a finding repeatedly confirmed and extended to media and information environments, where framing influences perceived credibility, belief…"
+ },
+ {
+  "year": 2026,
+  "ctx": "An investor frequently relies on readily available information (Ngoc 2014), and Kahneman and Tversky (1979) evaluated the information that is most easily accessible."
+ },
+ {
+  "year": 2026,
+  "ctx": "Kahneman and Tversky (1979), pioneers of prospect theory, described how the framing of a situation can have a significant impact on decision-making."
+ },
+ {
+  "year": 2026,
+  "ctx": "Another influential behavior account, prospect theory, similarly expects larger changes to occur as a result of losses rather than gains (Kahneman & Tversky, 1979), a prediction that could potentially be extended to election outcomes."
+ },
+ {
+  "year": 2026,
+  "ctx": "Since the concept of reference-dependent preferences was introduced by Kahneman and Tversky (1979), it has received considerable attention from both theoretical and empirical research."
+ },
+ {
+  "year": 2025,
+  "ctx": "The theoretical basis for the behavioural approach to financial decision-making was established in the work of D. Kahneman and A. Tversky, who developed prospect theory and categorised the primary cognitive biases (Kahneman & Tversky, 1979)."
+ },
+ {
+  "year": 2025,
+  "ctx": "For instance, entrepreneurs' use of affordable loss may relate to reductions in decision-making biases such as the sunk cost fallacy (Arkes and Blumer, 1985), the optimism bias (Weinstein, 1980), and loss aversion (Kahneman and Tversky, 1979)."
+ },
+ {
+  "year": 2025,
+  "ctx": "Based on the reference point dependence in behavioral decision theory [36], the next step is to introduce the psychological assessment of other possible outcomes by the DM."
+ },
+ {
+  "year": 2025,
+  "ctx": "Prospect theory (PT), the representative behavioral theory, employs cognitive psychological features to incorporate irrational human behavior into economic decision making [23]."
+ },
+ {
+  "year": 2025,
+  "ctx": "Cognitive–hierarchy models of bounded rationality [10] and prospect–theoretic accounts of subjective valuation under uncertainty [23] have been instantiated in deep RL for cloud defense and analyzed for their impact on policy learning [2, 3]."
+ },
+ {
+  "year": 2025,
+  "ctx": "Nonlinear probability weighting describes how people tend to choose between monetary lotteries as if they were overweighting small probabilities and underweighting large probabilities (Kahneman & Tversky, 1979; Tversky & Kahneman, 1992)."
+ },
+ {
+  "year": 2025,
+  "ctx": "Participants’ choices in the affective decision task were modelled with Bayesian hierarchical implementation of CPT (Kahneman & Tversky, 1979; Tversky & Kahneman, 1992)."
+ },
+ {
+  "year": 2025,
+  "ctx": "For example, in Kahneman and Tversky (1979), 83% of participants preferred a 100% chance to lose $5 over a 0.1% chance to lose $5000 despite the statistical equivalence of both options."
+ },
+ {
+  "year": 2025,
+  "ctx": "The interaction of three major topics jointly investigated with Tversky over years of close collaboration – risky choice, the framing effects, heuristics and biases (Kahneman and Tversky 1979) – has flowed into Kahneman’s more comprehensive DPT."
+ },
+ {
+  "year": 2025,
+  "ctx": "…про обмежену раціональність та «достатні» рішення [1], а також дослідження Д. Канемана і А. Тверські про когнітивні упередження та евристики [2], заклали теоретичну основу для розуміння того, чому в умо - вах складності та невизначеності люди приймають рішення, що часто від - хиляються від…"
+ },
+ {
+  "year": 2025,
+  "ctx": "Foun-dational models of economic choice, such as expected utility theory [36] and prospect theory [37] assume that probability is multiplicatively combined with other attributes to calculate option values (but see [38,39])."
+ },
+ {
+  "year": 2025,
+  "ctx": "Social Exchange Theory (Homans, 1958) suggests that the psychological foundation underlying effective multi-party decision-making lies in responsibility attribution."
+ },
+ {
+  "year": 2025,
+  "ctx": "The dilemma of choice in human-machine collaborative decision-making: Trade-offs between miss system and false alarm system Based on Signal Detection Theory (SDT) (Green & Swets, 1966), system error types can be categorized into two types: false alarms, where the system incorrectly detects a target that is absent, and misses, where it fails to detect a target that is present."
+ },
+ {
+  "year": 2025,
+  "ctx": "This may be because, within the traditional framework of Signal Detection Theory (Green & Swets, 1966), operators primarily adjust their decision criteria based on risk perception."
+ },
+ {
+  "year": 2025,
+  "ctx": "Prospect Theory (Kahneman & Tversky, 1979) posits that individuals are more sensitive to losses than gains and thus avoid decisions that increase risk or accountability."
+ },
+ {
+  "year": 2025,
+  "ctx": "Prospect Theory (Kahneman et al., 1979 )): Investors evaluate gains and losses asymmetrically, feeling the pain of losses more acutely than the pleasure of equivalent gains."
+ },
+ {
+  "year": 2025,
+  "ctx": "Cognitive biases represent perhaps the most well-documented psychological drivers, with prospect theory (Kahneman & Tversky, 1979) providing the foundational framework for understanding how investors evaluate gains and losses asymmetrically."
+ },
+ {
+  "year": 2025,
+  "ctx": "For a perfectly rational person, λ = 0 and α = 1, but it is hard for people to be perfectly rational [18]."
+ },
+ {
+  "year": 2025,
+  "ctx": "In this section, we introduce a range anxiety model, grounded in the framing effect of the prospect theory [18]."
+ },
+ {
+  "year": 2025,
+  "ctx": "…2 ) make risky choices were formalized using a power utility function (each option’s utility U = ∑p i (v i ) ρ per expected utility theory ( Kahneman and Tversky, 1979 ) for a gamble that has an i th outcome v i with probability p i for an individual whose risk preference is ρ ) and the…"
+ },
+ {
+  "year": 2025,
+  "ctx": "…; Equation 2 ) make risky choices were formalized using a power utility function (each option’s utility U = ∑p i (v i ) ρ per expected utility theory ( Kahneman and Tversky, 1979 ) for a gamble that has an i th outcome v i with probability p i for an individual whose risk preference is ρ ) and…"
+ },
+ {
+  "year": 2025,
+  "ctx": "These features imply that asset prices are driven simultaneously by macro factors, microstructural signals, and behavioral feedback [4–6], making forecasting far more challenging than conventional time series."
+ },
+ {
+  "year": 2025,
+  "ctx": "This indicates that, while overall objective welfare increases, farmers with a stronger sense of self-worth are more likely to feel satisfied and acquire higher levels of SWB [22]."
+ },
+ {
+  "year": 2025,
+  "ctx": "Kahneman and Tversky (1979) , While primarily on prospect theory, this foundational study indirectly highlights how overconfidence influences risk preferences in decision-making."
+ },
+ {
+  "year": 2025,
+  "ctx": "For example, the way people choose often contradicts traditional ideas about decision-making (Tversky & Kahneman, 1974; Kahneman & Tversky, 1979), such as expected utility theory, which assume that people make rational choices."
+ },
+ {
+  "year": 2025,
+  "ctx": "Kahneman and Tversky established the groundwork for comprehending the substantial influence of information framing on decision-making and point of references (1979)."
+ },
+ {
+  "year": 2025,
+  "ctx": "…the integration of behavioural insights, adaptive models, and now LLMs as pattern recognition tools reflects growing recognition of market complexity and bounded rationality, potentially identifying inefficiencies invisible to traditional statistical methods (Kahneman & Tversky, 1979; Lo, 2004)."
+ },
+ {
+  "year": 2025,
+  "ctx": "However, persistent anomalies such as momentum effects (Asness et al., 2013; Jegadeesh & Titman, 1993) and behavioral biases like herding and underreaction (George & Hwang, 2004; Kahneman & Tversky, 1979) challenge this view."
+ },
+ {
+  "year": 2025,
+  "ctx": "Kahneman and Tversky (1979) showed that individual investors often do not conduct complex statistical analyses but instead rely on simple heuristics to estimate expected returns."
+ },
+ {
+  "year": 2025,
+  "ctx": "KTO aligns LLMs using such unpaired data by leveraging prospect theory (Kahneman & Tversky, 2013; Tversky & Kahneman, 1992), which captures the asymmetry in human value functions, particularly the higher sensitivity to losses compared to gains."
+ },
+ {
+  "year": 2025,
+  "ctx": "However, seminal studies have shown that participants tend to take irrational risks in response to the loss frame, resulting in losses of even greater amounts (Kahneman and Tversky 1979, 1983, DeMartino et al. 2006)."
+ },
+ {
+  "year": 2025,
+  "ctx": "Behavioral finance, as a field of study, explores these influences of the psychological factors in the financial markets and investor’s investment choices (Kahneman &Tversky, 1979)."
+ },
+ {
+  "year": 2025,
+  "ctx": "In 1979, Israeli psychologists Daniel Kahneman and Amos Tversky introduced Prospect Theory in their paper “ Prospect Theory: An Analysis of Decision-Making under Risk ”, published in the journal Econometrics [11]."
+ },
+ {
+  "year": 2025,
+  "ctx": "The rational coefﬁcient α is employed to quantify the extent of distortion in the subjective evaluation of objective probabilities, thereby inﬂuencing the overall shape of the function [11]."
+ },
+ {
+  "year": 2025,
+  "ctx": "In contrast, the authors in [11] introduced a novel model of risk attitudes known as Prospect Theory (PT)."
+ },
+ {
+  "year": 2025,
+  "ctx": "…to nudges remain robust across cultures (Hagman et al., 2015; Sunstein, 2019) as nudges are primarily grounded in universal psychological mechanisms, such as cognitive biases and heuristics, that are considered intrinsic to human cognition (Kahneman & Tversky, 1979; Thaler & Sunstein, 2009)."
+ },
+ {
+  "year": 2022,
+  "ctx": "relies on the assumption that people often know how they would behave in actual situations of choice, and on the further assumption that the subjects have no special reason to disguise their true preferences” [23]."
+ },
+ {
+  "year": 2022,
+  "ctx": "Based on the findings of prospect theory [17], punishments have a stronger effect on behavior than rewards; these are referred to as gain and loss perceptions."
+ },
+ {
+  "year": 2022,
+  "ctx": "Kahneman and Tversky (1979) carried the idea of reference dependence forward with the development of prospect theory and showed that reference dependence underpins a wide range of behavioral anomalies in decision-making under risk."
+ },
+ {
+  "year": 2022,
+  "ctx": "A general finding in this area is that human forecasters are often overconfident and thus mis-calibrated (e.g., Keren, 1991, etc), as codified for instance in Tversky and Kahneman’s celebrated work on prospect theory (Kahneman and Tversky, 2013)."
+ },
+ {
+  "year": 2022,
+  "ctx": ", Keren, 1991, etc), as codified for instance in Tversky and Kahneman’s celebrated work on prospect theory (Kahneman and Tversky, 2013)."
+ },
+ {
+  "year": 2022,
+  "ctx": "From prospect theory (e.g., Kahneman and Tversky 2013), it is known that people tend to put more weight on negative compared to positive information."
+ },
+ {
+  "year": 2022,
+  "ctx": "For example, Quiggin (1993) present the famous Allais-type anomalies, Köszegi and Rabin (2006) introduce the endowment effect for risk, and the risk comparison does not satisfy translational invariance and scaling invariance in some cases. Thus, the fractional degree stochastic dominance rule based on expected utility theory does not have the abilities to resolve Allais-type anomalies, to capture the violation of translational invariance and scaling invariance, and to accommodate the endowment effect for risk. This makes it meaningful to furthermore develop the fractional degree stochastic dominance rule such that it possesses these appealing properties. Reference dependency theory has been introduced in Tversky and Kahneman (1991). It can explain why many risk attitudes are inconsistent with the classical expected utility theory with some different specifications of the reference point, including the status quo, lagged status quo, and the mean of the chosen risk. The reference dependent utility theory has been developed in Köszegi and Rabin (2006) and Köszegi and Rabin (2007). For a wealth level x and a fixed reference point r, the utility function v(x; r, u) in their theory is separated into two terms where the term u(x) is intrinsic “consumption utility” usually assumed relevant in economics, and the term (u(x) − u(r)) is the reference-dependent gain-loss utility."
+ },
+ {
+  "year": 2022,
+  "ctx": "(2019) Kahnemann and Tversky (1979), Köszegi and Rabin (2007), Mao and Hu (2018), Markowitz (1952), Müller and Stoyan (2002), Post and Kopa (2016), Rabin (2000), Richard and Johnson (1990) and von Neumann and Morgenstern (1947))."
+ },
+ {
+  "year": 2022,
+  "ctx": "Individuals, in general, tend to be more risk prone when they hope to avoid likely losses or desire unlikely large gains such as those found with lottery (Kahneman, 2011; Kahneman & Tversky, 1979)."
+ },
+ {
+  "year": 2022,
+  "ctx": "For example, the results that coin‐ cide with the percentages presented by Kahneman and Tversky [3] can be obtained using the formula:"
+ },
+ {
+  "year": 2022,
+  "ctx": "The suggested techniques are verified by direct analysis of the experimental results [3, 4] that conducted on small groups of students and motivated the develop‐ ment of the prospect theory."
+ },
+ {
+  "year": 2022,
+  "ctx": "In order to verify the suggested model, we apply it for analysis of the problems out‐ lined in the papers [3, 4] that initiated the prospect theory."
+ },
+ {
+  "year": 2022,
+  "ctx": "In the original formulation of the pros‐ pect theory [3, 4], it is required that these functions have to meet the indicated above properties, but direct form of the functions is not specified."
+ },
+ {
+  "year": 2022,
+  "ctx": "Then, value V(L) of the prospect L is defined as a sum [3]"
+ },
+ {
+  "year": 2022,
+  "ctx": "In the next section, we apply these functions for consideration of the experimental results [3, 4] that appear in the original developments of the prospect theory."
+ },
+ {
+  "year": 2022,
+  "ctx": "The last step towards the adequate description of decision making with imperfect information resulted in the prospect theory [3, 4] that considers both the impacts of possible choices and the subjective values of the out‐ comes; currently, this theory is widely accepted as an appropriate description of deci‐ sion making with imperfect information [5]."
+ },
+ {
+  "year": 2022,
+  "ctx": "The presented preferences obtained using the suggested model completely coin‐ cide with the experimental results presented by Kahneman and Tversky [3]."
+ },
+ {
+  "year": 2022,
+  "ctx": "Now let us apply the presented procedure to the problems appearing in the paper by Kahneman and Tversky [3] (below they are indicated in brackets)."
+ },
+ {
+  "year": 2022,
+  "ctx": "One theory that offers a systematic way to examine decision-making under risk and uncertainty and that has been employed in recent years by scholars to describe and measure decisions and biases among elected politicians [14–18] is prospect theory [19]."
+ },
+ {
+  "year": 2022,
+  "ctx": "1039), which argues that people deal with gains and losses differently: they overweight losses in relation to equivalent gains, which is captured by loss aversion [19,25]."
+ },
+ {
+  "year": 2022,
+  "ctx": "This happens “because people are limited in their ability to comprehend and evaluate extreme probabilities, highly unlikely events are either ignored or overweighted, and the difference between high probability and certainty is either neglected or exaggerated” [19] (pp."
+ },
+ {
+  "year": 2022,
+  "ctx": "T is happens “because people are limited in their a ility to comprehend evaluate extrem probabilities, highly unlikely events are ither ignored or overweighted, and the difference between high probability and certainty is either neglected or xaggerated” [19] (pp."
+ },
+ {
+  "year": 2022,
+  "ctx": "Prospect theory [19,20]—considered one of the most important descriptive models for risk and ambiguity [21,22]—confronts expected utility theory by asserting that individuals make decisions based on deviations from a reference point rather than on total wealth."
+ },
+ {
+  "year": 2022,
+  "ctx": "This behavior is captured by loss aversion, which suggests that “losses loom larger than gains” [19]."
+ },
+ {
+  "year": 2022,
+  "ctx": "This asymmetry between losses and gains is consistent with Kahneman and Tversky’s (1979) prospect theory."
+ },
+ {
+  "year": 2022,
+  "ctx": "This result is consistent with finding that, for humans, losses are judged more negatively than gains are judged positively (Kahneman & Tversky, 1979)."
+ },
+ {
+  "year": 2022,
+  "ctx": "In the literature of expected utility theory, it is known that a utility function with local convexities is able to explain many individual behaviors, for example, many people buy insurance and also gamble; see [2], [11], [13], [21], among others."
+ },
+ {
+  "year": 2022,
+  "ctx": "Prospect theory (Kahneman and Tversky, 1979) could explain why the loss-framed posters were successful as it suggests that when trying to change behaviors linked to health risk (e.g., physical distancing), loss frames (e.g., making negative consequences of not doing behavior salient) are more…"
+ },
+ {
+  "year": 2022,
+  "ctx": "This was first raised as evidence of ’reflection’ (documented by Kahneman and Tversky (1992)) that is ambiguity aversion for gains reverses into ambiguity seeking for losses. Viscusi and Chesson (1999) finds that ambiguity aversion (’fear’ effects) is due to small probabilities of losses and ambiguity loving due to ’hope’ of lower probabilities of losses. Maffioletti and Santoni (2005) documented ambiguity seeking in individuals’ trading behavior. Other behavioral studies - Mangelsdorff and Weber (1994), Abdellaoui et al. (2005) and Ning Du and (2005) also showed investor have assymetric preferences for ambiguity under the different conditions."
+ },
+ {
+  "year": 2022,
+  "ctx": "The random variable e represents the agent’s subjective belief adjustment as per Kahneman and Tversky (1979) on the U of p + e and D of probability 1− p− e."
+ },
+ {
+  "year": 2022,
+  "ctx": "The agent adjusts their subjective belief adjustment as per Kahneman and Tversky (1979) based on the information signal on the U of p þ E and D of probability 1 (cid"
+ },
+ {
+  "year": 2022,
+  "ctx": "For this purpose, they use a parametric form of prospect theory which corresponds in many respects both with the original version of that theory (Kahneman & Tversky, 1979) and with its later ‘cumulative’ version (Starmer & Sugden, 1989; Tversky & Kahneman, 1992)."
+ },
+ {
+  "year": 2022,
+  "ctx": "Effectiveness\nMessage framings refer to different description ways of the equivalent information (Kahneman & Tversky, 1979)."
+ },
+ {
+  "year": 2022,
+  "ctx": "It is known that the mere difference in the way product message is presented could lead to consumers’ decisional biases (i.e., the framing effect; Kahneman & Tversky, 1979)."
+ },
+ {
+  "year": 2022,
+  "ctx": "Shortly afterwards, the classic paper of Kahneman and Tversky (1979) introduced the world to ‘prospect theory’ which became the most widely used alternative to expected utility theory."
+ },
+ {
+  "year": 2022,
+  "ctx": "The prospect theory of Kahneman and Tversky (1979) states that an individual evaluates messages regarding risk (e.g. environmental issues) in terms of either potential gains (a positive frame, emphasizing desirable consequences), or potential losses (a negative frame, emphasizing undesirable…"
+ },
+ {
+  "year": 2022,
+  "ctx": "Behavioral finance theory: A study of decisions in uncertain situations [10, 11] has shown that decisions are not entirely “economic people” as in efficient market theory whose decisions are influenced by psychological bias."
+ },
+ {
+  "year": 2022,
+  "ctx": "Results from the first event of industries support the prospect theory in behavioral finance by [11]."
+ },
+ {
+  "year": 2022,
+  "ctx": "Coins owned also serves as a control variable to take into account any effects of an s-shaped utility curve (Kahneman and Tversky 1979)."
+ },
+ {
+  "year": 2022,
+  "ctx": "…are a prime example of Calculation Modes, but psychological models that grew out of the realization of bounded rationality, such as prospect theory (Kahneman & Tversky, 1979; Tversky & Kahneman, 1992; Wakker, 2010) and query theory (Johnson et al., 2007; Weber et al., 2007), also belong to the…"
+ },
+ {
+  "year": 2022,
+  "ctx": "The reason for this may be that under loss framing, people’s negative perception of loss information more strongly influenced their intention than the positive perception of equivalent gain information (48)."
+ },
+ {
+  "year": 2022,
+  "ctx": "These two may be weighted linearly in rational agents or nonlinearly in behavioral agents due to riskaversion (Kahneman and Tversky, 2013)."
+ },
+ {
+  "year": 2022,
+  "ctx": "Finally, the expected return—expected loss model is overlapping with prospect theory (Kahneman & Tversky, 1979; Tversky & Kahneman, 1992)."
+ },
+ {
+  "year": 2022,
+  "ctx": "Such an approach can be backed by a large literature in behavioral economics finding evidence of loss aversion (Kahneman & Tversky, 1979)."
+ },
+ {
+  "year": 2022,
+  "ctx": "Behavioral finance literature typically models aversion to negative returns by using the elements of Kahneman and Tversky (1979) prospect theory that aggregates positive and negative returns together, with ‘‘losses looming larger than gains’’."
+ },
+ {
+  "year": 2022,
+  "ctx": "…skð Þ Rj sið Þ P\nh2Gij p shð Þ p sið Þp skð Þ\n¼ 1 2\nXn\ni¼1\nXn\nk¼1\nRj skð Þ Rj sið Þ P\nh2Gmin i;kf gj p shð Þ p sið Þp skð Þ\nð9Þ\nThe expected return—expected loss model is overlapping with Kahneman and Tversky (1979) original prospect theory as well as Tversky and Kahneman (1992) cumulative…"
+ },
+ {
+  "year": 2022,
+  "ctx": "The subsequent development of prospect theory introduced the concept of decision reference points to modify the formulation of expected utilities (Kahneman & Tversky, 1979)."
+ },
+ {
+  "year": 2022,
+  "ctx": "Several studies have assessed the impact of COVID-19 on the tourism industry (Kaushal and Srivastava, 2020; Gössling et al., 2020; Hoque et al., 2020; Higgins-Desbiolles, 2020; Lee and Chen 2020; Boto-Garcı́a and Leoni, 2021; Watson and Deller, 2021)."
+ },
+ {
+  "year": 2022,
+  "ctx": "Kaushal and Srivastava (2020) examined the challenges facing tourism and hospitality amid the pandemic and the lessons the tourism industry can learn from COVID-19 conditions."
+ },
+ {
+  "year": 2022,
+  "ctx": "This also resonates with Prospect-Theory (Kahneman & Tversky, 2013) that coined the term loss aversion referring to a greater weighting of losses as compared to gaining the same amount."
+ },
+ {
+  "year": 2022,
+  "ctx": "These findings corroborate findings that losses often loom larger than gains (Kahneman & Tversky, 1979; McGraw et al., 2010, but also see Gal & Rucker, 2018) and suggest\nFig."
+ },
+ {
+  "year": 2022,
+  "ctx": "(1982), Kahneman and Tversky (1979, 1981, 1984), Krosnick and Kinder (1990), Sheafer and Weimann (2005)."
+ },
+ {
+  "year": 2022,
+  "ctx": "A lion’s share of significant impacts of ability to consume (Croatia, Germany, Estonia, Greece, Hungary, Ireland, Latvia, Netherlands, Romania, Spain, and the UK) generally concur with the postulates of prospect theory (Kahneman and Tversky, 1979)."
+ },
+ {
+  "year": 2022,
+  "ctx": "We hypothesize that the results will go in line with the prospect theory (Kahneman and Tversky, 1979), i.e. that consumption reacts more strongly to negative than to positive changes of both examined Katonian concepts."
+ },
+ {
+  "year": 2022,
+  "ctx": "In this study we will refer primarily to the widespread theory by Kahneman & Tversky (1979, 2013), which describes the process of decision making in a context of uncertainty."
+ },
+ {
+  "year": 2022,
+  "ctx": "This is probably because of the loss aversion theory that loss looms larger than gain (Kahneman and Tversky, 1979)."
+ },
+ {
+  "year": 2022,
+  "ctx": "Theoretical Contribution Building on the previous research (Kahneman and Tversky, 1979; Tversky and Kahneman, 1991; Dhar and Wetenbroch, 2000; Aaker and Lee, 2001; Chernev, 2004), we connected the gap between consumer purchase choices at different price conditions and with hedonic/utilitarian benefits through regulatory focus and loss aversion theory."
+ },
+ {
+  "year": 2022,
+  "ctx": "People tend to underestimate outcomes that are merely probable compared with the outcomes that will happen for sure (Kahneman and Tversky, 1979)."
+ },
+ {
+  "year": 2022,
+  "ctx": "The opportunity-cost framework is well supported by theories such as the ‘loss-aversion theory’ in economics, which refers to individuals’ preference to avoid the risk of losses over acquiring equivalent gains (Kahneman and Tversky 1979)."
+ },
+ {
+  "year": 2022,
+  "ctx": "The relationship of memory and decision making can be better understood by adopting the view of humans as bounded-rational decision makers (Kahneman and Tversky, 1979; Simon, 1956) who have to adapt their choice strategies to meet the challenges of limited knowledge and cognitive capacities."
+ },
+ {
+  "year": 2022,
+  "ctx": "One of these effects is the reflection effect, the finding that people are less willing to accept uncertainty when facing potential gains compared to potential losses (Kahn and Sarin, 1988; Kahneman and Tversky, 1979; Tversky and Kahneman, 1981; Viscusi and Magat, 1992)."
+ },
+ {
+  "year": 2022,
+  "ctx": "…the need for alternative conceptions of the decision-makers (character, personality, health), 21 recognizing the possibility of erroneous perceptions, and allowing for the kinds of non-rational decisions described by Kahneman and Tversky’s Prospect Theory 54,55 and other psychological phenomena."
+ },
+ {
+  "year": 2022,
+  "ctx": "Some aspects of the challenge for model-builders are known, as in recognizing the need for alternative conceptions of the decision-makers (character, personality, health), 21 recognizing the possibility of erroneous perceptions, and allowing for the kinds of non-rational decisions described by Kahneman and Tversky’s Prospect Theory 54,55 and other psychological phenomena."
+ },
+ {
+  "year": 2022,
+  "ctx": "This asymmetry can be explained by the prospect theory (Kahneman & Tversky, 1979), which asserts that loss aversion causes bad news to have a stronger impact than good news."
+ },
+ {
+  "year": 2022,
+  "ctx": "As a theory of behavioral science, prospect theory focuses on explaining how people make decisions when faced with risk and uncertainty [14]."
+ },
+ {
+  "year": 2022,
+  "ctx": "We develop a conceptual framework on the basis of prospect theory [14], which has been widely used to explain risky decision behavior."
+ },
+ {
+  "year": 2020,
+  "ctx": "Hence, the characteristics of the value of attaining a goal can be similar to those of the value function in Prospect Theory (Kahneman & Tversky, 1979)—losses loom larger than gains, diminishing sensitivity from the origin: concave in gains and convex in losses."
+ },
+ {
+  "year": 2020,
+  "ctx": "27See particularly Tversky and Kahneman 1974; Kahneman and Tversky 1979."
+ },
+ {
+  "year": 2020,
+  "ctx": "This led the experts to believe that investors may underreact or overreact to certain market information and this irrational behavior can move a security’s price further away from its fundamental value (Kahneman & Tversky, 1979)."
+ },
+ {
+  "year": 2020,
+  "ctx": "Yet, people are particularly sensitive to losses (Kahneman & Tversky, 1979) and vigilant for negative information (Pratto & John, 1991)."
+ },
+ {
+  "year": 2020,
+  "ctx": "This finding is consistent with past work on loss aversion [44] 439 and motivation to avoid failure [45,65], and more generally, with the findings that distinct 440 neural circuits are specialized for processing appetitive versus aversive outcomes 441 [66,67]."
+ },
+ {
+  "year": 2020,
+  "ctx": "These asymmetric effects of rewards and 301 punishment on reward rate are consistent with research on loss aversion [44] and error 302 aversion [45]."
+ },
+ {
+  "year": 2020,
+  "ctx": "Kahneman and Tversky (1979)9 pulled these patterns together into a model called “prospect theory”.10 It is their alternative to expected utility theory."
+ },
+ {
+  "year": 2020,
+  "ctx": "However, decisions within the realm of child welfare practice are made under uncertainty (Baumann et al., 2011), whereby the likelihood of outcomes are vulnerable to heuristics and biases increasing the possibility of error (Kahneman & Tversky, 1979)."
+ },
+ {
+  "year": 2020,
+  "ctx": "Certain heuristics and biases are more common in situations that include time pressures (Dijker & Kooman, 1996; Ferguson, 2018), social issues (Kahneman & Tversky, 1979), and within an organizational context (Smith et al., 2010), common to child welfare."
+ },
+ {
+  "year": 2020,
+  "ctx": "…that may occur in child welfare include, but are not limited to, overconfidence (excess of confidence in one’s understanding of a situation; Kahneman & Tversky, 1979), risk (the mere emotion that risk may trigger can influence assessments and actions; Kahneman, 2013; Munro, 1999), and…"
+ },
+ {
+  "year": 2020,
+  "ctx": "According to prospect theory, people weigh losses more heavily than gains of the same magnitude (Kahneman & Tversky, 1979; Tversky & Kahneman, 1991)."
+ },
+ {
+  "year": 2020,
+  "ctx": "Psychological research has shown that although news certainly influences stock market prices, public mood, states or sentiment may play an equally important role, as they play a significant role in human decision-making (Kahneman and Tversky 1979; Stieglitz and Dang-Xuan 2013)."
+ },
+ {
+  "year": 2020,
+  "ctx": "Moreover, prospect theory (Kahneman and Tversky, 1979) suggests that losses are seen more negatively than similar volumes of benefits are seen as positive, which means that the overall volume of benefits (including potential compensations) may need to increase, if there is redistribution among…"
+ },
+ {
+  "year": 2020,
+  "ctx": "Discount rates and access to capital, as well as the implications of prospect theory on the redistribution of interests (Kahneman and Tversky, 1979), are relevant when a change is needed and involves costly actions for stakeholders."
+ },
+ {
+  "year": 2020,
+  "ctx": "A possible explanation of this empirical evidence is that the decision-making in humans is not perfectly rational, and might be subservient to emotions and cognitive biases [4, 5]."
+ },
+ {
+  "year": 2020,
+  "ctx": "%) to make the design more robust to various probability-weighting functions (Kahneman & Tversky, 1979)."
+ },
+ {
+  "year": 2020,
+  "ctx": "A participant with increasing sensitivity to error (or decreasing sensitivity to gains, as in prospect theory; Kahneman & Tversky, 1979) would value the upgrade-to-2 version of the model over the upgrade-to-1 version and would value the latter over the upgrade-to-perfect version because they would…"
+ },
+ {
+  "year": 2020,
+  "ctx": "In fact, in the domain of gains, people would typically pay to reduce variance in their earnings (Kahneman & Tversky, 1979)."
+ },
+ {
+  "year": 2020,
+  "ctx": "Demonstrating the perfection premium in interpersonal evaluations is particularly valuable because it helps rule out the alternative explanations of physical contamination (Rozin & Nemeroff, 1990) and certainty (Kahneman & Tversky, 1979)."
+ },
+ {
+  "year": 2020,
+  "ctx": "Email: isaacm@seattleu.edu\nThe preference for certain outcomes was first documented in the Allais paradox (1953) and has been labeled the certainty effect (Kahneman & Tversky, 1979) or the 100% effect (Li & Chapman, 2009)."
+ },
+ {
+  "year": 2020,
+  "ctx": "Because decision weights are “not well-behaved near the endpoints” (Kahneman & Tversky, 1979, p. 283), a change in probability near 0% or 100% is weighted more heavily than an identically sized change in the middle of a distribution."
+ },
+ {
+  "year": 2020,
+  "ctx": "For example, in a game of Russian roulette involving a gun with six chambers, people are willing to pay more to reduce the number of bullets from one to zero than from four to three although each option reduces their chance of death by 16.67% (Kahneman & Tversky, 1979)."
+ },
+ {
+  "year": 2020,
+  "ctx": "By contrast with the literature on risk aversion, the literature on loss aversion (e.g., Kahneman and Tversky, 1979, 1991) suggests that for most people, (a) > (b)."
+ },
+ {
+  "year": 2020,
+  "ctx": "Given loss aversion (Kahneman & Tversky, 1979), it would be interesting to test whether negative changes are more resistant to hedonic adaptation."
+ },
+ {
+  "year": 2020,
+  "ctx": "The asymmetries in probability weights mirrors the asymmetric reaction to gains and losses (Kahneman and Tversky 1979)."
+ },
+ {
+  "year": 2020,
+  "ctx": "First,most philosophical discussions of decision theory continue to focus on traditional neoclassical theories of decision making, such as Expected Utility Theory (Von Neumann & Morgenstern, 1944/ 1953; Savage, 1954), or basic versions of behavioral models, such as the initial version of Prospect Theory (Kahneman & Tversky, 1979), tending to ignore the models of decision making that are most used, discussed, and experimentally tested by current decision theorists."
+ },
+ {
+  "year": 2020,
+  "ctx": "It is correct that both mainstream decision theory and behavioral decision theory in the tradition of Kahneman and Tversky (1979) are committed to some notion of preference.6 However, in the heuristic-based approach to decision theory, inaugurated by Simon (1955) and developed, among others, by…"
+ },
+ {
+  "year": 2020,
+  "ctx": "Restricting attention tomodels of decisionmaking under risk and uncertainty, we observe suchmodels as Rank Dependent Utility theory, Cumulative Prospect Theory, Choquet Expected Utility theory, the Maximin Expected Utility model, or the Smooth Model (for a textbook presentation of these models, see Dhami, 2016)."
+ },
+ {
+  "year": 2020,
+  "ctx": "…(Von Neumann & Morgenstern, 1944/ 1953; Savage, 1954), or basic versions of behavioral models, such as the initial version of Prospect Theory (Kahneman & Tversky, 1979), tending to ignore the models of decision making that are most used, discussed, and experimentally tested by current…"
+ },
+ {
+  "year": 2020,
+  "ctx": "Given that being in the domain of loss is so painful, if an individual is in that domain, she will be willing to take large risks if the outcome can potentially move her into the domain of gain (Kahneman and Tversky 1979; Simon et al. 2003; Stanton et al. 2014)."
+ },
+ {
+  "year": 2020,
+  "ctx": "Prospect theory posits that when performance falls below a decision maker’s pre-established reference point, she will be in the domain of loss, which will have a substantial negative impact on utility (Kahneman and Tversky 1979)."
+ },
+ {
+  "year": 2020,
+  "ctx": "Risk taking Consistent with past research on risky choice (e.g., Dambacher et al. 2016; Webb and Shu Data 2017) and prospect theory (Kahneman and Tversky 1979), we asked subjects to make six choices between a sure thing and a risky option."
+ },
+ {
+  "year": 2020,
+  "ctx": "Based on prospect theory’s availability heuristic (Kahneman 2011; Kahneman and Tversky 1979; Tversky and Kahneman 1973), we believe that the more effort entrepreneurs invest in creating forecasts, the more easily they will be able to recall the financial forecasts."
+ },
+ {
+  "year": 2020,
+  "ctx": "A great deal of effort has been made to build up the realism of behavioral assumptions and extensive studies have focused on the limited rationality (eg: Prospect theory, Kahneman and Tversky 1979, and Cumulative Prospect theory, Tversky and Kahneman 1992)."
+ },
+ {
+  "year": 2020,
+  "ctx": "Reference point is regarded to be the most important parameter, as people tell gains from losses and the payoffs are worked as gains or losses when compared to some reference points (Kahneman and Tversky 1979)."
+ },
+ {
+  "year": 2020,
+  "ctx": "Kahneman and Tversky (1979) develop prospect theory to explain the tendency that people underweight outcomes that are merely probable in comparison with outcomes that are obtained with certainty."
+ },
+ {
+  "year": 2020,
+  "ctx": "The so-called “Easterlin paradox” and the work of Kahneman and Tversky (1979) generated further impetus to research on status."
+ },
+ {
+  "year": 2020,
+  "ctx": "Kahneman and Tversky (1979) explained that decisions are affected by changes from a reference point rather than absolute states of wealth."
+ },
+ {
+  "year": 2020,
+  "ctx": "Prospect theory, which is proposed by Kahneman and Tversky (1979) and Tversky and Kahneman (1992), suggests that investors change their risk behavior when their wealth is above or below a certain reference point."
+ },
+ {
+  "year": 2020,
+  "ctx": "Their behavioral tests showed that rational shortcuts arise in decisions characterized by unclarity or complexity, derived from the presence of enormous, or insufficient, quantities of information to bear in mind during the decision-making process (Kahneman and Tversky 1974, 1979)."
+ },
+ {
+  "year": 2020,
+  "ctx": "The second category, heuristics, was firstly conceptualized by Kahneman and Tversky (1974, 1979) in their heuristics and biases’ research program."
+ },
+ {
+  "year": 2020,
+  "ctx": "The cumulative prospect theory (CPT) is a non-expected utility measure that describes the risk-sensitivity of humans’ decision-making processes (Kahneman and Tversky 2013)."
+ },
+ {
+  "year": 2020,
+  "ctx": "It sug-\ngests that people judge utility against a reference point, weigh losses more heavily than gains and are more prone to risky decisions having suffered a loss; see Kahneman and Tversky (1979)."
+ },
+ {
+  "year": 2020,
+  "ctx": "In global politics, perceptions of risk and reward, as well as experiences of gains and losses, are rarely as neatly quantifiable as in the experiments devised by Kahneman and Tversky (1979,\n1984)."
+ },
+ {
+  "year": 2020,
+  "ctx": "This preference includes loss aversion and prospect theory (Kahneman and Tversky (1979)), disappointment aversion (Gul (1991)), and a preference for spread (Wakai (2008))."
+ },
+ {
+  "year": 2020,
+  "ctx": "Therefore, we consider the current utility as a type of reference point in the sense of Kahneman and Tversky (1979)."
+ },
+ {
+  "year": 2020,
+  "ctx": "Similarly, prospect theory argues that the value function is steeper in the loss compared to the gain domain (Kahneman & Tversky, 1979)."
+ },
+ {
+  "year": 2020,
+  "ctx": "Risk decision-making refers to the choice made after weighing the options with multiple outcomes and stated probabilities of their occurrence (Kahneman & Tversky, 1979)."
+ },
+ {
+  "year": 2020,
+  "ctx": "When risky choices are framed as gains, participants select the certain option more often than when risky choices are framed as losses (Kahneman & Tversky, 1979; Tversky & Kahneman, 1981), even when both frames are logically equivalent."
+ },
+ {
+  "year": 2020,
+  "ctx": "Risky choice framing effects were first explained by the Prospect Theory value function, which predicts risk aversion for gains but risk seeking for losses (Kahneman & Tversky, 1979)."
+ },
+ {
+  "year": 2020,
+  "ctx": "DECISION MODEL BASED ON PROSPECT THEORY Prospect theory [13]-[14] is a behavioral economics theory that evaluates the way people choose among probabilistic alternatives that involve risk."
+ },
+ {
+  "year": 2020,
+  "ctx": "In this paper, the prospect theory [13]-[14] is proposed for decision-making evaluation of joint dispatch schemes of cascade hydropower stations."
+ },
+ {
+  "year": 2020,
+  "ctx": "…this effect by considering a goal-dependent, nonmonetary value function v (yi − g) that satisfies the following prospect theoretic properties (Kahneman and Tversky 1979):\n1. v(0) 0 (goal as a reference point);\n2. v′( · ) > 0 (increase in production given a goal); 3. for all x> 0, −v (−x)…"
+ },
+ {
+  "year": 2020,
+  "ctx": "It has also been accepted, at least since the development of prospect theory by Kahneman and Tversky (1979), that individuals have non-zero preferences for moments higher than the variance."
+ },
+ {
+  "year": 2020,
+  "ctx": "According to prospect theory, individuals are lossaverse (Tversky and Kahneman 1991), weighing potential losses from switching as larger than potential gains (Kahneman and Tversky 1979; Samuelson and Zeckhauser 1988)."
+ },
+ {
+  "year": 2020,
+  "ctx": "The authors justify this behavior with the concept of loss aversion by Kahneman and Tversky (1979)."
+ },
+ {
+  "year": 2020,
+  "ctx": "This decision strategy originated from a study by Kahneman and Tversky (1979), which shows that in a bet with the same chance of loss and proﬁt, the participants suﬀer more from loss than rejoice over the proﬁt, which is why they reject the bet."
+ },
+ {
+  "year": 2019,
+  "ctx": "…of environmental change in terms of a looming loss or a potential gain affect their risk-bearing (Anderson and Nichols, 2007; Bromiley, 2010; Kahneman and Tversky, 1979; Pérez-Nordtvedt et al., 2014; Wiseman and Gomez-Mejia, 1998) and how this then affects their decisions and actions on…"
+ },
+ {
+  "year": 2019,
+  "ctx": "Meanwhile, people who perceive an opportunity, with its associated potential gain, tend to become more risk-averse, since they have more to lose than they have to gain (Kahneman and Tversky, 1979; Wiseman and Gomez-Mejia, 1998)."
+ },
+ {
+  "year": 2019,
+  "ctx": "Here, prospect theory suggests that likely gains are related to more control-directed actions since firms have more to lose than they do to gain (Chattopadhyay et al., 2001; Kahneman and Tversky, 1979; Osiyevskyy and Dewald, 2015; Wiseman and Gomez-Mejia, 1998)."
+ },
+ {
+  "year": 2019,
+  "ctx": "…of environmental changes in terms of a looming loss or potential gain affect their risk-bearing (Anderson and Nichols, 2007; Bromiley, 2010; Kahneman and Tversky, 1979; Pérez-Nordtvedt et al., 2014; Wiseman and Gomez-Mejia, 1998) and how this affects their decisions and actions on…"
+ },
+ {
+  "year": 2019,
+  "ctx": "…or decision makers in terms of a looming loss or potential gain, earlier studies have relied on prospect theory (Chattopadhyay et al., 2001; Kahneman and Tversky, 1979; Osiyevskyy and Dewald, 2015; Wiseman and GomezMejia, 1998).4 According to prospect theory, people who anticipate a…"
+ },
+ {
+  "year": 2019,
+  "ctx": "…75 Number 3 43\nfunctions that define utility with reference to a wealth or return target—for example, Hogan and Warren (1972), Fishburn (1977), Holthausen (1981), Stutzer (2003), Kahneman and Tversky (1979), Tversky and Kahneman (1992), Anthonisz (2012), and Estrada and Kritzman (2018)."
+ },
+ {
+  "year": 2019,
+  "ctx": "Recent research stresses the importance of change in information\ngathering (Kahneman and Tversky 1979), and finds evidence that demographic changes influence how individuals perceive their community and understand its identity."
+ },
+ {
+  "year": 2019,
+  "ctx": "Hence, at the very end of the survey we measured each participant’s risk tolerance (using a method similar to Kahneman & Tversky, 1979), by asking their preference between two options whose risk and payoff were identical to the portfolios."
+ },
+ {
+  "year": 2019,
+  "ctx": "Several researchers noted that an individual’s distaste for losses is a separate attitude from dislike of volatility, and that risk-taking behavior could be characterized by an aversion to losses (Kahneman and Tversky 1979; Tversky and Kahneman 1992; Kahneman and Riepe 1998; Shefrin 2000)."
+ },
+ {
+  "year": 2019,
+  "ctx": "This predicament, they explain, can be traced to cognitive biases, that is, to errors in the way the mind processes information (see also Kahneman & Tversky, 1979; Kahneman, Slovic, & Tversky, 1982; Slovic, 1987)."
+ },
+ {
+  "year": 2019,
+  "ctx": "In fact, we cannot accurately predict the ultimate use value, and our value judgment for the same amount of gains and losses are often different (Kahneman and Tversky, 1979)."
+ },
+ {
+  "year": 2019,
+  "ctx": "We assume that n(w|r) ≡ μ(v(w)−v(r)) where μ is a gain-loss value function that exhibits loss aversion in the spirit of Kahneman and Tversky (1979) and Tversky and Kahneman (1991). We impose the following assumptions:"
+ },
+ {
+  "year": 2019,
+  "ctx": "However, because individuals are risk averse (Kahneman and Tversky, 1979), a guaranteed reward should be more effective at influencing behaviour than a lottery with the same expected value."
+ },
+ {
+  "year": 2019,
+  "ctx": "Many individuals tend to be more motivated to avoid losses than to gain the same-sized reward [5]."
+ },
+ {
+  "year": 2019,
+  "ctx": "Stock investment risk is at the same rate to return therefore it would be considered by the investors Kahneman and Tversky [21]."
+ },
+ {
+  "year": 2019,
+  "ctx": "Because losses loom larger than gains (Kahneman & Tversky, 1979), we assess whether being treated unfairly by losing an amount of money evoked stronger dishonest reactions compared with being treated unfairly by not gaining an amount of money."
+ },
+ {
+  "year": 2019,
+  "ctx": "In accordance with Kahneman and Tversky [12, 33], PT depicts a human’s behavior decision process in two stages."
+ },
+ {
+  "year": 2019,
+  "ctx": "As for this issue, much attention has been paid to prospect theory (PT), and it has been found as a useful tool to depict DMs’ psychological behavior facing an uncertain and risky environment [12, 33]."
+ },
+ {
+  "year": 2019,
+  "ctx": "Alternative theories of risk-taking are empirically tested using binary experiments asking people to make consequential or hypothetical choices among a number of discrete risky options (Edwards, 1954b; Kahneman & Tversky, 1979; O’Donoghue & Somerville, 2018)."
+ },
+ {
+  "year": 2019,
+  "ctx": "Going a step further, people may subjectively reassess the value of succeeding or dropping out in the make-or-break task (Atkinson, 1957; Heath et al., 1999; Lewin et al., 1944) or distort the probabilities of success and failure at each level of invested effort (Kahneman & Tversky, 1979)."
+ },
+ {
+  "year": 2019,
+  "ctx": "Prices higher than consumers’ reference price can lead them to feel they need to pay more than what they believe is equitable (Kahneman and Tversky 1979)."
+ },
+ {
+  "year": 2019,
+  "ctx": "Adopting the revised price estimate as their updated reference price can consequently reveal a discrepancy at the time of the subscription renewal, when subscribers compare the full subscription price with their lowered reference price (Kahneman and Tversky 1979)."
+ },
+ {
+  "year": 2019,
+  "ctx": "Kahneman and Tversky (1979) proposed a utility function that assigns value to gains and losses rather than wealth levels."
+ },
+ {
+  "year": 2019,
+  "ctx": "Facing a situation in which individuals would initially have a natural tendency to be risk-takers, for example in the domain of losses (Kahneman & Tversky, 1979), group discussions would lead to a “risky shift,” with even greater risk-taking; while in the gains domains, if individuals are more…"
+ },
+ {
+  "year": 2019,
+  "ctx": "Figure 5 displays a classic\nversion due to Kahneman and Tversky (1979)."
+ },
+ {
+  "year": 2019,
+  "ctx": "Minimal frames are compact presentations of choices and, for choice under risk, formalize the ‘prospect’ presentation of lotteries pioneered by Kahneman and Tversky (1979)."
+ },
+ {
+  "year": 2019,
+  "ctx": "For instance, even with linear utility, SWUP explain the classical versions of the common consequence effect and common ratio effect in Kahneman and Tversky (1979) and the violation of stochastic dominance in Tversky and Kahneman (1986) in minimal frames, but SWUP satisfies independence and…"
+ },
+ {
+  "year": 2019,
+  "ctx": "In such choices, most subjects choose 𝑞𝑞 over 𝑝𝑝 and choose 𝑝𝑝� over 𝑞𝑞� (Kahneman and Tversky, 1979)."
+ },
+ {
+  "year": 2019,
+  "ctx": "Cumulative Prospect Theory has been used to explain why individuals love buying classical lottery tickets which have negative expected outcome(Kahneman and Tversky, 1979)."
+ },
+ {
+  "year": 2019,
+  "ctx": "From an experiment conducted by Kahneman and Tversky (1979), people feel it unattractive to enter the symmetric bet of winning y or losing y with equal probability, which justiﬁes the assumption that the value function for losses is steeper than that for gains ( v (cid:48) ( y )   v (cid:48) ( − y…"
+ },
+ {
+  "year": 2019,
+  "ctx": "that the pain for a loss is felt much more than the joy felt for a similar magnitude of gain [32]."
+ },
+ {
+  "year": 2019,
+  "ctx": "Future campaigns with more restricted budgets could instead offer lottery prizes, which take advantage of how people tend to overestimate small probabilities (Kahneman & Tversky, 1979)."
+ },
+ {
+  "year": 2019,
+  "ctx": "…is concave for gains and convex for losses, which indicates diminishing sensitivity to outcomes further from the RP; and (d) probability weighting—the decision maker overweighs small probabilities and underweighs large probabilities (Kahneman & Tversky, 1979; Tversky & Kahneman, 1992)."
+ },
+ {
+  "year": 2019,
+  "ctx": "Our results are consistent with PT (Kahneman & Tversky, 1979): We observe concave utility curvature for gains and convex utility curvature for losses, inverse S‐shaped probability weighting, and considerable loss aversion."
+ },
+ {
+  "year": 2019,
+  "ctx": "…forms within experimental elicitation can confound results (Abdellaoui, 2000), thus\n1These statements hold regardless if one believes EU to be the normative standard (as Kahneman & Tversky, 1979, and Wakker, 2010, do), which would, for example, classify loss aversion as “irrational” or a bias."
+ },
+ {
+  "year": 2019,
+  "ctx": "PT is characterized by four tenets (Kahneman & Tversky, 1979; Tversky & Kahneman, 1992)."
+ },
+ {
+  "year": 2019,
+  "ctx": "Thus, an option which leads to a loss compared to the reference point is perceived more negatively than if the same option led to a gain compared to the reference (Kahneman and Tversky 1979)."
+ },
+ {
+  "year": 2019,
+  "ctx": "According to Prospect Theory, the value of options being evaluated is determined relative to a reference point, such as the status quo or former experience (Kahneman and Tversky 1979; Parducci 1984; Tversky and Kahneman 1992; Ungemach, Stewart, and Reimers 2011; Vlaev et al. 2011)."
+ },
+ {
+  "year": 2019,
+  "ctx": "Kahneman and Tversky (1979) suggested that decision-making is not based on absolute outcomes, but rather on the relative perceptions of gains and losses."
+ },
+ {
+  "year": 2019,
+  "ctx": "One of the most commonly used framings is valence framing, theoretically based on prospect theory, developed by Kahneman and Tversky (1979)."
+ },
+ {
+  "year": 2019,
+  "ctx": "Considerations of what constitutes optimal behavior have long played a prominent role in research on human decision-making (e.g., Kahneman and Tversky (1979) and Savage (1954))."
+ },
+ {
+  "year": 2019,
+  "ctx": "The gap between the two (i.e., error in perception), which occurs due primarily to individuals’ cognitive biases in probabilistic judgment (Kahneman & Tversky, 1979) as well as bounded scopes of opinion monitoring (Sohn & Geidner, 2016), turns out a crucial determinant of the spiral of silence…"
+ },
+ {
+  "year": 2019,
+  "ctx": "More recently, in the widely cited prospect theory, Kahneman and Tversky (1979) suggest the notion of a Breference point^ on a utility scale, telling apart (perceived) gains from losses."
+ },
+ {
+  "year": 2019,
+  "ctx": "U r U(x; r) P (x; y; p) + U(y; r) 1 P (x; y; p) (31)"
+ },
+ {
+  "year": 2019,
+  "ctx": "The notion of framing a decision in terms of losses was conceptualized in a series of experiments by Kahneman and Tversky (1979, 1984), who showed that people become risk seeking when faced with choices that are framed in terms of sure losses and risk averse when the same choices are framed in…"
+ },
+ {
+  "year": 2019,
+  "ctx": "In line with Kahneman and Tversky (1979, 1984), a higher consent rate was obtained under the loss-framing strategy (66.8 percent vs. 56.1 percent).1\nFor the survey designer, it is useful to know that both beginning-placement and loss-framing the linkage consent request can positively impact the…"
+ },
+ {
+  "year": 2019,
+  "ctx": "Second, from the perspective of behavioral economics, testing for risk aversion is problematic because, relative to the reference point, many individuals are riskaverse or risk-neutral in gains but risk-seeking in losses (Kahneman and Tversky 1979)."
+ },
+ {
+  "year": 2019,
+  "ctx": "Perhaps the simplest way is suggested by the work of Kahneman and Tversky (1979),\nwho incorporate what they term a reference point in their prospect theory by assuming that an\nindividual suffers a loss in utility if he or she does not achieve some given level of income or wealth\ndefined by the…"
+ },
+ {
+  "year": 2019,
+  "ctx": "The most popular behavioral models of decision making under risk, i.e., (cumulative) prospect theory (Kahneman and Tversky 1979; Tversky and Kahneman 1992) and the model of Koszegi and Rabin (2006, 2007), suppose that utility is referencedependent."
+ },
+ {
+  "year": 2019,
+  "ctx": "…modelled within the framework of expected utility (EU) theory with a concave utility function over wealth (Von Neumann & Morgenstern, 1944), often considered to be the normative and rational benchmark for decision making under risk (e.g., Harsanyi, 1955; Kahneman & Tversky, 1979; Wakker, 2010)."
+ },
+ {
+  "year": 2019,
+  "ctx": "However, such an assumption has been challenged by behavioral economists who have shed light on the fact that economic agents only have bounded rationality and are subject to the effect of social, psychological, cognitive, and emotional factors (Kahneman and Tversky 1979, 1992, 2013)."
+ },
+ {
+  "year": 2019,
+  "ctx": "…1630s. Risk and uncertainty, as behavioral economists have illuminated over the past decades, affect human decision-making in a way that consistently diverges from neoclassical economic theories under the homo economicus assumption (Kahneman and Tversky 1979, 1992, 2013; Thaler and Sunstein 2008)."
+ },
+ {
+  "year": 2019,
+  "ctx": "The influential prospect theory developed by Kahneman and Tversky (1979, 1992) arises as a descriptive model not only complicating Bernoulli’s experiments, but also verifying the consistency of human behavior across time and culture."
+ },
+ {
+  "year": 2019,
+  "ctx": "Arts 2019, 8, 72 8 of 21\non the fact that economic agents only have bounded rationality and are subject to the effect of social, psychological, cognitive, and emotional factors (Kahneman and Tversky 1979, 1992, 2013)."
+ },
+ {
+  "year": 2019,
+  "ctx": "We posit that the influence of the selection mechanisms is moderated by individuals' risk tolerance and feelings of\npersonal efficacy or what we call “policy entrepreneurship” in this study (Kahneman & Tversky, 1979; Mercer, 2005)."
+ },
+ {
+  "year": 2019,
+  "ctx": "Further examples are demonstrated by the fact that people are more risk-loving when facing losses compared to facing gains (Kahneman and Tversky, 1984; Tversky and Kahneman, 1991) and the endowment e ect (Kahneman et al, 1990) with loss-aversion and reference-dependent preferences as the main driving factor (Kahneman and Tversky, 1979)."
+ },
+ {
+  "year": 2019,
+  "ctx": "It should also be noted that prospect theory predicts risk aversion when outcomes are framed as gains and risk-seeking when outcomes are framed as losses (Kahneman and Tversky 1979)."
+ },
+ {
+  "year": 2019,
+  "ctx": "In the formulation of prospect theory, Kahneman and Tversky (1979) found that individuals attach “psychological weight” (see Wu and Gonzalez 1996, p. 1676) to outcomes, and that such weights may be discrepant with stated probabilities."
+ },
+ {
+  "year": 2019,
+  "ctx": "Kahneman and Tversky (1979) identified the ten-ets of EUT and tested whether these held when individuals were faced with risky gambles involving changes in wealth."
+ },
+ {
+  "year": 2019,
+  "ctx": "Kahneman and Tversky (1979) identified that managers tended to be more willing to undertake risky gambles http://dx.doi.org/10.21511/imfi.16(2)."
+ },
+ {
+  "year": 2019,
+  "ctx": "Kahneman and Tversky (1979) noted that while laboratory experiments provide insight, qualitative results from real-world analysis of consumer behavior suffer severe drawbacks in assessing probability and utility."
+ },
+ {
+  "year": 2019,
+  "ctx": "PT proports that individuals assess multiple stage prospects that have dependent outcomes with disregard to prior information or the results of choices already made (the isolation effect (Kahneman & Tversky, 1979))."
+ },
+ {
+  "year": 2019,
+  "ctx": "While the research assumes that Kahneman and Tversky (1979) correctly identified violations of EUT, it is important to provide an overview of the axioms from which EUT draws its conclusions."
+ },
+ {
+  "year": 2019,
+  "ctx": "A large number of surveys show that human beings usually make the belief degrees deviate far from the frequency (Kahneman and Tversky 1979; Liu 2015)."
+ },
+ {
+  "year": 2019,
+  "ctx": "Risky choice behavioral modeling Decision-making behavior for self and other during the risky choice task was modeled using prospect theory (Kahneman and Tversky, 1979) (Equation 3):\nSVo¼ Poð Þ Roa (3)\nThis model assumes that the subjective value (SV) of a given option (o) is determined by the…"
+ },
+ {
+  "year": 2018,
+  "ctx": "There are theories that recognize imperfect knowledge, cognitive constraints in decision-making, and biased weights on gains and losses (e.g. Simon 1955; Kahneman and Tversky 1979)."
+ },
+ {
+  "year": 2018,
+  "ctx": "Kahneman and Tversky (1979) referred to framing as the effects of varying information in messages on individuals’ judgment."
+ },
+ {
+  "year": 2018,
+  "ctx": "As the psychology literature points out, human preferences are inconsistent with expected utilities regardless of what nonlinearities are used [3]–[5]."
+ },
+ {
+  "year": 2018,
+  "ctx": "An approach that gained strong support among psychologists, behavioral scientists, and economists (cf., [6] and [7]) is based on Kahneman and Tversky’s [5] celebrated the prospect theory (PT), the theory that we will also base our models of human preferences on in this study."
+ },
+ {
+  "year": 2018,
+  "ctx": ", [6] and [7]) is based on Kahneman and Tversky’s [5] celebrated the prospect theory (PT), the theory that we will also base our models of human preferences on in this study."
+ },
+ {
+  "year": 2018,
+  "ctx": "Given that the pain of losing is psychologically a much more powerful driver of behaviours than the prospect of gaining (Kahneman and Tversky 1979), people should have a tendency to stay in a job that they experience as satisfying, rather than looking for an alternative career that promises a…"
+ },
+ {
+  "year": 2018,
+  "ctx": "The analysis outlined below is based on the prospect theory (Kahneman and Tversky 1979) and refer to voters’ experience of unpopular “anticrisis” reforms announced in the policy statement of Prime Minister Donald Tusk made in the parliament on 18 November 2011, a part of which was actually put into…"
+ },
+ {
+  "year": 2018,
+  "ctx": "This is a key finding of the prospect theory conceived by Kahneman and Tversky (1979)."
+ },
+ {
+  "year": 2018,
+  "ctx": "The presented concept, regardless of the marketing strategy of communicating negative events to voters, extends the prospect theory (Kahneman and Tversky 1979)."
+ },
+ {
+  "year": 2018,
+  "ctx": "He also pioneered the use within economics of their Prospect Theory approach to risky choices (Kahneman and Tversky 1979), showing it had significant implications even where choices were not seen as risky."
+ },
+ {
+  "year": 2018,
+  "ctx": "Also, prospect theory suggests that escaping negative consequences is perceived to be more important than approaching equally large positive consequences (Kahneman & Tversky, 1979), and this would imply that negative appeals would make people respond more than positive appeals."
+ },
+ {
+  "year": 2018,
+  "ctx": "…to show how seemingly simple, almost unnoticeable changes in the wording of decision questions can lead to totally different preferences known as framing effects (Freling, Vincent, & Henard, 2014; Kahneman & Tversky, 1979; Kühberger, 1995) or 'preference orders' (Kühberger & Tanner, 2010 p, 314)."
+ },
+ {
+  "year": 2018,
+  "ctx": "Framing was operationalised by Kahneman and Tversky (1979) in Prospect Theory (hitherto referred to as PT) as the presentation of information to produce different consumer effects (Kahneman & Tversky, 1979; Levin, Schneider, & Gaeth, 1998; Tversky & Kahneman, 1981)."
+ },
+ {
+  "year": 2018,
+  "ctx": "The many framing experiments conducted by Kahneman and Tversky (1979) and Tversky and Kahneman (1981) exemplify these effects."
+ },
+ {
+  "year": 2018,
+  "ctx": "Kahneman and Tversky (1979) used the construct to show how seemingly simple, almost unnoticeable changes in the wording of decision questions can lead to totally different preferences known as framing effects (Freling, Vincent, & Henard, 2014; Kahneman & Tversky, 1979; Kühberger, 1995) or…"
+ },
+ {
+  "year": 2018,
+  "ctx": ", economic decision-making 79 task) [9-11], rather than the process of learning/estimating action values through trial-and80 error/reinforcement learning (e."
+ },
+ {
+  "year": 2018,
+  "ctx": "making [9-11] are highly relevant to these coaching principles."
+ },
+ {
+  "year": 2018,
+  "ctx": "For example, within economic decision-making participants consistently display loss aversion 83 whereby they tend to avoid choices that lead to loss, even when accompanied with the opportunity to 84 receive equal or larger gains [9-11]."
+ },
+ {
+  "year": 2018,
+  "ctx": "previous experience, referred to as their reference point [9,21]."
+ },
+ {
+  "year": 2018,
+  "ctx": "Dec. Making (2016)\nDOI: 10.1002/bdm\nrisky choice research, such as the common-consequence effect, which demonstrates violations of the key assumptions of expected utility theory (Kahneman & Tversky, 1979)."
+ },
+ {
+  "year": 2018,
+  "ctx": "The famous common-consequence effect (Allais, 1953; Kahneman & Tversky, 1979) shows that this prediction is violated."
+ },
+ {
+  "year": 2018,
+  "ctx": "Our choice problems were analogous to the commonconsequence effect questions used to test the independence assumption in risky choice (Allais, 1953; Kahneman & Tversky, 1979)."
+ },
+ {
+  "year": 2018,
+  "ctx": "Starting from numerous empirical studies in this field (Tversky & Kahneman, 1974; Kahneman & Tversky, 1979; Chi & Fan, 1997; Busenitz & Barney, 1997; Hodgkinson, Maule, Bown, Pearman & Glaister, 2002; Roxburg, 2003; Korte, 2003; Forbes, 2005; Hammond, Keeney & Raiffa, 2006; Jamieson & Hyland, 2006;…"
+ },
+ {
+  "year": 2018,
+  "ctx": "…and that, together with a change in the manner of the interpretation of information, they also change their attitudes (Tversky & Kahneman, 1974; Kahneman & Tversky, 1979; Jamieson & Hyland, 2006; Hammond et al, 2006; Chira, Adams & Thornton, 2008; McKenzie et al, 2011; Bresnick & Parnell,…"
+ },
+ {
+  "year": 2018,
+  "ctx": "Polazeći od brojnih empirijskih studija u ovoj oblasti (Tversky & Kahneman, 1974; Kahneman & Tversky, 1979; Chi & Fan, 1997; Busenitz & Barney, 1997; Hodgkinson, Maule, Bown, Pearman & Glaister, 2002; Roxburg, 2003; Korte, 2003; Maqsood Finegan & Walker, 2008; Forbes, 2005; Hammond, Keeney &…"
+ },
+ {
+  "year": 2018,
+  "ctx": "…u odnosu na negativan okvir formulacije problema, kao i da sa promenom načina interpretacije informacija menjaju svoj stav (Tversky & Kahneman, 1974; Kahneman & Tversky, 1979; Jamieson & Hyland, 2006; Hammond et al, 2006; Chira, Adams & Thornton, 2008; McKenzie et al, 2011; Bresnick & Parnell,…"
+ },
+ {
+  "year": 2018,
+  "ctx": "Second, there is ample evidence that individuals have difficulties in handling small probabilities and hence overestimate the likelihood of their vote being decisive (Fehr-Duda and Epper, 2012; Kahneman and Tversky, 1979)."
+ },
+ {
+  "year": 2018,
+  "ctx": "In the behavioral operations management literature, Becker-Peth et al. (2013) present a framework based on mental accounting (Kahneman & Tversky, 1979; Thaler, 1985, 1999), and propose that the source of income matters in the newsvendor setting."
+ },
+ {
+  "year": 2018,
+  "ctx": "…(2008), and Bostian et al. (2008) argue that the pull-to-center effect can be explained by two special\ncases of anchoring-and-adjustment heuristic (Kahneman & Tversky, 1979): the tendency of decision makers to anchor on mean demand and adjust insufficiently toward normative order quantities (mean…"
+ },
+ {
+  "year": 2018,
+  "ctx": "Consistent with models of prospect theory (Kahneman and Tversky, 1979), I assume that the perceived distinctive pattern in the distribution of manipulated balance due that is reported to the IRS."
+ },
+ {
+  "year": 2018,
+  "ctx": "In prospect theory, this is known as loss aversion (Kahneman and Tversky, 1979): People are willing to take higher risks to avoid a loss than they are to realize a gain."
+ },
+ {
+  "year": 2018,
+  "ctx": "Based on the seminal work of Kahneman and Tversky (1979), numerous studies have shown that decision making is strongly influenced by the decision frame (i.e. decision makers respond differently to different but objectively equivalent descriptions of the same problem)."
+ },
+ {
+  "year": 2018,
+  "ctx": "In addition, it is possible to incorporate concepts extracted from the Prospect Theory (Kahneman & Tversky, 1979) as in Ramooshjan et al. (2015) and Tosun & Akyuz (2014), although we choose to use a linear utility function, which greatly simplifies the presentation and computations."
+ },
+ {
+  "year": 2018,
+  "ctx": "Effects of context have first been described by the prospect theory of human decision making (Kahneman and Tversky, 1979)."
+ },
+ {
+  "year": 2018,
+  "ctx": "Second, cognitive limitations may prevent accurate calculation of probabilities, with, for example, people systematically overestimating the chance of events they consider “certain” but underestimating the chance of those that are probable but not certain (Kahneman and Tversky, 1979)."
+ },
+ {
+  "year": 2018,
+  "ctx": "Methods could include choice dilemmas ( Stoner, 1961 ), heuristic judgements often used by practitioners (discussed in Grable and Lytton, 1999 ), utility theory ( von Neumann and Morgenstern, 1944 ), or prospect theory ( Kahneman and Tversky, 1979 )."
+ },
+ {
+  "year": 2018,
+  "ctx": "According to prospect theory, people tend to use common heuristics to economize on cognitive effort in their decision-making processes (Kahneman and Tversky, 1979)."
+ },
+ {
+  "year": 2018,
+  "ctx": "Moreover, evidence has shown that people are particularly attracted to small probabilities of large rewards (Loewenstein et al., 2001) and generally tend to overweight small probabilities (Kahneman and Tversky 1979; Prelec 1998)."
+ },
+ {
+  "year": 2018,
+  "ctx": "But in reality, decision makers have different preferences for one or the other depending upon their risk attitude (Kahneman and Tversky, 1979; Slovic, 2000)."
+ },
+ {
+  "year": 2018,
+  "ctx": "As per Prospect Theory (PT), people are risk averse in case of potential gains and risk prone when they come across losses (Kahneman and Tversky, 1979)."
+ },
+ {
+  "year": 2018,
+  "ctx": "…in behavioral finance (Barberis & Thaler, 2003; Hirshleifer & Teoh, 2003) with its connections to more established work in cognitive psychology (Kahneman & Tversky, 1979; March, 1978), emphasizes that investors, like all individuals, face constraints on their ability to access and process…"
+ },
+ {
+  "year": 2018,
+  "ctx": "Smeral (2012) explained how a number of factors related to individual choices, such as loss aversion (following Kahneman and Tversky 1979),\nCroes et al. 421\nliquidity constraints, and habit modifications influence the stability of demand elasticities across business cycles."
+ },
+ {
+  "year": 2018,
+  "ctx": "The Prospect theory (Kahneman and Tversky 1979) seems mute in explaining this heterogeneous behavior."
+ },
+ {
+  "year": 2018,
+  "ctx": "This theory explains that economic fluctuations occur as a result of noneconomic motivations such as confidence, fairness, envy, resentment, illusion, loss aversion, etc. (Kahneman and Tversky 1979; Ackerlof and Shiller 2009)."
+ },
+ {
+  "year": 2018,
+  "ctx": "The first weighting function goes back to Kahneman and Tversky (1979)."
+ },
+ {
+  "year": 2018,
+  "ctx": "Developed by Kahneman and Tversky (1979), prospect theory posits that consumers make decisions on the basis of the potential value of losses and gains rather than outcomes, and they evaluate these losses and gains using certain heuristics."
+ },
+ {
+  "year": 2018,
+  "ctx": "The decision-making process of the households is implemented using the framework of prospect theory (Kahneman and Tversky 1979)."
+ },
+ {
+  "year": 2018,
+  "ctx": "This subjectivity can be\ncaptured by a parametric form of a weighting function proposed by Kahneman and Tversky (1979):\nΩ πð Þ ¼ π c\nπc þ 1−πð Þcð Þ1c ; ð13Þ\nwhere π is the probability of the next rainfall event (RWor RD)."
+ },
+ {
+  "year": 2018,
+  "ctx": "…multiple lab and field studies find that workers exert higher effort under penalty contracts than equivalent bonus contracts.1 The leading explanation for these findings is loss aversion around a reference point (Kahneman and Tversky, 1979), where the reference point is influenced by framing."
+ },
+ {
+  "year": 2018,
+  "ctx": "In the Koszegi-Rabin (2006) notation, a loss aversion  of 3 doubles the response to incentives on the loss side versus on the gain side, and is thus equivalent to the parametrization of  = 2 in the Kahneman and Tversky (1979) notation."
+ },
+ {
+  "year": 2018,
+  "ctx": "…papers, our treatments relate to the literature on pro-social motivation (Andreoni, 1989 and 1990), crowd-out (Gneezy and Rustichini, 2000), present-bias (Laibson, 1997; O’Donoghue and Rabin, 1999), and reference dependence (Kahneman and Tversky, 1979; Koszegi and Rabin, 2006), among others."
+ },
+ {
+  "year": 2018,
+  "ctx": "…three key models in behavioral economics: the betadelta model of time preferences (Laibson, 1997; O’Donoghue and Rabin, 1999), the referencedependent model of risk preferences (Kahneman and Tversky, 1979), and altruism and warm glow models of social preferences (Becker, 1974; Andreoni, 1989, 1990)."
+ },
+ {
+  "year": 2018,
+  "ctx": "Next, we introduce treatments motivated by prospect theory (Kahneman and Tversky, 1979)."
+ },
+ {
+  "year": 2018,
+  "ctx": "…of Reference-dependent Preferences\nReference-dependent preferences have traditionally been discussed in the literature in the context of risky choice (Kahneman and Tversky, 1979), and have subsequently been applied to other domains of decision making, such as consumption (Kőszegi and Rabin, 2006)."
+ },
+ {
+  "year": 2018,
+  "ctx": "The slope of the function is steeper in the negative domain because the response to a loss is stronger (Kahneman and Tversky 1979)."
+ },
+ {
+  "year": 2018,
+  "ctx": "We reveal love of money as a double-edged sword with multiple consequences and expand several motivation theories (Herzberg 1987; Maslow 1954) and prospect theory (Kahneman and Tversky 1979)."
+ },
+ {
+  "year": 2018,
+  "ctx": "…has incorporated ‘‘cultural differences in attitude toward money’’ (Kahneman 2011, p. 298) in testing prospect theory nor extended Kahneman’s prospect theory (Kahneman and Tversky 1979) from a choice of options at the individual level to managers’ ultimate choice of dishonesty across cultures."
+ },
+ {
+  "year": 2018,
+  "ctx": "Prospect theory provides a value function that is concave for gains, convex for losses, and steeper for losses than for gains (Kahneman and Tversky 1979)."
+ },
+ {
+  "year": 2018,
+  "ctx": "However, alignment with one or another practice/association is time-inconsistent subject to the continuous change of individuals’ mental frame as suggested by the prospect theory of Kahneman and Tversky (1979)."
+ },
+ {
+  "year": 2018,
+  "ctx": "Much criticism against rational choice hinges on the fact that certain rational choice models either fail to take into account relevant aspects of a situation (Grüne-Yanoff 2012) or are at odds with observed behavior of well-performing agents (Kahneman and Tversky 1979)."
+ },
+ {
+  "year": 2018,
+  "ctx": "…paradoxes of Allais (1953) and Ellsberg (1961) and including framing effects, have demonstrated inconsistency in preferences”\nFor example, we see in Kahneman and Tversky (1979) p. 265: “PROBLEM1: Choose between\nA: 2,500 with probability .33, 2,400 with probability .66, 0 with probability .01; B:…"
+ },
+ {
+  "year": 2018,
+  "ctx": "In the above citation from Kahneman and Tversky (1979) p. 265 the difference between the expectations is 2,500*.33 + 2,400*.66 - 2,400 = 2,400 - 2,400*.01 + 100*.33 - 2,400 = - 24 + 33 = 9."
+ },
+ {
+  "year": 2018,
+  "ctx": "These qualitative types of the above problems are chosen as the examples that are usual in experiments (see, e.g., Kahneman and Tversky 1979, Starmer and Sugden 1991, Tversky and Kahneman 1992, Thaler 2016)."
+ },
+ {
+  "year": 2018,
+  "ctx": "The\nuniform explanation for both gains and losses, without additional suppositions, such as in Kahneman and Tversky (1979), has not been recognized nevertheless by the author of the present article."
+ },
+ {
+  "year": 2018,
+  "ctx": "For example, we see in Kahneman and Tversky (1979) p. 268 Table 1: “Problem 3: (4,000, .80) < (3,000)."
+ },
+ {
+  "year": 2018,
+  "ctx": "Some of the typical problems consist in comparison of sure and probable outcomes (see, e.g., Kahneman and Tversky 1979, Starmer and Sugden 1991, Barberis 2013, Thaler 2016)."
+ },
+ {
+  "year": 2018,
+  "ctx": "The uniform explanation for both gains and losses, without additional suppositions, such as in Kahneman and Tversky (1979), has not been recognized nevertheless by the author of the present article."
+ },
+ {
+  "year": 2018,
+  "ctx": "Nevertheless a wealth of experiments (see, e.g. Kahneman and Tversky 1979, Starmer and Sugden 1991, Thaler 2016) prove that the choices of the subjects are essentially biased."
+ },
+ {
+  "year": 2018,
+  "ctx": "Kahneman and Tversky (1979, 1984) demonstrated for the first time that information presented in terms of costs and benefits could affect individuals’ choices differently."
+ },
+ {
+  "year": 2018,
+  "ctx": "After conducting a series of experiments, Kahneman and Tversky (1979, 1984) found that when information is presented as ‘losses’ or in a negative light, individuals were more inclined to take risks."
+ },
+ {
+  "year": 2018,
+  "ctx": "7 For prior departures see, for example, Machina (1989), Starmer (2000), Kahneman and Tversky (1979), and Tversky and Kahneman (1992).\nis discussed in Section 4."
+ },
+ {
+  "year": 2018,
+  "ctx": "(See also Hillel (1973), Kahneman and Tversky (1979), Bernasconi and Loomes (1992), Miao and Zhong (2012), Abdellaoui, Klibanoff, Placido (2015))."
+ },
+ {
+  "year": 2018,
+  "ctx": "Loss-aversion People weight losses higher than equivalent gains (Kahneman and Tversky, 1979; Tversky and Kahneman, 1991, 1992), which also has support at the neuroscientific level (Tom et al."
+ },
+ {
+  "year": 2018,
+  "ctx": "similar outcome would be even more likely to occur under a modified model which either accounts for the possibility that people are overly optimistic when estimating the potential savings or, loss-aversion, whereby the costs of switching are weighted higher than the benefits (Kahneman and Tversky, 1979; Tversky and Kahneman, 1991, 1992), making it less likely that switching would be judged as being net beneficial."
+ },
+ {
+  "year": 2018,
+  "ctx": "Inspired, in particular, by the early work of two psychologists (Kahneman and Tversky, 1979; Tversky and Kahneman, 1991, 1992) and the political scientist Herbert Simon (1957), some economists have begun modifying economic theory based on the findings reported in Table 9."
+ },
+ {
+  "year": 2018,
+  "ctx": "(3) Loss aversion While we integrate the utility gain and the utility loss into an overall utility, we need to take the loss aversion into consideration, which refers people’s tendency to strongly prefer avoiding losses to acquiring gains (Kahneman and Tversky 1979; Tversky and Kahneman 1991)."
+ },
+ {
+  "year": 2018,
+  "ctx": "In decisions from description, probability and outcomes in a problem are described in a textual format and people choose an option they prefer after reading different text descriptions (Kahneman and Tversky, 1979; Tversky and Kahneman, 1992; Hertwig et al., 2004)."
+ },
+ {
+  "year": 2018,
+  "ctx": "In description-based decisions, people tend to overweight the probability of rare outcomes more than these outcomes deserve as per their objective probabilities (Kahneman and Tversky, 1979; Tversky and Kahneman, 1992)."
+ },
+ {
+  "year": 2018,
+  "ctx": "Kinked demand curves are consistent with Prospect Theory (Kahneman and Tversky, 1979), as consumers may react stronger to a price increase which generates a loss of utility than to a price decrease leading to an utility gain."
+ },
+ {
+  "year": 2018,
+  "ctx": "…such as parameter restrictions have been proposed: Nilsson, Rieskamp, and Wagenmakers (2011) evaluated the value function v(·) of prospect theory (Kahneman & Tversky, 1979), which assumes that the subjective representation of monetary gains x > 0 follows v(x) = xα+ , whereas for losses x   0 it…"
+ },
+ {
+  "year": 2018,
+  "ctx": "The arguably most prominent theory to describe human behavior in such situations is prospect theory (Kahneman & Tversky, 1979; Tversky & Kahneman, 1992; see Wakker, 2010, for an overview)."
+ },
+ {
+  "year": 2018,
+  "ctx": "…performance of the point-estimate empirical-prior method was specific to its application to reinforcementlearning models (and the reliance on point estimates), we developed a fully Bayesian extension to the method and tested it in a streamlined variant of prospect theory (Kahneman & Tversky, 1979)."
+ },
+ {
+  "year": 2018,
+  "ctx": "…are assumed to be weighted by an inversely S-shaped function that overweights small probabilities and underweights large probabilities, such as the function proposed by Kahneman and Tversky (1979):\nw(p) = p γ\n( pγ + (1 − p)γ ) 1γ\n, (6)\nwhere γ is the probability-sensitivity parameter."
+ },
+ {
+  "year": 2018,
+  "ctx": "Theory and experimental evidence from prospect theory has shown that individuals suffer outsize negative shocks to their utility from losses compared with gains (Kahneman & Tversky, 1979)."
+ },
+ {
+  "year": 2018,
+  "ctx": "Then, they select the option that offers the highest overall expectation (Glöckner & Herbold, 2011; Kahneman & Tversky, 1979; Tversky & Kahneman, 1992)."
+ },
+ {
+  "year": 2018,
+  "ctx": "These results may confirm the famous “loss aversion behavior” as suggested in prospect theory (Kahneman & Tversky, 1979)."
+ },
+ {
+  "year": 2018,
+  "ctx": "While investors demonstrate the disposition effect – the tendency to redeem star performers but to retain worse per-formers (Kahneman & Tversky, 1979; Shefrin & Statman, 1985) given the positive relationship between fund performance and redemptions ( High i ,[ t –4, t– 1] = 0.657, t -statistics =…"
+ }
+]

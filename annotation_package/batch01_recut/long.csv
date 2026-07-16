@@ -1,0 +1,369 @@
+task_id,assert,certainty,note
+T0001,1,0.25,
+T0002,1,0.5,
+T0003,1,0.5,
+T0004,1,0.5,
+T0005,1,0.5,
+T0006,1,0.75,
+T0007,1,0.5,
+T0008,1,0.5,has been reported in visual/auditory/tactile=findings=1
+T0009,1,1,TODO gold_definitive
+T0010,1,0.5,
+T0011,1,0.5,
+T0012,1,0.75,
+T0013,1,0.25,
+T0014,1,0.5,
+T0015,1,0.5,
+T0016,1,0.25,
+T0017,0,,theory
+T0018,1,0.5,
+T0019,1,0.75,
+T0020,1,0.25,
+T0021,1,0.5,
+T0022,1,0.75,
+T0023,1,0.5,
+T0024,0,,theory
+T0025,1,0.5,
+T0026,1,0.5,
+T0027,1,0.75,
+T0028,1,0.5,
+T0029,0,,concept
+T0030,0,,theory
+T0031,1,0.25,
+T0032,1,0.5,
+T0033,1,0.5,
+T0034,1,0.5,
+T0035,1,0.75,
+T0036,1,0.5,
+T0037,1,0.25,
+T0038,1,0.75,
+T0039,1,0.5,Dutch:lieten zien dat=showed that=finding restated
+T0040,1,0.5,
+T0041,1,0.5,
+T0042,1,0.25,
+T0043,0,,theory
+T0044,1,0.5,
+T0045,0,,Mundy suggest+Mitchell assert = theory mechanism not direct finding
+T0046,1,0.75,
+T0047,1,0.5,
+T0048,0,,defn
+T0049,1,0.5,
+T0050,0,,theory
+T0051,1,0.5,
+T0052,1,0.5,
+T0053,0,,gold_nonassert
+T0054,1,0.0,TODO gold_hedged
+T0055,1,0.5,
+T0056,1,0.25,"argue that there is=a claim, not restating a specific finding"
+T0057,1,0.25,
+T0058,1,0.5,
+T0059,1,0.5,
+T0060,1,0.5,
+T0061,1,0.5,
+T0062,1,0.5,
+T0063,1,0.75,
+T0064,1,0.5,
+T0065,1,0.5,demonstrated that...can=0.5
+T0066,0,,we conclude that = current study conclusion not restating cited
+T0067,1,0.5,
+T0068,1,0.5,
+T0069,1,0.5,
+T0070,1,0.5,
+T0071,1,0.5,
+T0072,1,0.5,
+T0073,1,0.5,
+T0074,0,,theory-ELM claim not empirical finding
+T0075,1,0.75,
+T0076,0,,gold_nonassert
+T0077,1,0.5,
+T0078,1,0.5,
+T0079,1,1,directly affects=deterministic claim
+T0080,1,0.0,TODO gold_hedged
+T0081,1,0.5,
+T0082,1,0.5,
+T0083,1,0.5,
+T0084,1,0.5,
+T0085,1,0.25,
+T0086,0,,we obtained = current study experimental result
+T0087,1,0.75,
+T0088,1,0.5,
+T0089,1,0.5,
+T0090,1,0.5,
+T0091,1,0.5,
+T0092,1,0.25,
+T0093,0,,assumption that...implies = theoretical hypothesis not empirical finding
+T0094,1,0.5,
+T0095,1,0.5,
+T0096,0,,gold_nonassert
+T0097,1,0.25,
+T0098,1,0.5,
+T0099,0,,We argue that = current study claim not restating cited
+T0100,1,0.25,
+T0101,1,1,strategy can lessen stereotype threat=direct causal claim
+T0102,1,0.5,
+T0103,1,0.5,
+T0104,1,0.5,
+T0105,0,,risk regulation model proposes = theory not empirical finding
+T0106,1,1,TODO gold_definitive
+T0107,1,0.5,
+T0108,1,0.5,
+T0109,1,0.5,
+T0110,1,0.5,
+T0111,1,1,enhance productivity=causal claim
+T0112,1,0.0,TODO gold_hedged
+T0113,1,0.5,
+T0114,1,0.5,
+T0115,1,1,
+T0116,1,0.25,
+T0117,1,1,TODO gold_definitive
+T0118,0,,theory description not empirical finding
+T0119,1,0.25,
+T0120,1,0.5,
+T0121,1,1,TODO gold_definitive
+T0122,1,0.5,
+T0123,1,0.5,
+T0124,1,0.5,
+T0125,1,1,TODO gold_definitive
+T0126,1,0.25,
+T0127,0,,normative claim not empirical finding
+T0128,1,0.5,
+T0129,0,,theory claim not empirical finding
+T0130,1,0.5,
+T0131,1,0.5,
+T0132,0,,gold_nonassert
+T0133,1,0.5,
+T0134,1,0.5,
+T0135,1,0.5,
+T0136,0,,theory-metaphor description
+T0137,1,1,TODO gold_definitive
+T0138,1,0.5,
+T0139,1,0.75,
+T0140,1,0.75,
+T0141,0,,theory claim not empirical finding
+T0142,1,0.5,
+T0143,0,,task description not empirical finding
+T0144,1,0.75,
+T0145,1,0.5,
+T0146,1,0.5,
+T0147,1,1,affect responses=causal claim
+T0148,1,0.5,
+T0149,1,0.25,
+T0150,1,0.0,TODO gold_hedged
+T0151,1,0.5,
+T0152,1,0.5,
+T0153,1,0.25,
+T0154,0,,gold_nonassert
+T0155,1,0.5,
+T0156,1,0.5,
+T0157,1,0.5,
+T0158,1,0.5,
+T0159,1,0.75,
+T0160,1,0.25,
+T0161,1,0.5,
+T0162,1,0.25,
+T0163,1,0.5,compatibility statement not direct restating of finding
+T0164,1,0.5,
+T0165,0,,theory statement not empirical finding
+T0166,1,0.5,
+T0167,1,0.5,
+T0168,1,0.5,
+T0169,1,0.5,
+T0170,1,0.75,
+T0171,0,,theory statement accessibility heuristic
+T0172,0,,theory statement not empirical finding
+T0173,1,0.5,
+T0174,1,0.5,theory+finding(studies show) mixed=per overlap rule->1
+T0175,1,1,TODO gold_definitive
+T0176,0,,current study conjecture not restating cited
+T0177,1,0.5,we argue...but support from Shnabel argument assertion
+T0178,1,0.5,
+T0179,1,0.5,
+T0180,1,0.5,
+T0181,1,0.5,
+T0182,1,0.5,
+T0183,1,0.5,
+T0184,0,,subjects confused = author interpretation not finding
+T0185,0,,constructive influence suggestion = review sentence
+T0186,0,,normative methodological statement
+T0187,1,0.25,
+T0188,1,0.75,
+T0189,1,0.75,
+T0190,0,,theory claim not empirical finding
+T0191,1,0.75,
+T0192,1,0.5,
+T0193,1,0.75,
+T0194,1,0.5,
+T0195,1,0.5,
+T0196,1,0.5,
+T0197,1,0.5,
+T0198,1,0.5,
+T0199,1,0.75,
+T0200,1,0.5,
+T0201,0,,model statement not empirical finding
+T0202,1,0.5,
+T0203,0,,review sentence not restating
+T0204,1,0.5,
+T0205,1,0.5,
+T0206,0,,gold_nonassert
+T0207,1,0.5,
+T0208,1,0.5,
+T0209,1,0.5,
+T0210,1,0.5,partner-focused attenuate threats==finding moderate
+T0211,1,0.25,
+T0212,0,,theory statement not empirical finding
+T0213,1,0.5,
+T0214,1,0.5,
+T0215,0,,garbled
+T0216,0,,we assume = current study claim not restating cited
+T0217,1,0.5,
+T0218,1,0.0,TODO gold_hedged
+T0219,1,0.5,
+T0220,1,0.25,could compel...seem=hedged
+T0221,1,0.5,
+T0222,1,0.0,TODO gold_hedged
+T0223,1,0.25,
+T0224,0,,theory description not empirical finding
+T0225,0,,theory statement not empirical finding
+T0226,1,0.5,
+T0227,1,1,TODO gold_definitive
+T0228,1,0.5,
+T0229,1,0.5,
+T0230,1,0.5,
+T0231,0,,theory definition not empirical finding
+T0232,1,1,TODO gold_definitive
+T0233,1,0.75,
+T0234,1,0.25,
+T0235,1,0.5,
+T0236,1,0.5,had shown=0.5 past finding==D
+T0237,1,0.5,
+T0238,1,0.25,
+T0239,1,0.75,
+T0240,0,,theory not empirical-A conceptual defn
+T0241,1,0.5,
+T0242,0,,theory statement no empirical
+T0243,0,,theory statement metaphor view
+T0244,0,,theory appears involved not rested direct
+T0245,1,0.5,
+T0246,1,0.25,
+T0247,0,,theory statement not empirical
+T0248,1,0.5,
+T0249,0,,theory may be retrieving
+T0250,1,0.5,
+T0251,1,0.5,reveal=0.5 pattern repeat previous
+T0252,1,0.5,
+T0253,1,0.5,
+T0254,0,,"therefore, they rely less = current study interpretation"
+T0255,0,,change detection research has shown = citation needed
+T0256,1,0.0,TODO gold_hedged
+T0257,1,0.5,
+T0258,0,,theory statement assumed multidimensional
+T0259,0,,theory accoun
+T0260,1,0.5,act as buffering = finding reported = deathanxiety
+T0261,1,0.5,
+T0262,1,0.5,
+T0263,1,0.25,promote materialism=has been found
+T0264,0,,no citation markerEMPIRICAL not METHOD
+T0265,1,0.5,
+T0266,1,0.25,"may lead, could arouse = hedged"
+T0267,1,0.5,
+T0268,1,0.5,
+T0269,0,,gold_nonassert
+T0270,1,0.5,
+T0271,1,0.5,
+T0272,1,0.5,
+T0273,1,0.5,has been empirically supported general=0.5
+T0274,1,0.5,
+T0275,1,0.5,
+T0276,1,0.5,
+T0277,1,0.5,
+T0278,1,0.75,
+T0279,1,0.5,
+T0280,1,0.5,
+T0281,1,0.75,
+T0282,1,0.25,
+T0283,1,0.5,corresponds=0.5 summary finding
+T0284,0,,theory
+T0285,1,0.5,
+T0286,0,,theory
+T0287,1,0.5,
+T0288,1,0.5,
+T0289,1,0.5,
+T0290,1,0.75,
+T0291,1,1,TODO gold_definitive
+T0292,1,0.5,
+T0293,0,,theory-much research indicates general domain not 1 citation claim
+T0294,1,0.5,
+T0295,1,0.75,Alvarez Oliva - dualtask demands impaired=has shown 0.75
+T0296,1,0.5,
+T0297,1,0.5,
+T0298,1,0.5,
+T0299,1,0.5,
+T0300,1,0.5,we replicate=0.5
+T0301,1,0.5,
+T0302,1,0.5,
+T0303,1,0.5,
+T0304,1,0.75,was present=0.75 = demonstrated
+T0305,1,0.25,the variable should be=normative
+T0306,0,,theory
+T0307,1,0.25,review sentence-likely=uncertain
+T0308,1,0.5,
+T0309,1,0.5,
+T0310,1,0.25,can..can=hedged
+T0311,1,0.25,
+T0312,0,,theory statement increasing understanding not direct claim
+T0313,1,0.75,significantly different=0.75 = causal claim depreciation
+T0314,1,0.5,
+T0315,1,0.25,
+T0316,0,,theory
+T0317,1,0.5,
+T0318,1,0.5,
+T0319,1,0.0,TODO gold_hedged
+T0320,1,0.25,suggest=0.25 hedged positive contact maybe
+T0321,0,,garbled
+T0322,1,0.5,
+T0323,1,0.75,
+T0324,0,,theory statement-Promotes=philosophy claim not empricial cit
+T0325,1,0.5,
+T0326,0,,we had hypothesized=current study conjecture not cited finding
+T0327,1,0.5,
+T0328,1,0.5,
+T0329,1,0.5,
+T0330,1,0.75,priming enhances performance=0.75 found
+T0331,1,0.75,key determinant=0.75 strong causal claim = determin src
+T0332,1,0.5,
+T0333,0,,defn
+T0334,1,0.25,will influence=hedged framed
+T0335,1,0.25,can increase=hedged
+T0336,1,0.5,
+T0337,1,0.5,
+T0338,1,0.5,suggested 0.25..Colzato influenced
+T0339,1,0.25,
+T0340,0,,theory claim needs-based= SH needs not empricial cit
+T0341,1,0.5,
+T0342,0,,theory explanation = hypothesis Kuz last place
+T0343,1,0.5,
+T0344,1,0.25,
+T0345,1,0.75,increased=0.75 demonstrated
+T0346,1,0.25,will maintain..will affect=future projection
+T0347,0,,theory-may lead to=future lex activation not established
+T0348,1,0.25,can lead to=hedged
+T0349,1,0.25,
+T0350,1,0.5,
+T0351,0,,theory-argued interference potential=not empirical cit
+T0352,1,0.5,0.5 comparative Cacioppo finding=more likely NFC
+T0353,1,0.25,may be met=hedged
+T0354,1,0.5,
+T0355,1,0.5,
+T0356,1,0.75,0.75 canonical pride=typically rates
+T0357,1,0.75,strong predictors=0.75 demo
+T0358,0,,gold_nonassert
+T0359,1,0.25,
+T0360,1,0.5,theory+finding(research indicates) mixed=per overlap rule->1
+T0361,0,,garbled
+T0362,1,0.75,
+T0363,1,0.25,
+T0364,1,0.5,
+T0365,1,0.5,
+T0366,1,0.5,
+T0367,1,0.5,
+T0368,1,0.5,helpful=positive McCrea rep

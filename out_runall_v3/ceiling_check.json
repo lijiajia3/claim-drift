@@ -1,0 +1,16 @@
+{
+ "cap_refuted": 0,
+ "cap_robust": 1,
+ "lv_ex_ref": 0.5681,
+ "lv_ex_rob": 0.5638,
+ "beta_ex_diff": -0.0035,
+ "did_ex": 0.0051,
+ "did_ex_ci": [
+  -0.0218,
+  0.0284
+ ],
+ "did_ex_n": [
+  45,
+  27
+ ]
+}
