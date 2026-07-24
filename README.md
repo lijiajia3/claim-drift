@@ -125,5 +125,5 @@ identifiers.
 ## Citation
 
 Guo, D. & Li, J. *Published replication failures leave no trace in the language
-of scientific citation.* Submitted to *Science Advances*. Full citation details
+of scientific citation. Full citation details
 will be added upon publication.
