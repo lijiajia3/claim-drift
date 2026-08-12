@@ -1,7 +1,7 @@
-# Failed replications leave little trace in subsequent citation language
+# Subsequent citation language rarely reflects failed replications
 
 **Replication package** — code and de-identified data accompanying the manuscript
-*"Failed replications leave little trace in subsequent citation language: a
+*"Subsequent citation language rarely reflects failed replications: a
 longitudinal analysis of 15,467 citing sentences"* (Dongdong Guo & Jiaxuan Li).
 
 ## Overview
@@ -125,6 +125,6 @@ identifiers.
 
 ## Citation
 
-Guo, D. & Li, J. *Failed replications leave little trace in subsequent citation
-language: a longitudinal analysis of 15,467 citing sentences.* Full citation
+Guo, D. & Li, J. *Subsequent citation language rarely reflects failed
+replications: a longitudinal analysis of 15,467 citing sentences.* Full citation
 details will be added upon publication.
