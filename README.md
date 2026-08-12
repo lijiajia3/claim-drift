@@ -1,8 +1,8 @@
-# Published replication failures leave no trace in the language of scientific citation
+# Failed replications leave little trace in subsequent citation language
 
 **Replication package** — code and de-identified data accompanying the manuscript
-*"Published replication failures leave no trace in the language of scientific
-citation"* (Dongdong Guo & Jiaxuan Li, submitted to *Science Advances*).
+*"Failed replications leave little trace in subsequent citation language: a
+longitudinal analysis of 15,467 citing sentences"* (Dongdong Guo & Jiaxuan Li).
 
 ## Overview
 
@@ -56,6 +56,7 @@ DeepSeek-V3, DeepSeek-V4-Flash, LongCat-2.0).
 │   ├── validation_protocol.md   preregistered-style thresholds and QC gates
 │   ├── 标注说明.md / batch01_recut/  codebook and blinded annotation batch
 │   ├── students/rater_[A-D].csv  de-identified rater exports (Label Studio)
+│   ├── task_B_human_validation/  de-identified acknowledgment labels and consensus
 │   └── score_batch01.py          computes κ, α, and the model–human ρ
 │
 └── figure_scripts/            regenerate every main-text and SI figure
@@ -124,6 +125,6 @@ identifiers.
 
 ## Citation
 
-Guo, D. & Li, J. *Published replication failures leave no trace in the language
-of scientific citation. Full citation details
-will be added upon publication.
+Guo, D. & Li, J. *Failed replications leave little trace in subsequent citation
+language: a longitudinal analysis of 15,467 citing sentences.* Full citation
+details will be added upon publication.

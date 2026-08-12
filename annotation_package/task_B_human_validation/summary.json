@@ -1,0 +1,28 @@
+{
+  "n_unique_sentences": 150,
+  "human_label_counts": [
+    {
+      "0": 149,
+      "1": 1
+    },
+    {
+      "0": 142,
+      "1": 8
+    },
+    {
+      "0": 133,
+      "1": 6,
+      "9": 11
+    }
+  ],
+  "human_majority_positive_n": 5,
+  "human_majority_positive_rate": 0.03333333333333333,
+  "model_majority_positive_n": 7,
+  "model_majority_positive_rate": 0.04666666666666667,
+  "human_model_agreement_n": 146,
+  "human_model_agreement_rate": 0.9733333333333334,
+  "human_model_cohen_kappa": 0.6531791907514458,
+  "complete_three_rater_agreement_n": 131,
+  "complete_three_rater_agreement_rate": 0.8733333333333333,
+  "fleiss_kappa_categories_0_1_9": 0.23585664491911779
+}
