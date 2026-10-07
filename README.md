@@ -1,130 +1,34 @@
-# Subsequent citation language rarely reflects failed replications
+# Measurement choices in longitudinal citation language comparisons around replication projects
 
-**Replication package** — code and de-identified data accompanying the manuscript
-*"Subsequent citation language rarely reflects failed replications: a
-longitudinal analysis of 15,467 citing sentences"* (Dongdong Guo & Jiaxuan Li).
+Current manuscript and analysis materials by **Dongdong Guo and Jiaxuan Li**, updated 7 October 2026. The Research Square record is [rs-10681663](https://www.researchsquare.com/article/rs-10681663/latest). This repository update prepares version 3; posting is subject to platform processing.
 
-## Overview
+## Use the current snapshot
 
-Does the scientific literature restate a finding more cautiously after a
-registered replication fails to reproduce it? This package measures the **stated
-certainty** of 15,467 citing sentences for 110 findings whose replication
-outcomes were externally adjudicated by three registered replication projects
-(Reproducibility Project: Psychology; Experimental Economics Replication
-Project; Social Sciences Replication Project).
+Current material is in [`releases/researchsquare-v3-20261007`](releases/researchsquare-v3-20261007):
 
-Each sentence is scored by a large language model in a single two-part judgment:
+- The 18-page manuscript: 39 references, four figures and three tables.
+- Online Resource 1: supplementary information (17 pages).
+- Online Resource 2: core saved-score and literal-word analyses, filter-shift uncertainty and historical validation audit.
+- Online Resource 3: fixed retention and text-composition reference analyses.
+- Online Resource 4: external article/context linkage audit.
+- Editable LaTeX sources using the supplied Springer Nature December 2024 class, plus Figure 1 vector/raster exports.
 
-1. **Assertion filter** — does the sentence restate the finding's claim (as
-   opposed to citing the work as a method, paradigm, dataset, or background)?
-2. **Certainty score** — for assertion sentences, a continuous score
-   *s* ∈ [0, 1] of how definitively the claim is stated (0 fully hedged,
-   0.5 neutral, 1 definitive/causal).
+`SHA256SUMS.txt` and `manifest.json` bind document/component bytes. Extract each ZIP separately and follow its README/specification. Saved-input analyses need no model API calls. The components are separate resource packages, not interchangeable entry points.
 
-Three pre-specified tests — between-group certainty level, multi-year certainty
-drift, and a difference-in-differences event study around each refutation's
-publication — all return bounded nulls: the language of citation is
-statistically indistinguishable between refuted and replicated claims, and only
-~4.7% of post-refutation restatements mention the failure. Every result is
-reproduced by four independent language models (Qwen2.5-72B-Instruct,
-DeepSeek-V3, DeepSeek-V4-Flash, LongCat-2.0).
+## Interpretation
 
-## Repository structure
+The exploratory archive contains **105 source papers from four replication projects**, **15,280 within-source deduplicated text units**, and **8,427 retained empirical restatements**. The paired comparison uses the same 72 eligible sources.
 
-```
-├── run_all_v3.py              end-to-end pipeline driver (retrieval → scoring → analysis)
-├── analysis_v5_did.py         difference-in-differences + event-study estimation
-├── rescore_multi.py           multi-model rescoring and cross-scorer report
-├── ack_multiscorer.py         4-model acknowledgment-rate robustness (section S8)
-├── rule_classify.py, classify.py, verify_drift.py, ...   supporting pipeline stages
-│
-├── v3_seeds/
-│   ├── seeds_v3.csv           110-claim register: claim, project, replication label (arm)
-│   └── _raw/                  provenance files from the replication projects' public data
-│
-├── seeds_data/                sentence-level scores, one JSONL per claim per model:
-│                                scored2_v3_<claim>.jsonl      primary scorer (Qwen2.5-72B)
-│                                scored_ds_v3_<claim>.jsonl    DeepSeek-V3
-│                                scored_dsv4_v3_<claim>.jsonl  DeepSeek-V4-Flash
-│                                scored_longcat_v3_<claim>.jsonl LongCat-2.0
-│
-├── out_runall_v3/             computed results (JSON): group levels, drift, DiD,
-│                                event study, survivorship, multi-scorer,
-│                                acknowledgment rates, summary.json
-│
-├── annotation_package/        human validation of the instrument (SI section S1):
-│   ├── validation_protocol.md   preregistered-style thresholds and QC gates
-│   ├── 标注说明.md / batch01_recut/  codebook and blinded annotation batch
-│   ├── students/rater_[A-D].csv  de-identified rater exports (Label Studio)
-│   ├── task_B_human_validation/  de-identified acknowledgment labels and consensus
-│   └── score_batch01.py          computes κ, α, and the model–human ρ
-│
-└── figure_scripts/            regenerate every main-text and SI figure
-```
+Filtering changes the between-group pre–post replication-word contrast from −0.22 to −1.77 percentage points: **−1.55 points** (conditional source-bootstrap 95% interval −3.03 to −0.24). Retention matched on year and length reproduces −0.65 points. The observed shift lies near the simulation-envelope boundary; the remaining −0.90 points is descriptive, not an identified mechanism. Adverb/modal contrasts lie inside every reference envelope. Omitting the largest project or narrowing the window yields filter-shift intervals including zero.
 
-## Data dictionary
+Literal-word measures detect word presence, not semantic acknowledgment or belief updating. The model score is secondary: its mixed rubric and reused development data limit interpretation. Results do not establish causal responses to replication, bounded null effects, or general scientific self-correction.
 
-Sentence-level records (`seeds_data/*.jsonl`, `strength_scored.jsonl`) have three
-fields:
+## Historical files
 
-| Field  | Type        | Description                                                        |
-|--------|-------------|--------------------------------------------------------------------|
-| `year` | int         | Publication year of the citing paper                               |
-| `s`    | float\|null | Stated-certainty score in [0, 1]; `null` for non-assertion sentences |
-| `ctx`  | string      | The citing sentence (citation context)                              |
+Root-level scripts/data remain for traceability. **They are not the specification for the current manuscript.** Earlier descriptions of 110 findings, 15,467 sentences, independent validation and bounded nulls must not be carried into the current interpretation. The prior README is preserved verbatim in [`docs/README_historical_before_20261007.md`](docs/README_historical_before_20261007.md). Use current resource specifications for populations, measures, eligibility and uncertainty.
 
-Claim-level register (`v3_seeds/seeds_v3.csv`): claim identifier, source project,
-replication outcome label (`arm` ∈ {refuted, robust}), and replication statistics
-from the projects' public data.
+## Rights and privacy
 
-## Reproducing the results
+MIT covers the authors' original code only. It does not relicense article excerpts, third-party data, the manuscript or publisher template. The supplied Springer Nature class/style retain original license notices. Citation excerpts remain subject to original rights holders; database attribution is not a blanket copyright license. Resource-level provenance/rights notices remain in the packages. Legacy ratings are de-identified; their validation limits appear in the manuscript. Credentials, private reviews, other authors' reading PDFs and author-only submission files are excluded.
 
-All analyses recompute from the cached scores; **no API access is required**:
-
-```bash
-python3 analysis_v5_did.py            # DiD estimate + event-study traces (Fig. 4)
-python3 rescore_multi.py --report     # per-scorer between-group nulls (Table S4, fig. S15)
-python3 ack_multiscorer.py --report   # acknowledgment-rate robustness (Table S6)
-python3 annotation_package/score_batch01.py \
-    annotation_package/students/rater_A.csv \
-    annotation_package/students/rater_B.csv   # human validation: κ = 0.65, α = 0.60, ρ = 0.42
-```
-
-Requirements: Python ≥ 3.9; `numpy` (analysis), `matplotlib` (figures only). The
-human-validation script is dependency-free.
-
-Re-scoring sentences from scratch additionally requires SiliconFlow and LongCat
-API credentials, read from the environment (`SILICONFLOW_API_KEY`,
-`LONGCAT_API_KEY`) or from `~/.siliconflow_key` / `~/.longcat_key`. **No
-credentials are stored in this repository.** Scoring is checkpointed per sentence
-and resumable; temperature is 0 throughout.
-
-## Scoring instrument
-
-The two-part scoring prompt (assertion + certainty) is identical across all four
-models and is reproduced verbatim in the paper's Supplementary Text (S1b), as is
-the acknowledgment prompt (S8). The scorer receives only the sentence text — never
-the cited claim's identity, its replication status, or the citing paper's year —
-so it is blind to group membership by construction.
-
-## Data provenance and licensing
-
-| Component | Source | Terms |
-|---|---|---|
-| Citing sentences (`ctx`) | [Semantic Scholar Academic Graph](https://www.semanticscholar.org/product/api) | Redistributed with attribution under ODC-BY; sentence excerpts remain subject to their original publishers' copyright |
-| Replication outcomes | Public data of OSC (2015), Camerer et al. (2016, 2018), as compiled by Serra-Garcia & Gneezy (2021) | Public research data |
-| Analysis code | This repository | MIT License |
-
-## Human-subjects statement
-
-The only human-subjects data are sentence-level ratings produced by trained
-annotators during instrument validation (`annotation_package/`). All rater data
-are de-identified: files carry arbitrary codes (`rater_A`–`rater_D`) and contain
-no names, contact details, demographics, affiliations, or other personal
-identifiers.
-
-## Citation
-
-Guo, D. & Li, J. *Subsequent citation language rarely reflects failed
-replications: a longitudinal analysis of 15,467 citing sentences.* Full citation
-details will be added upon publication.
+This is a preprint/reproducibility update, not evidence of journal submission or acceptance in Scientometrics.
