@@ -1,6 +1,6 @@
 # Measurement choices in longitudinal citation language comparisons around replication projects
 
-Current manuscript and analysis materials by **Dongdong Guo and Jiaxuan Li**, updated 7 October 2026. The Research Square record is [rs-10681663](https://www.researchsquare.com/article/rs-10681663/latest). This repository update prepares version 3; posting is subject to platform processing.
+Current manuscript and analysis materials by **Dongdong Guo and Jiaxuan Li**, updated 7 October 2026. The Research Square record is [rs-10681663](https://www.researchsquare.com/article/rs-10681663/latest). Research Square confirmed **Revision submitted** on 7 October 2026. Version 3 is awaiting platform processing; the public record still points to version 2 until posting.
 
 ## Use the current snapshot
 
