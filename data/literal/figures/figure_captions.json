@@ -1,0 +1,4 @@
+{
+  "literal01_filter_retention": "Literal-feature text units partitioned by the existing Qwen filter. Numbers in segments are raw text counts. The dotted line is the overall 8427/15280 positive fraction. A replication-word hit is not necessarily target-specific evidence discussion or acknowledgment; exclusions do not establish classification error.",
+  "literal02_matched_filter_comparison": "All rows use the same 72 sources (40 criterion-negative, 32 criterion-positive). Points show negative-minus-positive differences in source-specific post-minus-pre literal-feature incidence; the third row is the difference between positive-only and all-text changes. Bars are conditional 95% source-bootstrap intervals. The modal family is a polysemy-sensitive surface-form check. Comparisons are post hoc descriptions, not causal effects or new certainty measurements."
+}

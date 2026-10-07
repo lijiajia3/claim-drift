@@ -1,0 +1,23 @@
+{
+  "purpose": "Delivery-only path normalization; no scientific change",
+  "source_component": "Scientometrics_无新增标注_文本选择分解_可复算扩展_20261006_v1.zip",
+  "source_component_sha256": "a05dc45c779292f8890aed21db36833270f60b75a887be52ab73441327b00807",
+  "changed_file": "independent_review/independent_hashes.json",
+  "original_file_sha256": "fbc9674ede87573351fb709661c57d4d18a0010c16766461db8bb38ada19a06d",
+  "delivery_file_sha256": "fe793a2d332bb5d124b3071b0e45262439fcc572e71b41e16e54463df9008add",
+  "transformation": "Replaced nine environment-specific absolute path keys with existing artifact-relative paths. All hash values and every numerical/script file are unchanged.",
+  "normalized_keys": [
+    "SELECTION_DECOMPOSITION_PROTOCOL.md",
+    "inputs/literal_counts_by_source_year.csv",
+    "inputs/source_cohort.csv",
+    "inputs/shared_text_component_membership.csv",
+    "previous/matched_source_filter_estimates.csv",
+    "previous/matched_source_filter_comparison.csv",
+    "previous/source_estimates_all_predefined_features.csv",
+    "previous/analysis_configurations.json",
+    "independent_review/verify_selection_decomposition.py"
+  ],
+  "historical_receipts": "Other machine receipts remain unchanged and can retain their original historical file hashes. The current package manifest and this ledger identify the normalized delivery file.",
+  "raw_citation_text_added": false,
+  "human_labels_added": false
+}

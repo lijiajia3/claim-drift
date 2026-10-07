@@ -1,0 +1,16 @@
+Online Resource 4 External citation linkage and descriptive retention audit
+
+This resource accompanies Measurement choices in longitudinal citation language comparisons around replication projects, Dongdong Guo and Jiaxuan Li, Scientometrics. Corresponding author: Jiaxuan Li, Shanxi College of Applied Science and Technology, Taiyuan, China; jiaxuanli0817@gmail.com.
+
+A fixed source-based convenience sample contained 12 article-target-case rows from 10 citing DOIs. Eight documents were recovered for 10 case rows. Twelve archived contexts linked wholly inside exact target-citing paragraphs, covering eight article-case pairs from seven DOIs and 11 of 21 recovered paragraph-case units. Three body-only links were rejected. The shared DOI across cases is retained as the same article cluster.
+
+The nominal human judgments were produced independently by Hardwicke et al. (2021), Citation Patterns Following a Strongly Contradictory Replication Result: Four Case Studies From Psychology, https://doi.org/10.1177/25152459211040837 . Fixed source archive: https://osf.io/gyzbm/ . Codebook: https://osf.io/download/39akn/ . Source dataset license: CC BY 4.0, https://creativecommons.org/licenses/by/4.0/ . Attribution and source terms remain applicable. A source license does not relicense publisher full text, which is excluded.
+
+The transformation joins only the eight selected article-level judgments and original exclusion flags to existing archived gate decisions. Original strings are preserved. Six favourable values are mapped to favorable under an explicitly post-unblinding spelling-only amendment; the two equivocal labels are unchanged. Strict v1 rows preserve the initial unresolved spelling. No categories were merged, sample expanded, score recalculated, or threshold selected.
+
+Six favorable article-case pairs supplied ten contexts, all retained. Two equivocal pairs supplied two contexts, one retained. No unfavorable or unclassifiable example is present. Therefore differential loss of critical citations cannot be assessed. Article-level valence is not a sentence-level gold label. This is availability-conditioned provenance and descriptive retention, not independent certainty validation, assertion accuracy, a causal comparison or population inference.
+
+Run: python reproduce.py
+Requires Python 3 standard library only. The script reproduces all eight case-by-valence summary rows and verifies the 12-row recovery ledger and selected context counts. It does not reacquire publisher text or recreate unavailable human coding spans. Acquisition hashes and paragraph locations document candidate links to currently recovered versions; historical ingestion versions are unauthenticated and candidate uniqueness is limited to the recovered sample. Absence of detected normalized development-text overlap is not proof of independent articles across unknown versions.
+
+No raw full text, full external label-bearing CSV, private annotation-export metadata, certainty scores, component scores or participant-level records are included. Local timestamps and hashes document sequence, not external preregistration. Original protocols were specified after earlier main-archive analyses were known. The source-only pilot was frozen before acquisition; the descriptive inputs and script were frozen before selected labels and gate flags were projected.

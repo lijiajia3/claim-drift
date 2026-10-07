@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "standalone_extension_root": "isolated copied bundle",
+  "independent_reconstruction_checks": 5652,
+  "production_comparison_checks": 292,
+  "reconstruction_all_passed": true,
+  "comparison_all_passed": true,
+  "run_commands": [
+    "python independent_review/verify_selection_decomposition.py --extension-root BUNDLE_ROOT",
+    "python independent_review/compare_production_outputs.py --extension-root BUNDLE_ROOT"
+  ],
+  "external_files_needed": false,
+  "network_needed": false
+}

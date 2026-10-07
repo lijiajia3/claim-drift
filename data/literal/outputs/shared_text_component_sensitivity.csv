@@ -1,0 +1,13 @@
+scenario,feature,endpoint,n_components,largest_component,estimate,ci95_low,ci95_high,note
+full_all,epistemic_adverb_tokens,level_incidence,89,5,0.0024894657496749,-0.000625983642473022,0.0060171088888976215,Known shared-text components only; unknown shared citing-paper dependence is not resolved
+full_all,epistemic_adverb_tokens,event_incidence,89,5,-0.0022771402097789776,-0.011386217448207933,0.007267256046035992,Known shared-text components only; unknown shared citing-paper dependence is not resolved
+full_all,replication_word_tokens,level_incidence,89,5,0.005384902002034134,-0.00449524212878691,0.016418610064757706,Known shared-text components only; unknown shared citing-paper dependence is not resolved
+full_all,replication_word_tokens,event_incidence,89,5,-0.0068070038795458665,-0.027735488386261522,0.013210585006608603,Known shared-text components only; unknown shared citing-paper dependence is not resolved
+full_all,lowercase_modal_tokens,level_incidence,89,5,0.00599799226100689,-0.01301440356784648,0.02407268464953245,Known shared-text components only; unknown shared citing-paper dependence is not resolved
+full_all,lowercase_modal_tokens,event_incidence,89,5,0.025748631131738524,-0.015641772130516762,0.0718462706272525,Known shared-text components only; unknown shared citing-paper dependence is not resolved
+full_positive,epistemic_adverb_tokens,level_incidence,89,5,0.003030425662706164,-0.0011088860745664226,0.007507916196570593,Known shared-text components only; unknown shared citing-paper dependence is not resolved
+full_positive,epistemic_adverb_tokens,event_incidence,89,5,-0.004034644493274821,-0.015717006078256022,0.007831194842380934,Known shared-text components only; unknown shared citing-paper dependence is not resolved
+full_positive,replication_word_tokens,level_incidence,89,5,0.004345163600461152,-0.0046014306366713486,0.013222968256333524,Known shared-text components only; unknown shared citing-paper dependence is not resolved
+full_positive,replication_word_tokens,event_incidence,89,5,-0.017695944762556502,-0.04011803763373242,0.0036178363036504712,Known shared-text components only; unknown shared citing-paper dependence is not resolved
+full_positive,lowercase_modal_tokens,level_incidence,89,5,0.0055764340513806965,-0.017955692101997753,0.028437465426955952,Known shared-text components only; unknown shared citing-paper dependence is not resolved
+full_positive,lowercase_modal_tokens,event_incidence,89,5,-0.007237725833198545,-0.053262780892693935,0.04210293588050343,Known shared-text components only; unknown shared citing-paper dependence is not resolved

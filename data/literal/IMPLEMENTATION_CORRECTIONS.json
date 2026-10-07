@@ -1,0 +1,10 @@
+{
+  "original_rules_sha256": "ae036d30ac94ff55d320de34f38de65e1ab56c5fb53ab7b47b636b8b08c05832",
+  "correction_kind": "implementation fidelity to the already frozen whole-alphabetic-token rule",
+  "reason": "Independent synthetic tests found regex backtracking could count a bare cue inside an invalid apostrophe/digit suffix, and Python Unicode word classes admitted nonletter numerics to the alphabetic-token denominator.",
+  "fix": "Consume maximal word-like candidates before checking every component with str.isalpha; allow at most one internal apostrophe. Combining marks stay with the candidate and cannot expose a false interior cue.",
+  "numeric_guard_clarification": "The numeric-adjacency guard uses ASCII decimal digits0\u20139, one through four digits. Other numeric representations are not semantically classified.",
+  "feature_lists_changed": false,
+  "outcome_based_marker_selection": false,
+  "previous_output_snapshot_preserved": true
+}

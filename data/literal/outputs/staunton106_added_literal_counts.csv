@@ -1,0 +1,10 @@
+stratum,feature,added_text_units,added_hit_contexts,added_occurrences
+all,epistemic_adverb_tokens,22,0,0
+positive,epistemic_adverb_tokens,16,0,0
+negative,epistemic_adverb_tokens,6,0,0
+all,replication_word_tokens,22,0,0
+positive,replication_word_tokens,16,0,0
+negative,replication_word_tokens,6,0,0
+all,lowercase_modal_tokens,22,5,6
+positive,lowercase_modal_tokens,16,5,6
+negative,lowercase_modal_tokens,6,0,0

@@ -1,0 +1,10 @@
+feature,cohort,n_sources,n_negative,n_positive,pre_texts,post_texts
+epistemic_adverb_tokens,full72,72,40,32,4812,7187
+epistemic_adverb_tokens,nonempty_negative_each_period,72,40,32,4812,7187
+epistemic_adverb_tokens,negative10_each_period,59,32,27,4422,6528
+replication_word_tokens,full72,72,40,32,4812,7187
+replication_word_tokens,nonempty_negative_each_period,72,40,32,4812,7187
+replication_word_tokens,negative10_each_period,59,32,27,4422,6528
+lowercase_modal_tokens,full72,72,40,32,4812,7187
+lowercase_modal_tokens,nonempty_negative_each_period,72,40,32,4812,7187
+lowercase_modal_tokens,negative10_each_period,59,32,27,4422,6528

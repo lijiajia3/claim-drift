@@ -1,0 +1,19 @@
+{
+  "frozen_rules_sha256": "ae036d30ac94ff55d320de34f38de65e1ab56c5fb53ab7b47b636b8b08c05832",
+  "source_cohort_version": "2.3",
+  "primary_source_papers": 105,
+  "primary_text_units": 15280,
+  "positive_text_units": 8427,
+  "implementation_tests_passed": 27,
+  "independently_reconstructed_aggregate_rows": 8145,
+  "independently_reconstructed_source_estimates": 23625,
+  "independently_reproduced_source_bootstrap_contrasts": 156,
+  "independently_reproduced_component_bootstrap_intervals": 15,
+  "staunton106_separate_scope_sensitivity_verified": true,
+  "staunton106_connected_component_interval_claimed": false,
+  "conservative105_main_unchanged": true,
+  "all_raw_word_counts_retained": true,
+  "no_individual_human_labels_or_citation_text_distributed": true,
+  "author_archive_repreparation_without_private_numeric_snapshot_verified": true,
+  "validation_scope": "Computational and rule fidelity only; not human agreement, linguistic meaning, target relevance, filter accuracy or causal inference."
+}

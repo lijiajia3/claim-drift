@@ -1,0 +1,101 @@
+{
+  "protocol_sha256": "167f2ce696b06d0f0608b94040a85a22ecb0d2113bd99294db7956e60b42863e",
+  "input_sha256": {
+    "scientometrics_analysis/lexical/inputs/literal_counts_by_source_year.csv": "d0df2d1c2b34d1ad839a280f5a4239f9158f59f58430d52413e2627f05befd86",
+    "scientometrics_analysis/lexical/inputs/source_cohort.csv": "67504cfcd22489f42658f46a33836f78bf757a3787a2f91fb3d26f1cba01c768",
+    "scientometrics_analysis/lexical/inputs/shared_text_component_membership.csv": "ccf91b2f595832bb1181bdadb0c11c19414981d10aa8710c6622d4c72781ed9b",
+    "scientometrics_analysis/lexical/outputs/matched_source_filter_estimates.csv": "2d17badf96300a721794b830264fc2adbdf07a4556965f1a247f496ffa021d6c",
+    "scientometrics_analysis/lexical/outputs/matched_source_filter_comparison.csv": "4801091a75eb2fda4e42201145879b55c10bc9acfc0d1cce45128c10479a7ed2"
+  },
+  "script_sha256": "c4a53e6a3629cf458dad08fd81d6ab52c423b0a0777f34621763747d5975d97c",
+  "bootstrap_replicates": 19999,
+  "seed": 20261006,
+  "features": [
+    "epistemic_adverb_tokens",
+    "replication_word_tokens",
+    "lowercase_modal_tokens"
+  ],
+  "configs": {
+    "journal": {
+      "event": "event_year_journal",
+      "year": "year",
+      "omit": false,
+      "window": 0
+    },
+    "recorded_manuscript_upload_years": {
+      "event": "event_year_first_located_manuscript",
+      "year": "year",
+      "omit": false,
+      "window": 0
+    },
+    "omit_event_year": {
+      "event": "event_year_journal",
+      "year": "year",
+      "omit": true,
+      "window": 0
+    },
+    "symmetric5_years_omit_event_year": {
+      "event": "event_year_journal",
+      "year": "year",
+      "omit": true,
+      "window": 5
+    },
+    "latest_archived_year": {
+      "event": "event_year_journal",
+      "year": "latest_year",
+      "omit": false,
+      "window": 0
+    }
+  },
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "pandas": "2.2.3",
+  "archive_identity_checks": [
+    {
+      "feature": "epistemic_adverb_tokens",
+      "metric": "filter_shift",
+      "max_absolute_difference_from_previous": 9.540979117872439e-17
+    },
+    {
+      "feature": "epistemic_adverb_tokens",
+      "metric": "all_event_change",
+      "max_absolute_difference_from_previous": 9.367506770274758e-17
+    },
+    {
+      "feature": "epistemic_adverb_tokens",
+      "metric": "positive_event_change",
+      "max_absolute_difference_from_previous": 8.673617379884035e-17
+    },
+    {
+      "feature": "replication_word_tokens",
+      "metric": "filter_shift",
+      "max_absolute_difference_from_previous": 9.71445146547012e-17
+    },
+    {
+      "feature": "replication_word_tokens",
+      "metric": "all_event_change",
+      "max_absolute_difference_from_previous": 9.71445146547012e-17
+    },
+    {
+      "feature": "replication_word_tokens",
+      "metric": "positive_event_change",
+      "max_absolute_difference_from_previous": 9.194034422677078e-17
+    },
+    {
+      "feature": "lowercase_modal_tokens",
+      "metric": "filter_shift",
+      "max_absolute_difference_from_previous": 9.71445146547012e-17
+    },
+    {
+      "feature": "lowercase_modal_tokens",
+      "metric": "all_event_change",
+      "max_absolute_difference_from_previous": 9.71445146547012e-17
+    },
+    {
+      "feature": "lowercase_modal_tokens",
+      "metric": "positive_event_change",
+      "max_absolute_difference_from_previous": 9.71445146547012e-17
+    }
+  ],
+  "interpretation": "Post hoc descriptive algebra and sensitivity; no semantic ground truth, causal effect, or claim-level response validation."
+}

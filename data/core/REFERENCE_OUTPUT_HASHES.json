@@ -1,0 +1,20 @@
+{
+  "outputs/ambiguous_label_all_assignments.csv": "f8ab6fc3836909bd8bcee0cf3bc922a2cdee79cb910f4f6dd94ae791c7ad527c",
+  "outputs/ambiguous_label_ranges.csv": "4e33449891ffdee68bdb1aa1d4d6314f6af5ea3f120309256da73d4a44501e57",
+  "outputs/archived_replay.csv": "791583aa1d7d26a1832b8c151fc01f4185b5072bc94669823db138f2393f070d",
+  "outputs/archived_replay_verification.json": "8c0277b169a335dc3aec91ae9bcf5a7f73521d6c8187f0507846c8694e8f82c7",
+  "outputs/cohort_counts.csv": "187e8cccf5b38c2900c251319b59983f2e807cca03bdf1ba51c9fef0b34e60c0",
+  "outputs/event_equal_paper_trajectory.csv": "b1cb7098890bf04c84b1cd642842e29e5d428112a5ee55385c9c741769b15f04",
+  "outputs/event_group_plot_data.csv": "60e7b7dcd5861e04cd734060f61bc82779920fb59ddfa3503c205bcb76374ce9",
+  "outputs/event_paper_years.csv": "b7d5240f33a33f76ef1beddc184bac7782aa8b07d99ecb9459a9304639faea44",
+  "outputs/hypothetical_precision_simulation.csv": "8db471a0e2ef0d770e93a6a5509e84b7b01491e7ab62a190c431d39c8f6690ff",
+  "outputs/precision_and_tost_grid.csv": "af8c36b21da26e88356cb1f865fb7a08135d6d0964612c828c2fc971ba4fedb2",
+  "outputs/primary_contrasts.csv": "5a044534926f7fcec6c184c8a1c52e347dd5f42bbc834eef5abb53067945820e",
+  "outputs/primary_paper_estimates.csv": "f62185c4a7656ff4a361f0afa4e8b1c4009aefbf7e515c055bf8dd355e0b2823",
+  "outputs/primary_results.json": "a7d77e297d2cb1d84501ef3fc3a91d8de8e7469d33a8ffe04ecbd10d749c7980",
+  "outputs/project_standardization.json": "330ad7ec4c760f0c4190ca7a1c431b8295cde68cd62c15c7b16854e4e8181cc1",
+  "outputs/sensitivity_definitions.json": "f534409b4f024b427a0c0ab80557182cabe7d935e297ad1313d2f914dcccb942",
+  "outputs/sensitivity_grid.csv": "85d79716edad4773ff503a69d7369c8b8cc0a1a135f32e4a49c791b4f96f3e4e",
+  "outputs/shared_text_component_bootstrap.csv": "ae0837090269de652d1d18b57854568be7057aa8b860a4218591d7027fba5ed1",
+  "outputs/shared_text_component_membership.csv": "ccf91b2f595832bb1181bdadb0c11c19414981d10aa8710c6622d4c72781ed9b"
+}

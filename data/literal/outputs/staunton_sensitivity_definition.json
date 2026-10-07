@@ -1,0 +1,21 @@
+{
+  "name": "106-source archived-Staunton-selected-target sensitivity",
+  "primary_cohort_remains": 105,
+  "additional_source_id": "rpp.73",
+  "rule": "Archived selected Staunton contrast: predicted-direction nominal significance by Pearson chi-square goodness-of-fit against local Democratic/Republican voter proportions .30/.70; no source-wide aggregation is imposed.",
+  "n": 120,
+  "democratic_count": 25,
+  "republican_count": 95,
+  "chi_square": 4.801587301587,
+  "pearson_p": 0.0284335289139828,
+  "signed_phi": 0.200033066,
+  "important_distinction": "The unrounded Pearson p is not an exact-binomial p. Broader multi-site scope remains an inclusion choice; this row is not silently promoted into the105-source main analysis.",
+  "source_cohort_sha256": "9c74a40a89ee8aff60ce73275c7c3817c3ab91bbcdf863ff1651796f3b81c0ad",
+  "sources": {
+    "report": "https://osf.io/download/2jwi6/",
+    "count_workbook": "https://osf.io/download/ftzbj/",
+    "selection_script": "https://osf.io/download/hau4p/",
+    "registered_protocol": "https://osf.io/download/n6m5d/",
+    "registration": "https://osf.io/hctz9/"
+  }
+}

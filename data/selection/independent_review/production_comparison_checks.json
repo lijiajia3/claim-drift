@@ -1,0 +1,1510 @@
+{
+  "all_passed": true,
+  "n_checks": 292,
+  "checks": [
+    {
+      "check": "primary source values rows",
+      "pass": true,
+      "detail": [
+        216,
+        216
+      ]
+    },
+    {
+      "check": "primary source values keys",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "primary source values total",
+      "pass": true,
+      "detail": 1.0061396160665481e-16
+    },
+    {
+      "check": "primary source values retention",
+      "pass": true,
+      "detail": 1.0061396160665481e-16
+    },
+    {
+      "check": "primary source values stratum_distribution",
+      "pass": true,
+      "detail": 1.0061396160665481e-16
+    },
+    {
+      "check": "primary source values account_retained",
+      "pass": true,
+      "detail": 1.0061396160665481e-16
+    },
+    {
+      "check": "primary source values account_excluded",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "primary source values source_id",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "primary source values project",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "primary source values criterion",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "primary source values decomposition_supported",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "primary source values excluded_ten_supported",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "primary source values all_event_change",
+      "pass": true,
+      "detail": 1.0408340855860843e-16
+    },
+    {
+      "check": "primary source values positive_event_change",
+      "pass": true,
+      "detail": 1.1102230246251565e-16
+    },
+    {
+      "check": "primary source values n_positive_pre",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "primary source values n_excluded_pre",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "primary source values hit_positive_pre",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "primary source values hit_excluded_pre",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "primary source values p_positive_pre",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "primary source values p_excluded_pre",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "primary source values p_all_pre",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "primary source values q_pre",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "primary source values gap_pre",
+      "pass": true,
+      "detail": 1.0061396160665481e-16
+    },
+    {
+      "check": "primary source values n_positive_post",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "primary source values n_excluded_post",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "primary source values hit_positive_post",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "primary source values hit_excluded_post",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "primary source values p_positive_post",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "primary source values p_excluded_post",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "primary source values p_all_post",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "primary source values q_post",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "primary source values gap_post",
+      "pass": true,
+      "detail": 1.1102230246251565e-16
+    },
+    {
+      "check": "all timing source values rows",
+      "pass": true,
+      "detail": [
+        1038,
+        1038
+      ]
+    },
+    {
+      "check": "all timing source values keys",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "all timing source values total",
+      "pass": true,
+      "detail": 1.0408340855860843e-16
+    },
+    {
+      "check": "all timing source values retention",
+      "pass": true,
+      "detail": 1.0061396160665481e-16
+    },
+    {
+      "check": "all timing source values stratum_distribution",
+      "pass": true,
+      "detail": 1.1102230246251565e-16
+    },
+    {
+      "check": "all timing source values account_retained",
+      "pass": true,
+      "detail": 1.0408340855860843e-16
+    },
+    {
+      "check": "all timing source values account_excluded",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "all timing source values source_id",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "all timing source values project",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "all timing source values criterion",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "all timing source values decomposition_supported",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "all timing source values excluded_ten_supported",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "all timing source values all_event_change",
+      "pass": true,
+      "detail": 1.0408340855860843e-16
+    },
+    {
+      "check": "all timing source values positive_event_change",
+      "pass": true,
+      "detail": 1.1102230246251565e-16
+    },
+    {
+      "check": "all timing source values n_positive_pre",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "all timing source values n_excluded_pre",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "all timing source values hit_positive_pre",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "all timing source values hit_excluded_pre",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "all timing source values p_positive_pre",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "all timing source values p_excluded_pre",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "all timing source values p_all_pre",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "all timing source values q_pre",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "all timing source values gap_pre",
+      "pass": true,
+      "detail": 1.0408340855860843e-16
+    },
+    {
+      "check": "all timing source values n_positive_post",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "all timing source values n_excluded_post",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "all timing source values hit_positive_post",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "all timing source values hit_excluded_post",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "all timing source values p_positive_post",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "all timing source values p_excluded_post",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "all timing source values p_all_post",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "all timing source values q_post",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "all timing source values gap_post",
+      "pass": true,
+      "detail": 1.1102230246251565e-16
+    },
+    {
+      "check": "source point summaries rows",
+      "pass": true,
+      "detail": [
+        39,
+        39
+      ]
+    },
+    {
+      "check": "source point summaries keys",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "source point summaries estimate",
+      "pass": true,
+      "detail": 9.8879238130678e-17
+    },
+    {
+      "check": "source point summaries n_negative",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "source point summaries n_positive",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "source bootstrap exact endpoints epistemic_adverb_tokens full72 total",
+      "pass": true,
+      "detail": 4.7704895589362195e-17
+    },
+    {
+      "check": "source bootstrap exact endpoints epistemic_adverb_tokens full72 account_retained",
+      "pass": true,
+      "detail": 1.0408340855860843e-17
+    },
+    {
+      "check": "source bootstrap exact endpoints epistemic_adverb_tokens full72 account_excluded",
+      "pass": true,
+      "detail": 6.635317295611287e-17
+    },
+    {
+      "check": "source bootstrap exact endpoints epistemic_adverb_tokens nonempty_negative_each_period total",
+      "pass": true,
+      "detail": 4.7704895589362195e-17
+    },
+    {
+      "check": "source bootstrap exact endpoints epistemic_adverb_tokens nonempty_negative_each_period retention",
+      "pass": true,
+      "detail": 8.456776945386935e-18
+    },
+    {
+      "check": "source bootstrap exact endpoints epistemic_adverb_tokens nonempty_negative_each_period stratum_distribution",
+      "pass": true,
+      "detail": 6.765421556309548e-17
+    },
+    {
+      "check": "source bootstrap exact endpoints epistemic_adverb_tokens nonempty_negative_each_period account_retained",
+      "pass": true,
+      "detail": 1.0408340855860843e-17
+    },
+    {
+      "check": "source bootstrap exact endpoints epistemic_adverb_tokens nonempty_negative_each_period account_excluded",
+      "pass": true,
+      "detail": 6.635317295611287e-17
+    },
+    {
+      "check": "source bootstrap exact endpoints epistemic_adverb_tokens negative10_each_period total",
+      "pass": true,
+      "detail": 4.9439619065339e-17
+    },
+    {
+      "check": "source bootstrap exact endpoints epistemic_adverb_tokens negative10_each_period retention",
+      "pass": true,
+      "detail": 6.093216209368535e-17
+    },
+    {
+      "check": "source bootstrap exact endpoints epistemic_adverb_tokens negative10_each_period stratum_distribution",
+      "pass": true,
+      "detail": 2.688821387764051e-17
+    },
+    {
+      "check": "source bootstrap exact endpoints epistemic_adverb_tokens negative10_each_period account_retained",
+      "pass": true,
+      "detail": 7.28583859910259e-17
+    },
+    {
+      "check": "source bootstrap exact endpoints epistemic_adverb_tokens negative10_each_period account_excluded",
+      "pass": true,
+      "detail": 9.475926987523309e-17
+    },
+    {
+      "check": "source bootstrap exact endpoints replication_word_tokens full72 total",
+      "pass": true,
+      "detail": 3.686287386450715e-17
+    },
+    {
+      "check": "source bootstrap exact endpoints replication_word_tokens full72 account_retained",
+      "pass": true,
+      "detail": 5.898059818321144e-17
+    },
+    {
+      "check": "source bootstrap exact endpoints replication_word_tokens full72 account_excluded",
+      "pass": true,
+      "detail": 4.5102810375396984e-17
+    },
+    {
+      "check": "source bootstrap exact endpoints replication_word_tokens nonempty_negative_each_period total",
+      "pass": true,
+      "detail": 3.686287386450715e-17
+    },
+    {
+      "check": "source bootstrap exact endpoints replication_word_tokens nonempty_negative_each_period retention",
+      "pass": true,
+      "detail": 1.0061396160665481e-16
+    },
+    {
+      "check": "source bootstrap exact endpoints replication_word_tokens nonempty_negative_each_period stratum_distribution",
+      "pass": true,
+      "detail": 5.551115123125783e-17
+    },
+    {
+      "check": "source bootstrap exact endpoints replication_word_tokens nonempty_negative_each_period account_retained",
+      "pass": true,
+      "detail": 5.898059818321144e-17
+    },
+    {
+      "check": "source bootstrap exact endpoints replication_word_tokens nonempty_negative_each_period account_excluded",
+      "pass": true,
+      "detail": 4.5102810375396984e-17
+    },
+    {
+      "check": "source bootstrap exact endpoints replication_word_tokens negative10_each_period total",
+      "pass": true,
+      "detail": 7.231628490478315e-17
+    },
+    {
+      "check": "source bootstrap exact endpoints replication_word_tokens negative10_each_period retention",
+      "pass": true,
+      "detail": 8.847089727481716e-17
+    },
+    {
+      "check": "source bootstrap exact endpoints replication_word_tokens negative10_each_period stratum_distribution",
+      "pass": true,
+      "detail": 6.938893903907228e-17
+    },
+    {
+      "check": "source bootstrap exact endpoints replication_word_tokens negative10_each_period account_retained",
+      "pass": true,
+      "detail": 7.632783294297951e-17
+    },
+    {
+      "check": "source bootstrap exact endpoints replication_word_tokens negative10_each_period account_excluded",
+      "pass": true,
+      "detail": 5.898059818321144e-17
+    },
+    {
+      "check": "source bootstrap exact endpoints lowercase_modal_tokens full72 total",
+      "pass": true,
+      "detail": 8.847089727481716e-17
+    },
+    {
+      "check": "source bootstrap exact endpoints lowercase_modal_tokens full72 account_retained",
+      "pass": true,
+      "detail": 3.8163916471489756e-17
+    },
+    {
+      "check": "source bootstrap exact endpoints lowercase_modal_tokens full72 account_excluded",
+      "pass": true,
+      "detail": 9.71445146547012e-17
+    },
+    {
+      "check": "source bootstrap exact endpoints lowercase_modal_tokens nonempty_negative_each_period total",
+      "pass": true,
+      "detail": 8.847089727481716e-17
+    },
+    {
+      "check": "source bootstrap exact endpoints lowercase_modal_tokens nonempty_negative_each_period retention",
+      "pass": true,
+      "detail": 8.673617379884035e-18
+    },
+    {
+      "check": "source bootstrap exact endpoints lowercase_modal_tokens nonempty_negative_each_period stratum_distribution",
+      "pass": true,
+      "detail": 2.0816681711721685e-17
+    },
+    {
+      "check": "source bootstrap exact endpoints lowercase_modal_tokens nonempty_negative_each_period account_retained",
+      "pass": true,
+      "detail": 3.8163916471489756e-17
+    },
+    {
+      "check": "source bootstrap exact endpoints lowercase_modal_tokens nonempty_negative_each_period account_excluded",
+      "pass": true,
+      "detail": 9.71445146547012e-17
+    },
+    {
+      "check": "source bootstrap exact endpoints lowercase_modal_tokens negative10_each_period total",
+      "pass": true,
+      "detail": 6.245004513516506e-17
+    },
+    {
+      "check": "source bootstrap exact endpoints lowercase_modal_tokens negative10_each_period retention",
+      "pass": true,
+      "detail": 7.741203511546502e-17
+    },
+    {
+      "check": "source bootstrap exact endpoints lowercase_modal_tokens negative10_each_period stratum_distribution",
+      "pass": true,
+      "detail": 1.0061396160665481e-16
+    },
+    {
+      "check": "source bootstrap exact endpoints lowercase_modal_tokens negative10_each_period account_retained",
+      "pass": true,
+      "detail": 3.2959746043559335e-17
+    },
+    {
+      "check": "source bootstrap exact endpoints lowercase_modal_tokens negative10_each_period account_excluded",
+      "pass": true,
+      "detail": 6.938893903907228e-17
+    },
+    {
+      "check": "89 frozen components",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "89-component bootstrap endpoints epistemic_adverb_tokens full72 total",
+      "pass": true,
+      "detail": 5.204170427930421e-17
+    },
+    {
+      "check": "89-component bootstrap endpoints epistemic_adverb_tokens full72 account_retained",
+      "pass": true,
+      "detail": 8.500145032286355e-17
+    },
+    {
+      "check": "89-component bootstrap endpoints epistemic_adverb_tokens full72 account_excluded",
+      "pass": true,
+      "detail": 2.2551405187698492e-17
+    },
+    {
+      "check": "component dropped draws epistemic_adverb_tokens full72",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "component matched support epistemic_adverb_tokens full72",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "component frozen frame epistemic_adverb_tokens full72",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "89-component bootstrap endpoints epistemic_adverb_tokens nonempty_negative_each_period total",
+      "pass": true,
+      "detail": 5.204170427930421e-17
+    },
+    {
+      "check": "89-component bootstrap endpoints epistemic_adverb_tokens nonempty_negative_each_period retention",
+      "pass": true,
+      "detail": 2.8406096919120216e-17
+    },
+    {
+      "check": "89-component bootstrap endpoints epistemic_adverb_tokens nonempty_negative_each_period stratum_distribution",
+      "pass": true,
+      "detail": 2.688821387764051e-17
+    },
+    {
+      "check": "89-component bootstrap endpoints epistemic_adverb_tokens nonempty_negative_each_period account_retained",
+      "pass": true,
+      "detail": 8.500145032286355e-17
+    },
+    {
+      "check": "89-component bootstrap endpoints epistemic_adverb_tokens nonempty_negative_each_period account_excluded",
+      "pass": true,
+      "detail": 2.2551405187698492e-17
+    },
+    {
+      "check": "component dropped draws epistemic_adverb_tokens nonempty_negative_each_period",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "component matched support epistemic_adverb_tokens nonempty_negative_each_period",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "component frozen frame epistemic_adverb_tokens nonempty_negative_each_period",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "89-component bootstrap endpoints epistemic_adverb_tokens negative10_each_period total",
+      "pass": true,
+      "detail": 3.5561831257524545e-17
+    },
+    {
+      "check": "89-component bootstrap endpoints epistemic_adverb_tokens negative10_each_period retention",
+      "pass": true,
+      "detail": 6.288372600415926e-17
+    },
+    {
+      "check": "89-component bootstrap endpoints epistemic_adverb_tokens negative10_each_period stratum_distribution",
+      "pass": true,
+      "detail": 2.949029909160572e-17
+    },
+    {
+      "check": "89-component bootstrap endpoints epistemic_adverb_tokens negative10_each_period account_retained",
+      "pass": true,
+      "detail": 5.637851296924623e-17
+    },
+    {
+      "check": "89-component bootstrap endpoints epistemic_adverb_tokens negative10_each_period account_excluded",
+      "pass": true,
+      "detail": 1.431146867680866e-17
+    },
+    {
+      "check": "component dropped draws epistemic_adverb_tokens negative10_each_period",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "component matched support epistemic_adverb_tokens negative10_each_period",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "component frozen frame epistemic_adverb_tokens negative10_each_period",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "89-component bootstrap endpoints replication_word_tokens full72 total",
+      "pass": true,
+      "detail": 8.066464163292153e-17
+    },
+    {
+      "check": "89-component bootstrap endpoints replication_word_tokens full72 account_retained",
+      "pass": true,
+      "detail": 4.8138576458356397e-17
+    },
+    {
+      "check": "89-component bootstrap endpoints replication_word_tokens full72 account_excluded",
+      "pass": true,
+      "detail": 6.245004513516506e-17
+    },
+    {
+      "check": "component dropped draws replication_word_tokens full72",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "component matched support replication_word_tokens full72",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "component frozen frame replication_word_tokens full72",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "89-component bootstrap endpoints replication_word_tokens nonempty_negative_each_period total",
+      "pass": true,
+      "detail": 8.066464163292153e-17
+    },
+    {
+      "check": "89-component bootstrap endpoints replication_word_tokens nonempty_negative_each_period retention",
+      "pass": true,
+      "detail": 1.0093922225840046e-16
+    },
+    {
+      "check": "89-component bootstrap endpoints replication_word_tokens nonempty_negative_each_period stratum_distribution",
+      "pass": true,
+      "detail": 7.047314121155779e-17
+    },
+    {
+      "check": "89-component bootstrap endpoints replication_word_tokens nonempty_negative_each_period account_retained",
+      "pass": true,
+      "detail": 4.8138576458356397e-17
+    },
+    {
+      "check": "89-component bootstrap endpoints replication_word_tokens nonempty_negative_each_period account_excluded",
+      "pass": true,
+      "detail": 6.245004513516506e-17
+    },
+    {
+      "check": "component dropped draws replication_word_tokens nonempty_negative_each_period",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "component matched support replication_word_tokens nonempty_negative_each_period",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "component frozen frame replication_word_tokens nonempty_negative_each_period",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "89-component bootstrap endpoints replication_word_tokens negative10_each_period total",
+      "pass": true,
+      "detail": 7.37257477290143e-17
+    },
+    {
+      "check": "89-component bootstrap endpoints replication_word_tokens negative10_each_period retention",
+      "pass": true,
+      "detail": 1.1427490897997217e-16
+    },
+    {
+      "check": "89-component bootstrap endpoints replication_word_tokens negative10_each_period stratum_distribution",
+      "pass": true,
+      "detail": 6.310056643865636e-17
+    },
+    {
+      "check": "89-component bootstrap endpoints replication_word_tokens negative10_each_period account_retained",
+      "pass": true,
+      "detail": 2.42861286636753e-17
+    },
+    {
+      "check": "89-component bootstrap endpoints replication_word_tokens negative10_each_period account_excluded",
+      "pass": true,
+      "detail": 4.85722573273506e-17
+    },
+    {
+      "check": "component dropped draws replication_word_tokens negative10_each_period",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "component matched support replication_word_tokens negative10_each_period",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "component frozen frame replication_word_tokens negative10_each_period",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "89-component bootstrap endpoints lowercase_modal_tokens full72 total",
+      "pass": true,
+      "detail": 6.765421556309548e-17
+    },
+    {
+      "check": "89-component bootstrap endpoints lowercase_modal_tokens full72 account_retained",
+      "pass": true,
+      "detail": 2.7755575615628914e-17
+    },
+    {
+      "check": "89-component bootstrap endpoints lowercase_modal_tokens full72 account_excluded",
+      "pass": true,
+      "detail": 3.122502256758253e-17
+    },
+    {
+      "check": "component dropped draws lowercase_modal_tokens full72",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "component matched support lowercase_modal_tokens full72",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "component frozen frame lowercase_modal_tokens full72",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "89-component bootstrap endpoints lowercase_modal_tokens nonempty_negative_each_period total",
+      "pass": true,
+      "detail": 6.765421556309548e-17
+    },
+    {
+      "check": "89-component bootstrap endpoints lowercase_modal_tokens nonempty_negative_each_period retention",
+      "pass": true,
+      "detail": 6.071532165918825e-18
+    },
+    {
+      "check": "89-component bootstrap endpoints lowercase_modal_tokens nonempty_negative_each_period stratum_distribution",
+      "pass": true,
+      "detail": 4.85722573273506e-17
+    },
+    {
+      "check": "89-component bootstrap endpoints lowercase_modal_tokens nonempty_negative_each_period account_retained",
+      "pass": true,
+      "detail": 2.7755575615628914e-17
+    },
+    {
+      "check": "89-component bootstrap endpoints lowercase_modal_tokens nonempty_negative_each_period account_excluded",
+      "pass": true,
+      "detail": 3.122502256758253e-17
+    },
+    {
+      "check": "component dropped draws lowercase_modal_tokens nonempty_negative_each_period",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "component matched support lowercase_modal_tokens nonempty_negative_each_period",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "component frozen frame lowercase_modal_tokens nonempty_negative_each_period",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "89-component bootstrap endpoints lowercase_modal_tokens negative10_each_period total",
+      "pass": true,
+      "detail": 3.469446951953614e-17
+    },
+    {
+      "check": "89-component bootstrap endpoints lowercase_modal_tokens negative10_each_period retention",
+      "pass": true,
+      "detail": 6.006480035569695e-17
+    },
+    {
+      "check": "89-component bootstrap endpoints lowercase_modal_tokens negative10_each_period stratum_distribution",
+      "pass": true,
+      "detail": 5.204170427930421e-17
+    },
+    {
+      "check": "89-component bootstrap endpoints lowercase_modal_tokens negative10_each_period account_retained",
+      "pass": true,
+      "detail": 7.806255641895632e-17
+    },
+    {
+      "check": "89-component bootstrap endpoints lowercase_modal_tokens negative10_each_period account_excluded",
+      "pass": true,
+      "detail": 5.551115123125783e-17
+    },
+    {
+      "check": "component dropped draws lowercase_modal_tokens negative10_each_period",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "component matched support lowercase_modal_tokens negative10_each_period",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "component frozen frame lowercase_modal_tokens negative10_each_period",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "all source deletion results rows",
+      "pass": true,
+      "detail": [
+        216,
+        216
+      ]
+    },
+    {
+      "check": "all source deletion results keys",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "all source deletion results source_shift",
+      "pass": true,
+      "detail": 1.0061396160665481e-16
+    },
+    {
+      "check": "all source deletion results estimate_without_source",
+      "pass": true,
+      "detail": 1.0061396160665481e-16
+    },
+    {
+      "check": "all source deletion results change_from_full",
+      "pass": true,
+      "detail": 1.748276003132876e-18
+    },
+    {
+      "check": "all signed source contributions rows",
+      "pass": true,
+      "detail": [
+        216,
+        216
+      ]
+    },
+    {
+      "check": "all signed source contributions keys",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "all signed source contributions signed_contribution",
+      "pass": true,
+      "detail": 3.9302328752599536e-19
+    },
+    {
+      "check": "independent_leave_project_out.csv rows",
+      "pass": true,
+      "detail": [
+        12,
+        12
+      ]
+    },
+    {
+      "check": "independent_leave_project_out.csv keys",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "independent_leave_project_out.csv estimate",
+      "pass": true,
+      "detail": 1.0061396160665481e-16
+    },
+    {
+      "check": "independent_leave_project_out.csv n_negative",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "independent_leave_project_out.csv n_positive",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "independent_leave_project_out.csv endpoints epistemic_adverb_tokens EERP",
+      "pass": true,
+      "detail": 6.938893903907228e-17
+    },
+    {
+      "check": "independent_leave_project_out.csv endpoints epistemic_adverb_tokens ML1",
+      "pass": true,
+      "detail": 1.0148132334464322e-16
+    },
+    {
+      "check": "independent_leave_project_out.csv endpoints epistemic_adverb_tokens ML3",
+      "pass": true,
+      "detail": 7.632783294297951e-17
+    },
+    {
+      "check": "independent_leave_project_out.csv endpoints epistemic_adverb_tokens RPP",
+      "pass": true,
+      "detail": 7.806255641895632e-17
+    },
+    {
+      "check": "independent_leave_project_out.csv endpoints replication_word_tokens EERP",
+      "pass": true,
+      "detail": 3.469446951953614e-17
+    },
+    {
+      "check": "independent_leave_project_out.csv endpoints replication_word_tokens ML1",
+      "pass": true,
+      "detail": 7.589415207398531e-17
+    },
+    {
+      "check": "independent_leave_project_out.csv endpoints replication_word_tokens ML3",
+      "pass": true,
+      "detail": 7.32920668600201e-17
+    },
+    {
+      "check": "independent_leave_project_out.csv endpoints replication_word_tokens RPP",
+      "pass": true,
+      "detail": 6.591949208711867e-17
+    },
+    {
+      "check": "independent_leave_project_out.csv endpoints lowercase_modal_tokens EERP",
+      "pass": true,
+      "detail": 4.163336342344337e-17
+    },
+    {
+      "check": "independent_leave_project_out.csv endpoints lowercase_modal_tokens ML1",
+      "pass": true,
+      "detail": 7.28583859910259e-17
+    },
+    {
+      "check": "independent_leave_project_out.csv endpoints lowercase_modal_tokens ML3",
+      "pass": true,
+      "detail": 4.85722573273506e-17
+    },
+    {
+      "check": "independent_leave_project_out.csv endpoints lowercase_modal_tokens RPP",
+      "pass": true,
+      "detail": 6.938893903907228e-17
+    },
+    {
+      "check": "independent_within_project.csv rows",
+      "pass": true,
+      "detail": [
+        12,
+        12
+      ]
+    },
+    {
+      "check": "independent_within_project.csv keys",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "independent_within_project.csv estimate",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "independent_within_project.csv n_negative",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "independent_within_project.csv n_positive",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "ML1 direct within-project intervals omitted",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "independent_within_project.csv endpoints epistemic_adverb_tokens EERP",
+      "pass": true,
+      "detail": 4.163336342344337e-17
+    },
+    {
+      "check": "independent_within_project.csv endpoints epistemic_adverb_tokens ML3",
+      "pass": true,
+      "detail": 4.9873299934333204e-17
+    },
+    {
+      "check": "independent_within_project.csv endpoints epistemic_adverb_tokens RPP",
+      "pass": true,
+      "detail": 5.0306980803327406e-17
+    },
+    {
+      "check": "independent_within_project.csv endpoints replication_word_tokens EERP",
+      "pass": true,
+      "detail": 1.0148132334464322e-16
+    },
+    {
+      "check": "independent_within_project.csv endpoints replication_word_tokens ML3",
+      "pass": true,
+      "detail": 4.9873299934333204e-17
+    },
+    {
+      "check": "independent_within_project.csv endpoints replication_word_tokens RPP",
+      "pass": true,
+      "detail": 2.688821387764051e-17
+    },
+    {
+      "check": "independent_within_project.csv endpoints lowercase_modal_tokens EERP",
+      "pass": true,
+      "detail": 1.0408340855860843e-16
+    },
+    {
+      "check": "independent_within_project.csv endpoints lowercase_modal_tokens ML3",
+      "pass": true,
+      "detail": 6.938893903907228e-17
+    },
+    {
+      "check": "independent_within_project.csv endpoints lowercase_modal_tokens RPP",
+      "pass": true,
+      "detail": 6.938893903907228e-17
+    },
+    {
+      "check": "timing summary rows",
+      "pass": true,
+      "detail": [
+        15,
+        15
+      ]
+    },
+    {
+      "check": "timing summary keys",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "timing summary estimate",
+      "pass": true,
+      "detail": 2.168404344971009e-19
+    },
+    {
+      "check": "timing summary n_negative",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "timing summary n_positive",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "timing summary n_overlap_primary",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "timing summary n_added_to_primary",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "timing exact endpoints epistemic_adverb_tokens primary",
+      "pass": true,
+      "detail": 4.597017211338539e-17
+    },
+    {
+      "check": "timing exact endpoints epistemic_adverb_tokens recorded_manuscript_upload_years",
+      "pass": true,
+      "detail": 2.862293735361732e-17
+    },
+    {
+      "check": "timing exact endpoints epistemic_adverb_tokens omit_event_year",
+      "pass": true,
+      "detail": 7.719519468096792e-17
+    },
+    {
+      "check": "timing exact endpoints epistemic_adverb_tokens symmetric5_years_omit_event_year",
+      "pass": true,
+      "detail": 8.543513119185775e-17
+    },
+    {
+      "check": "timing exact endpoints epistemic_adverb_tokens latest_archived_year",
+      "pass": true,
+      "detail": 5.377642775528102e-17
+    },
+    {
+      "check": "timing exact endpoints replication_word_tokens primary",
+      "pass": true,
+      "detail": 3.686287386450715e-17
+    },
+    {
+      "check": "timing exact endpoints replication_word_tokens recorded_manuscript_upload_years",
+      "pass": true,
+      "detail": 6.331740687315346e-17
+    },
+    {
+      "check": "timing exact endpoints replication_word_tokens omit_event_year",
+      "pass": true,
+      "detail": 5.4643789493269423e-17
+    },
+    {
+      "check": "timing exact endpoints replication_word_tokens symmetric5_years_omit_event_year",
+      "pass": true,
+      "detail": 4.85722573273506e-17
+    },
+    {
+      "check": "timing exact endpoints replication_word_tokens latest_archived_year",
+      "pass": true,
+      "detail": 8.760353553682876e-17
+    },
+    {
+      "check": "timing exact endpoints lowercase_modal_tokens primary",
+      "pass": true,
+      "detail": 9.020562075079397e-17
+    },
+    {
+      "check": "timing exact endpoints lowercase_modal_tokens recorded_manuscript_upload_years",
+      "pass": true,
+      "detail": 7.28583859910259e-17
+    },
+    {
+      "check": "timing exact endpoints lowercase_modal_tokens omit_event_year",
+      "pass": true,
+      "detail": 6.938893903907228e-17
+    },
+    {
+      "check": "timing exact endpoints lowercase_modal_tokens symmetric5_years_omit_event_year",
+      "pass": true,
+      "detail": 7.632783294297951e-17
+    },
+    {
+      "check": "timing exact endpoints lowercase_modal_tokens latest_archived_year",
+      "pass": true,
+      "detail": 6.938893903907228e-17
+    },
+    {
+      "check": "standardized point estimates rows",
+      "pass": true,
+      "detail": [
+        6,
+        6
+      ]
+    },
+    {
+      "check": "standardized point estimates keys",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "standardized point estimates estimate",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "project weight epistemic_adverb_tokens equal_project EERP",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "project weight epistemic_adverb_tokens equal_project ML1",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "project weight epistemic_adverb_tokens equal_project ML3",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "project weight epistemic_adverb_tokens equal_project RPP",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "standardized singleton cell present epistemic_adverb_tokens equal_project",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "standardized exact conditional endpoints epistemic_adverb_tokens equal_project",
+      "pass": true,
+      "detail": 8.326672684688674e-17
+    },
+    {
+      "check": "project weight epistemic_adverb_tokens pooled_source_project_weights EERP",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "project weight epistemic_adverb_tokens pooled_source_project_weights ML1",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "project weight epistemic_adverb_tokens pooled_source_project_weights ML3",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "project weight epistemic_adverb_tokens pooled_source_project_weights RPP",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "standardized singleton cell present epistemic_adverb_tokens pooled_source_project_weights",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "standardized exact conditional endpoints epistemic_adverb_tokens pooled_source_project_weights",
+      "pass": true,
+      "detail": 2.2551405187698492e-17
+    },
+    {
+      "check": "project weight replication_word_tokens equal_project EERP",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "project weight replication_word_tokens equal_project ML1",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "project weight replication_word_tokens equal_project ML3",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "project weight replication_word_tokens equal_project RPP",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "standardized singleton cell present replication_word_tokens equal_project",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "standardized exact conditional endpoints replication_word_tokens equal_project",
+      "pass": true,
+      "detail": 5.4969050145015075e-17
+    },
+    {
+      "check": "project weight replication_word_tokens pooled_source_project_weights EERP",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "project weight replication_word_tokens pooled_source_project_weights ML1",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "project weight replication_word_tokens pooled_source_project_weights ML3",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "project weight replication_word_tokens pooled_source_project_weights RPP",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "standardized singleton cell present replication_word_tokens pooled_source_project_weights",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "standardized exact conditional endpoints replication_word_tokens pooled_source_project_weights",
+      "pass": true,
+      "detail": 5.898059818321144e-17
+    },
+    {
+      "check": "project weight lowercase_modal_tokens equal_project EERP",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "project weight lowercase_modal_tokens equal_project ML1",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "project weight lowercase_modal_tokens equal_project ML3",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "project weight lowercase_modal_tokens equal_project RPP",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "standardized singleton cell present lowercase_modal_tokens equal_project",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "standardized exact conditional endpoints lowercase_modal_tokens equal_project",
+      "pass": true,
+      "detail": 9.367506770274758e-17
+    },
+    {
+      "check": "project weight lowercase_modal_tokens pooled_source_project_weights EERP",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "project weight lowercase_modal_tokens pooled_source_project_weights ML1",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "project weight lowercase_modal_tokens pooled_source_project_weights ML3",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "project weight lowercase_modal_tokens pooled_source_project_weights RPP",
+      "pass": true,
+      "detail": 0.0
+    },
+    {
+      "check": "standardized singleton cell present lowercase_modal_tokens pooled_source_project_weights",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "standardized exact conditional endpoints lowercase_modal_tokens pooled_source_project_weights",
+      "pass": true,
+      "detail": 9.71445146547012e-17
+    },
+    {
+      "check": "empty-stratum output contains no sources",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "production excludes empty negative strata from symmetric decomposition",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "synthetic full-support edge (10, 0, 0, 0)",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "synthetic absent excluded denominator 0",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "synthetic full-support edge (10, 4, 0, 0)",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "synthetic absent excluded denominator 4",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "synthetic full-support edge (10, 10, 0, 0)",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "synthetic absent excluded denominator 10",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "synthetic full-support edge (10, 4, 1, 0)",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "synthetic full-support edge (10, 4, 1, 1)",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "influence extrema epistemic_adverb_tokens",
+      "pass": true,
+      "detail": 8.088148206741863e-17
+    },
+    {
+      "check": "top-five identities epistemic_adverb_tokens",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "influence extrema replication_word_tokens",
+      "pass": true,
+      "detail": 9.71445146547012e-17
+    },
+    {
+      "check": "top-five identities replication_word_tokens",
+      "pass": true,
+      "detail": null
+    },
+    {
+      "check": "influence extrema lowercase_modal_tokens",
+      "pass": true,
+      "detail": 4.85722573273506e-17
+    },
+    {
+      "check": "top-five identities lowercase_modal_tokens",
+      "pass": true,
+      "detail": null
+    }
+  ],
+  "production_hashes": {
+    "influence_summary.json": "d861d36d49c6264cc233772e7f69eabba1dbc2eaf367c8513fc633110a1b5d1d",
+    "source_period_decomposition.csv": "f1832215bd076d51f423cca801405404b37d5de7ae878f9bc1ab2bf366bc9b0a",
+    "within_project.csv": "0171064f3ca0ac79bab5c2de0cf52e4af65455490fe34554e42209030a3e7af3",
+    "project_standardized.csv": "01321f157fd19708dec2fdab2f30c34eeff537966baef87b5b9c867566a2e52b",
+    "source_support.csv": "738f1249e8ca534753077865c94a990db60af73679b7a50a53c66c1b2ac988b2",
+    "leave_source_out.csv": "348e7cc568b51960f64bea0dbef5d20a1eebe1f5f9e39c0d7d6355226b5ab434",
+    "method.json": "4752ddbb2a1ea3897e9430b06e07474e0541b9df37c6c4c7351be604b18505ec",
+    "leave_project_out.csv": "b6561e62ced8f6540ced3a5e19d8cac44a2cd76b66ff09dc496dbbe7a29a1c95",
+    "editorial_decomposition_table_pp.csv": "429c1c6ac38bb4778e65101eab9d938a416232f67830cb036afd436d3cda2404",
+    "all_timing_source_estimates.csv": "c3c75c93db42c8db09d9d9377bb9baf4cd2be038534d98e2561a449a6adceb31",
+    "source_bootstrap_components.csv": "91dcaf56b0036434d8f3e3067106589fcb86f0456ea86c0937044a10a4635605",
+    "timing_filter_shift.csv": "2e89991ad2bd390fa4dc0c10665772f6d79a5cc89818a28c100ed4dfc47370f5",
+    "shared_component_bootstrap.csv": "46f8976755c34939f8c7cd955f0c0c63de86db59d93e59631856a0e18799a979",
+    "nondecomposable_sources.csv": "b089502ef22c5b172c404b8b42bb3e574e3ac300401c52c2b1a3c16e297dd37a",
+    "analyze_selection_decomposition.py": "c4a53e6a3629cf458dad08fd81d6ab52c423b0a0777f34621763747d5975d97c"
+  }
+}

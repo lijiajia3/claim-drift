@@ -1,0 +1,63 @@
+{
+  "normalization_version": "NFKC_whitespace_casefold_v1",
+  "external_row_label_values_inspected": false,
+  "annotation_columns_projected_away_before_processing": true,
+  "development_annotation_values_inspected": false,
+  "outcome_comparisons_computed": false,
+  "sources": [
+    {
+      "source_id": "ml1.12",
+      "external_case": "carter",
+      "local_sentence_contexts": 127,
+      "external_article_case_rows_before_any_label_or_exclusion_filter": 44,
+      "external_doi_present": 40,
+      "external_UT_present": 44,
+      "local_contexts_with_exact_development_text": 1,
+      "local_contexts_with_normalized_development_text": 2,
+      "external_citation_text_match_count": null,
+      "external_citation_text_match_status": "not_computable_no_general_citation_context_field",
+      "direct_citing_identifier_match_status": "not_computable_no_citing_identifier_in_local_context_files"
+    },
+    {
+      "source_id": "ml1.13",
+      "external_case": "caruso",
+      "local_sentence_contexts": 158,
+      "external_article_case_rows_before_any_label_or_exclusion_filter": 51,
+      "external_doi_present": 47,
+      "external_UT_present": 51,
+      "local_contexts_with_exact_development_text": 4,
+      "local_contexts_with_normalized_development_text": 5,
+      "external_citation_text_match_count": null,
+      "external_citation_text_match_status": "not_computable_no_general_citation_context_field",
+      "direct_citing_identifier_match_status": "not_computable_no_citing_identifier_in_local_context_files"
+    }
+  ],
+  "development_text_files": {
+    "batch01_KEY_PI_ONLY.csv|batch01_recut": {
+      "rows": 368,
+      "unique_exact_texts": 356,
+      "unique_normalized_texts": 356
+    },
+    "rater_A.csv|students": {
+      "rows": 368,
+      "unique_exact_texts": 356,
+      "unique_normalized_texts": 356
+    },
+    "rater_B.csv|students": {
+      "rows": 368,
+      "unique_exact_texts": 356,
+      "unique_normalized_texts": 356
+    }
+  },
+  "note": "External overlap is unavailable, not zero. Counterargument quotations are outcome-selected and are not used as generic citation contexts.",
+  "file_sha256": {
+    "final_delivery/scientometrics_recovery/original_esm2/replication_package_2026.10.04-v1/annotation_package/batch01_recut/batch01_KEY_PI_ONLY.csv": "c129934e742c16a0e721ce5238f40e09516e9bdfe49e4d1b88f2723eb3c6de0a",
+    "final_delivery/scientometrics_recovery/original_esm2/replication_package_2026.10.04-v1/annotation_package/students/rater_A.csv": "37b8fec05d403b5c6403f13efd543117aa3102cd5868a32086e722ff04a9fa5f",
+    "final_delivery/scientometrics_recovery/original_esm2/replication_package_2026.10.04-v1/annotation_package/students/rater_B.csv": "45bd6b1d68d5061d1bc3b5fc2ca68dfb3cf7264a31778acfd31f01eccfe01661",
+    "final_delivery/scientometrics_recovery/original_esm2/replication_package_2026.10.04-v1/out_revision_hybrid/primary_sentences.csv": "b71499ca344210af7b8073f8f2793ed87e8290226fb430dcaebd285d34f50ebd",
+    "twenty_hour_revision/scientometrics_analysis/inputs/contexts_numeric.csv": "822a16fc6b6c2eec3bf2da68bcfaa17f817370f26458a95da39e3e4c9e85562d",
+    "twenty_hour_revision/no_label_reassessment/external_annotations/contentAnalysis_carter.csv": "1360966cec40fc452c7d16b712b484bc24934eba6f4b43b94a74a3b9c44c9606",
+    "twenty_hour_revision/no_label_reassessment/external_annotations/contentAnalysis_caruso.csv": "2881bd9caf6bbb71dd4508fb6a2af1a6705cd0e0d279c03b8a7042653f11178f",
+    "twenty_hour_revision/no_label_reassessment/external_annotations/d_contentAnalysis.csv": "e790c605a73ef58408f637d6cbeeddaf64aaad4cba00668abcd5c0a0c0cecb94"
+  }
+}

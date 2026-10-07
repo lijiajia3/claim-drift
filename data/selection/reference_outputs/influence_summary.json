@@ -1,0 +1,191 @@
+[
+  {
+    "feature": "epistemic_adverb_tokens",
+    "minimum_source_deletion_estimate": -0.0018591996751369808,
+    "maximum_source_deletion_estimate": 0.001201792855136404,
+    "maximum_absolute_source_deletion_change": 0.0019628952802440264,
+    "top_five_absolute_signed_contributions": [
+      {
+        "feature": "epistemic_adverb_tokens",
+        "analysis_claim_id": "v3_conflict_triggered_goal_shielding_respon",
+        "source_id": "rpp.158",
+        "project": "RPP",
+        "criterion": "successful",
+        "source_filter_shift": 0.0625,
+        "signed_contribution_to_full_contrast": -0.001953125,
+        "estimate_omitting_source": 0.001201792855136404,
+        "change_from_full_estimate": 0.0019628952802440264
+      },
+      {
+        "feature": "epistemic_adverb_tokens",
+        "analysis_claim_id": "v3_the_lure_of_authority_motivation_and_inc",
+        "source_id": "ee.10",
+        "project": "EERP",
+        "criterion": "successful",
+        "source_filter_shift": -0.03239076843847492,
+        "signed_contribution_to_full_contrast": 0.0010122115137023414,
+        "estimate_omitting_source": -0.0018591996751369808,
+        "change_from_full_estimate": -0.0010980972500293585
+      },
+      {
+        "feature": "epistemic_adverb_tokens",
+        "analysis_claim_id": "v3_1_f_noise_and_effort_on_implicit_measure",
+        "source_id": "rpp.63",
+        "project": "RPP",
+        "criterion": "failed",
+        "source_filter_shift": 0.04035087719298246,
+        "signed_contribution_to_full_contrast": 0.0010087719298245614,
+        "estimate_omitting_source": -0.0017729417406372355,
+        "change_from_full_estimate": -0.0010118393155296131
+      },
+      {
+        "feature": "epistemic_adverb_tokens",
+        "analysis_claim_id": "v3_the_ultimate_sampling_dilemma_in_experie",
+        "source_id": "rpp.17",
+        "project": "RPP",
+        "criterion": "successful",
+        "source_filter_shift": -0.02857142857142857,
+        "signed_contribution_to_full_contrast": 0.0008928571428571428,
+        "estimate_omitting_source": -0.001735995163296776,
+        "change_from_full_estimate": -0.0009748927381891537
+      },
+      {
+        "feature": "epistemic_adverb_tokens",
+        "analysis_claim_id": "v3_on_the_additive_effects_of_stimulus_qual",
+        "source_id": "rpp.27",
+        "project": "RPP",
+        "criterion": "successful",
+        "source_filter_shift": 0.021412037037037035,
+        "signed_contribution_to_full_contrast": -0.0006691261574074073,
+        "estimate_omitting_source": -0.00012362530495917535,
+        "change_from_full_estimate": 0.000637477120148447
+      }
+    ]
+  },
+  {
+    "feature": "replication_word_tokens",
+    "minimum_source_deletion_estimate": -0.017136414666039396,
+    "maximum_source_deletion_estimate": -0.011882448945654694,
+    "maximum_absolute_source_deletion_change": 0.00364659154066687,
+    "top_five_absolute_signed_contributions": [
+      {
+        "feature": "replication_word_tokens",
+        "analysis_claim_id": "v3_why_people_are_reluctant_to_tempt_fate",
+        "source_id": "rpp.68",
+        "project": "RPP",
+        "criterion": "failed",
+        "source_filter_shift": -0.15750934773577066,
+        "signed_contribution_to_full_contrast": -0.003937733693394266,
+        "estimate_omitting_source": -0.011882448945654694,
+        "change_from_full_estimate": 0.00364659154066687
+      },
+      {
+        "feature": "replication_word_tokens",
+        "analysis_claim_id": "v3_1_f_noise_and_effort_on_implicit_measure",
+        "source_id": "rpp.63",
+        "project": "RPP",
+        "criterion": "failed",
+        "source_filter_shift": -0.12457614624797286,
+        "signed_contribution_to_full_contrast": -0.0031144036561993214,
+        "estimate_omitting_source": -0.01272689000944438,
+        "change_from_full_estimate": 0.0028021504768771834
+      },
+      {
+        "feature": "replication_word_tokens",
+        "analysis_claim_id": "v3_on_the_additive_effects_of_stimulus_qual",
+        "source_id": "rpp.27",
+        "project": "RPP",
+        "criterion": "successful",
+        "source_filter_shift": 0.07696759259259259,
+        "signed_contribution_to_full_contrast": -0.0024052372685185184,
+        "estimate_omitting_source": -0.013053852429675317,
+        "change_from_full_estimate": 0.0024751880566462464
+      },
+      {
+        "feature": "replication_word_tokens",
+        "analysis_claim_id": "v3_conflict_triggered_goal_shielding_respon",
+        "source_id": "rpp.158",
+        "project": "RPP",
+        "criterion": "successful",
+        "source_filter_shift": 0.06428571428571428,
+        "signed_contribution_to_full_contrast": -0.0020089285714285712,
+        "estimate_omitting_source": -0.013462945278284295,
+        "change_from_full_estimate": 0.0020660952080372684
+      },
+      {
+        "feature": "replication_word_tokens",
+        "analysis_claim_id": "v3_affective_incoherence_when_affective_con",
+        "source_id": "rpp.52",
+        "project": "RPP",
+        "criterion": "failed",
+        "source_filter_shift": -0.06666666666666667,
+        "signed_contribution_to_full_contrast": -0.0016666666666666666,
+        "estimate_omitting_source": -0.014211748460247104,
+        "change_from_full_estimate": 0.0013172920260744597
+      }
+    ]
+  },
+  {
+    "feature": "lowercase_modal_tokens",
+    "minimum_source_deletion_estimate": -0.01700369759920285,
+    "maximum_source_deletion_estimate": -0.008136147972639937,
+    "maximum_absolute_source_deletion_change": 0.00607055411055093,
+    "top_five_absolute_signed_contributions": [
+      {
+        "feature": "lowercase_modal_tokens",
+        "analysis_claim_id": "v3_a_motion_aftereffect_from_still_photogra",
+        "source_id": "rpp.127",
+        "project": "RPP",
+        "criterion": "successful",
+        "source_filter_shift": -0.17294117647058824,
+        "signed_contribution_to_full_contrast": 0.005404411764705882,
+        "estimate_omitting_source": -0.01700369759920285,
+        "change_from_full_estimate": -0.00607055411055093
+      },
+      {
+        "feature": "lowercase_modal_tokens",
+        "analysis_claim_id": "v3_decision_making_and_learning_while_takin",
+        "source_id": "rpp.39",
+        "project": "RPP",
+        "criterion": "failed",
+        "source_filter_shift": 0.16495535714285714,
+        "signed_contribution_to_full_contrast": 0.004123883928571428,
+        "estimate_omitting_source": -0.01505218194185752,
+        "change_from_full_estimate": -0.004119038453205602
+      },
+      {
+        "feature": "lowercase_modal_tokens",
+        "analysis_claim_id": "v3_running_on_empty_neural_signals_for_self",
+        "source_id": "ml3.5",
+        "project": "ML3",
+        "criterion": "successful",
+        "source_filter_shift": 0.10195286195286195,
+        "signed_contribution_to_full_contrast": -0.003186026936026936,
+        "estimate_omitting_source": -0.008136147972639937,
+        "change_from_full_estimate": 0.0027969955160119814
+      },
+      {
+        "feature": "lowercase_modal_tokens",
+        "analysis_claim_id": "v3_last_place_aversion_evidence_and_redistr",
+        "source_id": "ee.18",
+        "project": "EERP",
+        "criterion": "failed",
+        "source_filter_shift": 0.1263325408390214,
+        "signed_contribution_to_full_contrast": 0.003158313520975535,
+        "estimate_omitting_source": -0.014061853318682245,
+        "change_from_full_estimate": -0.003128709830030326
+      },
+      {
+        "feature": "lowercase_modal_tokens",
+        "analysis_claim_id": "v3_the_ultimate_sampling_dilemma_in_experie",
+        "source_id": "rpp.17",
+        "project": "RPP",
+        "criterion": "successful",
+        "source_filter_shift": 0.08646616541353382,
+        "signed_contribution_to_full_contrast": -0.0027020676691729317,
+        "estimate_omitting_source": -0.008635718828747299,
+        "change_from_full_estimate": 0.00229742465990462
+      }
+    ]
+  }
+]

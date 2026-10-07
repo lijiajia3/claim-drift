@@ -1,0 +1,68 @@
+{
+  "status": "verified",
+  "csv_files": 12,
+  "csv_checks": [
+    {
+      "file": "all_timing_source_estimates.csv",
+      "rows": 1038,
+      "verified": true
+    },
+    {
+      "file": "editorial_decomposition_table_pp.csv",
+      "rows": 3,
+      "verified": true
+    },
+    {
+      "file": "leave_project_out.csv",
+      "rows": 12,
+      "verified": true
+    },
+    {
+      "file": "leave_source_out.csv",
+      "rows": 216,
+      "verified": true
+    },
+    {
+      "file": "nondecomposable_sources.csv",
+      "rows": 0,
+      "verified": true
+    },
+    {
+      "file": "project_standardized.csv",
+      "rows": 6,
+      "verified": true
+    },
+    {
+      "file": "shared_component_bootstrap.csv",
+      "rows": 39,
+      "verified": true
+    },
+    {
+      "file": "source_bootstrap_components.csv",
+      "rows": 39,
+      "verified": true
+    },
+    {
+      "file": "source_period_decomposition.csv",
+      "rows": 216,
+      "verified": true
+    },
+    {
+      "file": "source_support.csv",
+      "rows": 9,
+      "verified": true
+    },
+    {
+      "file": "timing_filter_shift.csv",
+      "rows": 15,
+      "verified": true
+    },
+    {
+      "file": "within_project.csv",
+      "rows": 12,
+      "verified": true
+    }
+  ],
+  "influence_summary_exact": true,
+  "tolerance": 1e-12
+}

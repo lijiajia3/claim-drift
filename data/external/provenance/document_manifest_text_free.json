@@ -1,0 +1,98 @@
+[
+  {
+    "article_id": "oa01",
+    "doi": "10.1371/journal.pone.0072467",
+    "file_sha256": "906de4477dc0014d3b0afbdd19d9ac2252d157027002d5f50c709ae35176dc17",
+    "body_normalized_sha256": "d242deac6185fc6838e6a9e9a0ce61b891a6e735bcd5ad54e528644c5d46aa83",
+    "body_characters": 39225,
+    "body_paragraph_count": 55,
+    "license_urls": [],
+    "version": "published-article full-text XML rendition served by official Europe PMC repository",
+    "potential_development_article_exposure": false
+  },
+  {
+    "article_id": "oa02",
+    "doi": "10.3389/fpsyg.2015.00584",
+    "file_sha256": "92b5495943321cd23235579a8b2017b6713c08022633a8ad82bbcd507383b571",
+    "body_normalized_sha256": "e9b244896f03740f7bf4349c4dfd0b650bbf9694a51346dc978abce35c6cd6a8",
+    "body_characters": 17539,
+    "body_paragraph_count": 17,
+    "license_urls": [],
+    "version": "published-article full-text XML rendition served by official Europe PMC repository",
+    "potential_development_article_exposure": false
+  },
+  {
+    "article_id": "oa03",
+    "doi": "10.3389/fpsyg.2016.00609",
+    "file_sha256": "a9b0e949d483c044a3abd9182926e93a27428ab648947df78ce4bd13892b9fb2",
+    "body_normalized_sha256": "f8a4bfa492de6e0058c3a423ca9a9d27b88db8971b8fbba814c3e63624499b13",
+    "body_characters": 37554,
+    "body_paragraph_count": 33,
+    "license_urls": [],
+    "version": "published-article full-text XML rendition served by official Europe PMC repository",
+    "potential_development_article_exposure": false
+  },
+  {
+    "article_id": "oa05",
+    "doi": "10.3389/fpsyg.2018.00042",
+    "file_sha256": "22d8f4fe92191dcc6998a5f6ce3a4729ff7de8af61da4533adea464a16c06184",
+    "body_normalized_sha256": "2b690155d6f58bfdd5a3e60658db2d380a0965129b8f888ea5b279ee8c38dbae",
+    "body_characters": 36452,
+    "body_paragraph_count": 42,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "version": "published-article full-text XML rendition served by official Europe PMC repository",
+    "potential_development_article_exposure": false
+  },
+  {
+    "article_id": "oa06",
+    "doi": "10.3389/fpsyg.2018.01657",
+    "file_sha256": "b1fe8222ebf6caa3cde199dc4867a578b4d9c62631f21dcdc2146def04f2faaf",
+    "body_normalized_sha256": "c13b8df99f51e1a2ad5929fa7829e172818372755f0164fc77ce231873c8aba1",
+    "body_characters": 29222,
+    "body_paragraph_count": 39,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "version": "published-article full-text XML rendition served by official Europe PMC repository",
+    "potential_development_article_exposure": false
+  },
+  {
+    "article_id": "oa07",
+    "doi": "10.3390/ijerph13111075",
+    "file_sha256": "f34194ad1676eab64368a3e49e2b0ea947c5fd60d02154444c50d55d3fb3d05e",
+    "body_normalized_sha256": "aa6a857f0a3237a88d6046cc75b0f190eb605ccff8510c61d89a88d23e50744a",
+    "body_characters": 84165,
+    "body_paragraph_count": 120,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "version": "published-article full-text XML rendition served by official Europe PMC repository",
+    "potential_development_article_exposure": false
+  },
+  {
+    "article_id": "oa08",
+    "doi": "10.3390/ijerph16020238",
+    "file_sha256": "973a40f29912c6fa93c1b4c05ce5231f6db1587fa75b4e48c80c11bc5774c731",
+    "body_normalized_sha256": "b28f1cf1f4626f9ea5197feaed7b8b71392c173f711d5fdaa61b4854e2cd637b",
+    "body_characters": 37492,
+    "body_paragraph_count": 57,
+    "license_urls": [
+      "http://creativecommons.org/licenses/by/4.0/"
+    ],
+    "version": "published-article full-text XML rendition served by official Europe PMC repository",
+    "potential_development_article_exposure": false
+  },
+  {
+    "article_id": "oa10",
+    "doi": "10.5964/jspp.v5i2.748",
+    "file_sha256": "cb0720d439ea187c7d59c6142411a5baead2ac7c9dbf2202b319713d1b5c5aff",
+    "body_normalized_sha256": "22cc6b41b9d273f248396bde1ac7b72e247f693ab1030492451e3f759699a22f",
+    "body_characters": 36792,
+    "body_paragraph_count": 44,
+    "license_urls": [],
+    "version": "publisher XML",
+    "potential_development_article_exposure": false
+  }
+]

@@ -1,0 +1,117 @@
+{
+  "question": "Descriptive old-gate retention among exactly linked archived contexts, stratified by independent article-level valence.",
+  "fixed_source_article_case_rows": 12,
+  "fixed_unique_citing_articles": 10,
+  "recovered_article_case_rows": 10,
+  "recovered_unique_articles": 8,
+  "linked_eligible_article_case_pairs_before_source_exclusions": 8,
+  "linked_unique_citing_DOI_clusters": 7,
+  "linked_archived_contexts": 12,
+  "linked_anchored_paragraph_case_units": 11,
+  "all_recovered_anchored_paragraph_case_units": 21,
+  "valid_labeled_article_case_pairs": 8,
+  "original_source_excluded_pairs": 0,
+  "unresolved_exclusion_pairs": 0,
+  "unresolved_valence_pairs": 0,
+  "certainty_validation": false,
+  "inference_or_hypothesis_tests": false,
+  "new_predictions": false,
+  "case_valence_summary": [
+    {
+      "case": "carter",
+      "article_valence": "favorable",
+      "article_case_pairs": 2,
+      "distinct_citing_dois": 2,
+      "eligible_archived_contexts": 4,
+      "gate_retained_contexts": 4,
+      "gate_excluded_contexts": 0,
+      "pooled_context_retention_fraction": 1.0,
+      "article_balanced_retention_fraction": 1.0
+    },
+    {
+      "case": "carter",
+      "article_valence": "unfavorable",
+      "article_case_pairs": 0,
+      "distinct_citing_dois": 0,
+      "eligible_archived_contexts": 0,
+      "gate_retained_contexts": 0,
+      "gate_excluded_contexts": 0,
+      "pooled_context_retention_fraction": null,
+      "article_balanced_retention_fraction": null
+    },
+    {
+      "case": "carter",
+      "article_valence": "equivocal",
+      "article_case_pairs": 1,
+      "distinct_citing_dois": 1,
+      "eligible_archived_contexts": 1,
+      "gate_retained_contexts": 1,
+      "gate_excluded_contexts": 0,
+      "pooled_context_retention_fraction": 1.0,
+      "article_balanced_retention_fraction": 1.0
+    },
+    {
+      "case": "carter",
+      "article_valence": "unclassifiable",
+      "article_case_pairs": 0,
+      "distinct_citing_dois": 0,
+      "eligible_archived_contexts": 0,
+      "gate_retained_contexts": 0,
+      "gate_excluded_contexts": 0,
+      "pooled_context_retention_fraction": null,
+      "article_balanced_retention_fraction": null
+    },
+    {
+      "case": "caruso",
+      "article_valence": "favorable",
+      "article_case_pairs": 4,
+      "distinct_citing_dois": 4,
+      "eligible_archived_contexts": 6,
+      "gate_retained_contexts": 6,
+      "gate_excluded_contexts": 0,
+      "pooled_context_retention_fraction": 1.0,
+      "article_balanced_retention_fraction": 1.0
+    },
+    {
+      "case": "caruso",
+      "article_valence": "unfavorable",
+      "article_case_pairs": 0,
+      "distinct_citing_dois": 0,
+      "eligible_archived_contexts": 0,
+      "gate_retained_contexts": 0,
+      "gate_excluded_contexts": 0,
+      "pooled_context_retention_fraction": null,
+      "article_balanced_retention_fraction": null
+    },
+    {
+      "case": "caruso",
+      "article_valence": "equivocal",
+      "article_case_pairs": 1,
+      "distinct_citing_dois": 1,
+      "eligible_archived_contexts": 1,
+      "gate_retained_contexts": 0,
+      "gate_excluded_contexts": 1,
+      "pooled_context_retention_fraction": 0.0,
+      "article_balanced_retention_fraction": 0.0
+    },
+    {
+      "case": "caruso",
+      "article_valence": "unclassifiable",
+      "article_case_pairs": 0,
+      "distinct_citing_dois": 0,
+      "eligible_archived_contexts": 0,
+      "gate_retained_contexts": 0,
+      "gate_excluded_contexts": 0,
+      "pooled_context_retention_fraction": null,
+      "article_balanced_retention_fraction": null
+    }
+  ],
+  "post_unblinding_spelling_amendment": true,
+  "article_case_labels_by_category": {
+    "favorable": 6,
+    "unfavorable": 0,
+    "equivocal": 2,
+    "unclassifiable": 0
+  },
+  "critical_citation_loss_assessable": false
+}

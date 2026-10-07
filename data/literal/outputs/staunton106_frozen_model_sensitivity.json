@@ -1,0 +1,80 @@
+{
+  "definition": {
+    "name": "106-source archived-Staunton-selected-target sensitivity",
+    "primary_cohort_remains": 105,
+    "additional_source_id": "rpp.73",
+    "rule": "Archived selected Staunton contrast: predicted-direction nominal significance by Pearson chi-square goodness-of-fit against local Democratic/Republican voter proportions .30/.70; no source-wide aggregation is imposed.",
+    "n": 120,
+    "democratic_count": 25,
+    "republican_count": 95,
+    "chi_square": 4.801587301587,
+    "pearson_p": 0.0284335289139828,
+    "signed_phi": 0.200033066,
+    "important_distinction": "The unrounded Pearson p is not an exact-binomial p. Broader multi-site scope remains an inclusion choice; this row is not silently promoted into the105-source main analysis.",
+    "source_cohort_sha256": "9c74a40a89ee8aff60ce73275c7c3817c3ab91bbcdf863ff1651796f3b81c0ad",
+    "sources": {
+      "report": "https://osf.io/download/2jwi6/",
+      "count_workbook": "https://osf.io/download/ftzbj/",
+      "selection_script": "https://osf.io/download/hau4p/",
+      "registered_protocol": "https://osf.io/download/n6m5d/",
+      "registration": "https://osf.io/hctz9/"
+    }
+  },
+  "n_papers": 106,
+  "n_texts": 15302,
+  "n_positive_texts": 8443,
+  "primary_event_convention": "journal publication year",
+  "metrics": {
+    "level": {
+      "n_negative": 51,
+      "n_positive": 46,
+      "mean_negative": 0.5004466971150606,
+      "mean_positive": 0.5037052431890846,
+      "estimate": -0.0032585460740239824,
+      "se": 0.008973932966428294,
+      "welch_df": 94.48212033833421,
+      "welch_ci90_low": -0.018165518395285983,
+      "welch_ci90_high": 0.011648426247238018,
+      "welch_ci95_low": -0.021075315093352757,
+      "welch_ci95_high": 0.014558222945304792,
+      "welch_p": 0.7173320612553866,
+      "bootstrap_ci95_low": -0.02074369745699068,
+      "bootstrap_ci95_high": 0.01457964309101001,
+      "bootstrap_reps": 19999
+    },
+    "transformed_drift": {
+      "n_negative": 45,
+      "n_positive": 40,
+      "mean_negative": 0.002331157147786395,
+      "mean_positive": 0.002850428115777956,
+      "estimate": -0.0005192709679915611,
+      "se": 0.003495465846556939,
+      "welch_df": 80.88007428450103,
+      "welch_ci90_low": -0.006335420133944416,
+      "welch_ci90_high": 0.005296878197961295,
+      "welch_ci95_low": -0.007474307889489046,
+      "welch_ci95_high": 0.006435765953505925,
+      "welch_p": 0.8822740860706653,
+      "bootstrap_ci95_low": -0.007175954740362804,
+      "bootstrap_ci95_high": 0.006305251546950584,
+      "bootstrap_reps": 19999
+    },
+    "event_change": {
+      "n_negative": 40,
+      "n_positive": 32,
+      "mean_negative": 0.00848947546422384,
+      "mean_positive": 0.005427848258484982,
+      "estimate": 0.0030616272057388573,
+      "se": 0.013917251953281388,
+      "welch_df": 68.45077841191579,
+      "welch_ci90_low": -0.020144285647188395,
+      "welch_ci90_high": 0.02626754005866611,
+      "welch_ci95_low": -0.024706505535236987,
+      "welch_ci95_high": 0.0308297599467147,
+      "welch_p": 0.8265353257694528,
+      "bootstrap_ci95_low": -0.023968948908120197,
+      "bootstrap_ci95_high": 0.029944911980617647,
+      "bootstrap_reps": 19999
+    }
+  }
+}

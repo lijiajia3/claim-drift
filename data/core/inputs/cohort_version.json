@@ -1,0 +1,31 @@
+{
+  "cohort_version": "2.3",
+  "n_source_papers": 108,
+  "n_criterion_complete": 105,
+  "criterion_negative": 57,
+  "criterion_positive": 48,
+  "unresolved": [
+    "rpp.19",
+    "rpp.73",
+    "rpp.154"
+  ],
+  "main_event_convention": "project journal-publication year",
+  "main_event_years": {
+    "RPP": 2015,
+    "EERP": 2016,
+    "ML1": 2014,
+    "ML3": 2016
+  },
+  "recorded_manuscript_upload_years": {
+    "RPP": 2015,
+    "EERP": 2016,
+    "ML1": 2013,
+    "ML3": 2015
+  },
+  "note": "Selected-test source criteria; corpus target alignment and independent human-scale validation remain unestablished.",
+  "source_cohort_filename": "analysis_cohort_v2_3.csv",
+  "source_cohort_sha256": "9c74a40a89ee8aff60ce73275c7c3817c3ab91bbcdf863ff1651796f3b81c0ad",
+  "typed_event_registry_filename": "project_event_registry_v1.csv",
+  "typed_event_registry_sha256": "80ab804f1bdda4f1c7db2c2d7c00d51852f4e19fd1a6546bd2e074aaa1d1a2d9",
+  "primary_scope": "Conservative105-source baseline; the known Staunton selected result is a separately specified106-source sensitivity."
+}

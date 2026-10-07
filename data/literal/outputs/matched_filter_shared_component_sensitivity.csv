@@ -1,0 +1,4 @@
+scenario,feature,endpoint,n_components,largest_component,estimate,ci95_low,ci95_high,note
+matched_filter_shift,epistemic_adverb_tokens,filtered_minus_all_change,89,5,-0.000761102425107623,-0.0070987627104018335,0.0053032639510821895,Known shared-text components only; unknown shared citing-paper dependence is not resolved
+matched_filter_shift,replication_word_tokens,filtered_minus_all_change,89,5,-0.015529040486321564,-0.030900714369977066,-0.003037549295317039,Known shared-text components only; unknown shared citing-paper dependence is not resolved
+matched_filter_shift,lowercase_modal_tokens,filtered_minus_all_change,89,5,-0.010933143488651917,-0.033500166775782526,0.013365240038995686,Known shared-text components only; unknown shared citing-paper dependence is not resolved

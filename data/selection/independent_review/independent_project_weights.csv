@@ -1,0 +1,9 @@
+weighting,project,weight
+equal_project,EERP,0.25
+equal_project,ML1,0.25
+equal_project,ML3,0.25
+equal_project,RPP,0.25
+pooled_matched_source,EERP,0.1388888888888889
+pooled_matched_source,ML1,0.069444444444444448
+pooled_matched_source,ML3,0.083333333333333329
+pooled_matched_source,RPP,0.70833333333333337

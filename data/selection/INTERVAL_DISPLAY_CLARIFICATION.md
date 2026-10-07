@@ -1,0 +1,5 @@
+# Project standardized interval display
+
+2026-10-06. Independent statistical review identified an important support limitation: the fixed 72-source sample contains only one criterion-negative Many Labs 1 source. The predeclared project-by-criterion bootstrap holds that singleton observation constant. Its resulting aggregate interval omits uncertainty within this cell.
+
+The originally computed conditional intervals are retained in selection_outputs/initial_interval_display/project_standardized.csv and in explicit audit_conditional_ci95 columns. Manuscript-facing ci95 fields are now suppressed whenever a standardization includes any singleton project-criterion cell. Point estimates and all four project weights are retained. A warning identifies the unsupported cell. This is a reporting correction for a mathematical support limitation, not a new cohort, alternative model, or result-dependent specification choice. The frozen analysis protocol and all other interval calculations are unchanged.

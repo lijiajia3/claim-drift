@@ -1,0 +1,13 @@
+article_id,doi,case,source_id,pubYear,doi_cluster,recovery_state,target_anchor_count,recovered_target_paragraph_case_units,body_matched_contexts,eligible_linked_contexts,linked_target_paragraph_case_units,external_annotation_opened
+oa01,10.1371/journal.pone.0072467,carter,ml1.12,2013,10.1371/journal.pone.0072467,recovered,2,2,1,1,1,True
+oa02,10.3389/fpsyg.2015.00584,carter,ml1.12,2015,10.3389/fpsyg.2015.00584,recovered,1,1,2,1,1,True
+oa03,10.3389/fpsyg.2016.00609,caruso,ml1.13,2016,10.3389/fpsyg.2016.00609,recovered,3,2,0,0,0,False
+oa04,10.3389/fpsyg.2017.00073,carter,ml1.12,2017,10.3389/fpsyg.2017.00073,unavailable: Europe PMC XML proxy 403,,,,,,False
+oa05,10.3389/fpsyg.2018.00042,caruso,ml1.13,2018,10.3389/fpsyg.2018.00042,recovered,2,1,2,2,1,True
+oa06,10.3389/fpsyg.2018.01657,carter,ml1.12,2018,10.3389/fpsyg.2018.01657,recovered,1,1,0,0,0,False
+oa06,10.3389/fpsyg.2018.01657,caruso,ml1.13,2018,10.3389/fpsyg.2018.01657,recovered,1,1,1,1,1,True
+oa07,10.3390/ijerph13111075,caruso,ml1.13,2016,10.3390/ijerph13111075,recovered,2,2,1,1,1,True
+oa08,10.3390/ijerph16020238,caruso,ml1.13,2019,10.3390/ijerph16020238,recovered,1,1,1,1,1,True
+oa09,10.3390/math7121241,caruso,ml1.13,2019,10.3390/math7121241,unavailable: no exact Europe PMC record; publisher proxy 403,,,,,,False
+oa10,10.5964/jspp.v5i2.748,carter,ml1.12,2017,10.5964/jspp.v5i2.748,recovered,4,4,3,3,3,True
+oa10,10.5964/jspp.v5i2.748,caruso,ml1.13,2017,10.5964/jspp.v5i2.748,recovered,7,6,4,2,2,True

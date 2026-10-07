@@ -1,13 +1,7 @@
-# secrets / local keys (never commit)
-*.key
+__pycache__/
+*.py[cod]
+.venv/
+results/
+.DS_Store
 .env
 .env.*
-*_key
-*.pem
-*.token
-~/.siliconflow_key
-# python / os cruft
-__pycache__/
-*.pyc
-.DS_Store
-.ipynb_checkpoints/

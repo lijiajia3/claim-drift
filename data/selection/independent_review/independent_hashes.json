@@ -1,0 +1,11 @@
+{
+  "SELECTION_DECOMPOSITION_PROTOCOL.md": "167f2ce696b06d0f0608b94040a85a22ecb0d2113bd99294db7956e60b42863e",
+  "inputs/literal_counts_by_source_year.csv": "d0df2d1c2b34d1ad839a280f5a4239f9158f59f58430d52413e2627f05befd86",
+  "inputs/source_cohort.csv": "67504cfcd22489f42658f46a33836f78bf757a3787a2f91fb3d26f1cba01c768",
+  "inputs/shared_text_component_membership.csv": "ccf91b2f595832bb1181bdadb0c11c19414981d10aa8710c6622d4c72781ed9b",
+  "previous/matched_source_filter_estimates.csv": "2d17badf96300a721794b830264fc2adbdf07a4556965f1a247f496ffa021d6c",
+  "previous/matched_source_filter_comparison.csv": "4801091a75eb2fda4e42201145879b55c10bc9acfc0d1cce45128c10479a7ed2",
+  "previous/source_estimates_all_predefined_features.csv": "6c7f6881596f8aaf0b01dd1c84a1a03bcb84640a2744927c160f73058f73c087",
+  "previous/analysis_configurations.json": "026b37b3ebc5849a1fdc39d656eb2d07921e28bf3277afd7a63fa2b21765dad0",
+  "independent_review/verify_selection_decomposition.py": "23b88a910178fe9a746842385aad0d798224822562e5f5cb9d43c940cc5c6dd5"
+}

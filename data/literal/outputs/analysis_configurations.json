@@ -1,0 +1,122 @@
+{
+  "full_all": {
+    "view": "full",
+    "stratum": "all",
+    "event_column": "event_year_journal",
+    "omit_event_year": false,
+    "window": 0,
+    "latest": false
+  },
+  "full_positive": {
+    "view": "full",
+    "stratum": "positive",
+    "event_column": "event_year_journal",
+    "omit_event_year": false,
+    "window": 0,
+    "latest": false
+  },
+  "full_negative": {
+    "view": "full",
+    "stratum": "negative",
+    "event_column": "event_year_journal",
+    "omit_event_year": false,
+    "window": 0,
+    "latest": false
+  },
+  "first700_complete_tokens_all": {
+    "view": "first700_complete_tokens",
+    "stratum": "all",
+    "event_column": "event_year_journal",
+    "omit_event_year": false,
+    "window": 0,
+    "latest": false
+  },
+  "first700_complete_tokens_positive": {
+    "view": "first700_complete_tokens",
+    "stratum": "positive",
+    "event_column": "event_year_journal",
+    "omit_event_year": false,
+    "window": 0,
+    "latest": false
+  },
+  "first1200_complete_tokens_all": {
+    "view": "first1200_complete_tokens",
+    "stratum": "all",
+    "event_column": "event_year_journal",
+    "omit_event_year": false,
+    "window": 0,
+    "latest": false
+  },
+  "first1200_complete_tokens_positive": {
+    "view": "first1200_complete_tokens",
+    "stratum": "positive",
+    "event_column": "event_year_journal",
+    "omit_event_year": false,
+    "window": 0,
+    "latest": false
+  },
+  "recorded_manuscript_upload_years_all": {
+    "view": "full",
+    "stratum": "all",
+    "event_column": "event_year_first_located_manuscript",
+    "omit_event_year": false,
+    "window": 0,
+    "latest": false
+  },
+  "recorded_manuscript_upload_years_positive": {
+    "view": "full",
+    "stratum": "positive",
+    "event_column": "event_year_first_located_manuscript",
+    "omit_event_year": false,
+    "window": 0,
+    "latest": false
+  },
+  "omit_event_year_all": {
+    "view": "full",
+    "stratum": "all",
+    "event_column": "event_year_journal",
+    "omit_event_year": true,
+    "window": 0,
+    "latest": false
+  },
+  "omit_event_year_positive": {
+    "view": "full",
+    "stratum": "positive",
+    "event_column": "event_year_journal",
+    "omit_event_year": true,
+    "window": 0,
+    "latest": false
+  },
+  "symmetric5_years_omit_event_year_all": {
+    "view": "full",
+    "stratum": "all",
+    "event_column": "event_year_journal",
+    "omit_event_year": true,
+    "window": 5,
+    "latest": false
+  },
+  "symmetric5_years_omit_event_year_positive": {
+    "view": "full",
+    "stratum": "positive",
+    "event_column": "event_year_journal",
+    "omit_event_year": true,
+    "window": 5,
+    "latest": false
+  },
+  "latest_archived_year_all": {
+    "view": "full",
+    "stratum": "all",
+    "event_column": "event_year_journal",
+    "omit_event_year": false,
+    "window": 0,
+    "latest": true
+  },
+  "latest_archived_year_positive": {
+    "view": "full",
+    "stratum": "positive",
+    "event_column": "event_year_journal",
+    "omit_event_year": false,
+    "window": 0,
+    "latest": true
+  }
+}

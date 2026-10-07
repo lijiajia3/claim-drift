@@ -1,0 +1,380 @@
+[
+  {
+    "article_id": "oa01",
+    "doi": "10.1371/journal.pone.0072467",
+    "case": "carter",
+    "source_id": "ml1.12",
+    "target_doi": "10.1177/0956797611414726",
+    "context_id": "oa01_carter_p3",
+    "paragraph_index": 3,
+    "paragraph_xpath": "/article/body/sec[1]/sec/p[2]",
+    "paragraph_id": null,
+    "target_reference_ids": [
+      "B11"
+    ],
+    "target_match_basis": "exact DOI in reference",
+    "normalized_text_sha256": "2e3c896c24080a96904567e65c400f4cb9dc31a1c0a0f06af6aa8f5cfd04e812",
+    "anchor_count": 1,
+    "file_sha256": "906de4477dc0014d3b0afbdd19d9ac2252d157027002d5f50c709ae35176dc17"
+  },
+  {
+    "article_id": "oa01",
+    "doi": "10.1371/journal.pone.0072467",
+    "case": "carter",
+    "source_id": "ml1.12",
+    "target_doi": "10.1177/0956797611414726",
+    "context_id": "oa01_carter_p4",
+    "paragraph_index": 4,
+    "paragraph_xpath": "/article/body/sec[1]/sec/p[3]",
+    "paragraph_id": null,
+    "target_reference_ids": [
+      "B11"
+    ],
+    "target_match_basis": "exact DOI in reference",
+    "normalized_text_sha256": "9a8a83a6eab55613a89065d242cc367eddd56e62e3a2afa7dcd5be7ea08bf81f",
+    "anchor_count": 1,
+    "file_sha256": "906de4477dc0014d3b0afbdd19d9ac2252d157027002d5f50c709ae35176dc17"
+  },
+  {
+    "article_id": "oa02",
+    "doi": "10.3389/fpsyg.2015.00584",
+    "case": "carter",
+    "source_id": "ml1.12",
+    "target_doi": "10.1177/0956797611414726",
+    "context_id": "oa02_carter_p5",
+    "paragraph_index": 5,
+    "paragraph_xpath": "/article/body/sec[2]/p[2]",
+    "paragraph_id": null,
+    "target_reference_ids": [
+      "B8"
+    ],
+    "target_match_basis": "exact DOI in reference",
+    "normalized_text_sha256": "4264127c89fc89d3ba830d24a18bd5f566f706e671ce8c3822fea720ad51fbc2",
+    "anchor_count": 1,
+    "file_sha256": "92b5495943321cd23235579a8b2017b6713c08022633a8ad82bbcd507383b571"
+  },
+  {
+    "article_id": "oa03",
+    "doi": "10.3389/fpsyg.2016.00609",
+    "case": "caruso",
+    "source_id": "ml1.13",
+    "target_doi": "10.1037/a0029288",
+    "context_id": "oa03_caruso_p1",
+    "paragraph_index": 1,
+    "paragraph_xpath": "/article/body/sec[1]/p[1]",
+    "paragraph_id": null,
+    "target_reference_ids": [
+      "B5"
+    ],
+    "target_match_basis": "exact DOI in reference",
+    "normalized_text_sha256": "7ed480f29db245a4815332f9212e810ed554f6c1058763f18d0249e1a944285c",
+    "anchor_count": 1,
+    "file_sha256": "a9b0e949d483c044a3abd9182926e93a27428ab648947df78ce4bd13892b9fb2"
+  },
+  {
+    "article_id": "oa03",
+    "doi": "10.3389/fpsyg.2016.00609",
+    "case": "caruso",
+    "source_id": "ml1.13",
+    "target_doi": "10.1037/a0029288",
+    "context_id": "oa03_caruso_p30",
+    "paragraph_index": 30,
+    "paragraph_xpath": "/article/body/sec[5]/p[6]",
+    "paragraph_id": null,
+    "target_reference_ids": [
+      "B5"
+    ],
+    "target_match_basis": "exact DOI in reference",
+    "normalized_text_sha256": "7d5d446b40a97a60517a08bc8f6d5767658b8e30557eb5f956c18f4c2dfc6e16",
+    "anchor_count": 2,
+    "file_sha256": "a9b0e949d483c044a3abd9182926e93a27428ab648947df78ce4bd13892b9fb2"
+  },
+  {
+    "article_id": "oa05",
+    "doi": "10.3389/fpsyg.2018.00042",
+    "case": "caruso",
+    "source_id": "ml1.13",
+    "target_doi": "10.1037/a0029288",
+    "context_id": "oa05_caruso_p2",
+    "paragraph_index": 2,
+    "paragraph_xpath": "/article/body/sec[1]/p[2]",
+    "paragraph_id": null,
+    "target_reference_ids": [
+      "B7"
+    ],
+    "target_match_basis": "exact DOI in reference",
+    "normalized_text_sha256": "a8d54daa898597d93315979b260d788c894e2d37c41d4076d4f898af5139c708",
+    "anchor_count": 2,
+    "file_sha256": "22d8f4fe92191dcc6998a5f6ce3a4729ff7de8af61da4533adea464a16c06184"
+  },
+  {
+    "article_id": "oa06",
+    "doi": "10.3389/fpsyg.2018.01657",
+    "case": "carter",
+    "source_id": "ml1.12",
+    "target_doi": "10.1177/0956797611414726",
+    "context_id": "oa06_carter_p37",
+    "paragraph_index": 37,
+    "paragraph_xpath": "/article/body/sec[9]/sec[2]/sec[2]/p",
+    "paragraph_id": null,
+    "target_reference_ids": [
+      "B6"
+    ],
+    "target_match_basis": "exact DOI in reference",
+    "normalized_text_sha256": "4f1c33a4fb0b6cec07b3d4b48ad494a1d85734810cd9f1515ac9ff579c177b78",
+    "anchor_count": 1,
+    "file_sha256": "b1fe8222ebf6caa3cde199dc4867a578b4d9c62631f21dcdc2146def04f2faaf"
+  },
+  {
+    "article_id": "oa06",
+    "doi": "10.3389/fpsyg.2018.01657",
+    "case": "caruso",
+    "source_id": "ml1.13",
+    "target_doi": "10.1037/a0029288",
+    "context_id": "oa06_caruso_p37",
+    "paragraph_index": 37,
+    "paragraph_xpath": "/article/body/sec[9]/sec[2]/sec[2]/p",
+    "paragraph_id": null,
+    "target_reference_ids": [
+      "B7"
+    ],
+    "target_match_basis": "exact DOI in reference",
+    "normalized_text_sha256": "4f1c33a4fb0b6cec07b3d4b48ad494a1d85734810cd9f1515ac9ff579c177b78",
+    "anchor_count": 1,
+    "file_sha256": "b1fe8222ebf6caa3cde199dc4867a578b4d9c62631f21dcdc2146def04f2faaf"
+  },
+  {
+    "article_id": "oa07",
+    "doi": "10.3390/ijerph13111075",
+    "case": "caruso",
+    "source_id": "ml1.13",
+    "target_doi": "10.1037/a0029288",
+    "context_id": "oa07_caruso_p18",
+    "paragraph_index": 18,
+    "paragraph_xpath": "/article/body/sec[6]/p[4]",
+    "paragraph_id": null,
+    "target_reference_ids": [
+      "B51-ijerph-13-01075"
+    ],
+    "target_match_basis": "exact DOI in reference",
+    "normalized_text_sha256": "d90a1debac34bd9e335705cd70fd3b27f9dee3b57c6f87110c10a5b40099ae92",
+    "anchor_count": 1,
+    "file_sha256": "f34194ad1676eab64368a3e49e2b0ea947c5fd60d02154444c50d55d3fb3d05e"
+  },
+  {
+    "article_id": "oa07",
+    "doi": "10.3390/ijerph13111075",
+    "case": "caruso",
+    "source_id": "ml1.13",
+    "target_doi": "10.1037/a0029288",
+    "context_id": "oa07_caruso_p91",
+    "paragraph_index": 91,
+    "paragraph_xpath": "/article/body/sec[20]/p[4]",
+    "paragraph_id": null,
+    "target_reference_ids": [
+      "B51-ijerph-13-01075"
+    ],
+    "target_match_basis": "exact DOI in reference",
+    "normalized_text_sha256": "6047c9258c78e4b3954a8f6776bd4c4de3a750b19977885a9d5a8f60c30f83bc",
+    "anchor_count": 1,
+    "file_sha256": "f34194ad1676eab64368a3e49e2b0ea947c5fd60d02154444c50d55d3fb3d05e"
+  },
+  {
+    "article_id": "oa08",
+    "doi": "10.3390/ijerph16020238",
+    "case": "caruso",
+    "source_id": "ml1.13",
+    "target_doi": "10.1037/a0029288",
+    "context_id": "oa08_caruso_p49",
+    "paragraph_index": 49,
+    "paragraph_xpath": "/article/body/sec[6]/p[9]",
+    "paragraph_id": null,
+    "target_reference_ids": [
+      "B96-ijerph-16-00238"
+    ],
+    "target_match_basis": "exact DOI in reference",
+    "normalized_text_sha256": "eee663222ebb2414b5c507bdb0ca9ef570bb83d73b93a72512defe3172d14ada",
+    "anchor_count": 1,
+    "file_sha256": "973a40f29912c6fa93c1b4c05ce5231f6db1587fa75b4e48c80c11bc5774c731"
+  },
+  {
+    "article_id": "oa10",
+    "doi": "10.5964/jspp.v5i2.748",
+    "case": "carter",
+    "source_id": "ml1.12",
+    "target_doi": "10.1177/0956797611414726",
+    "context_id": "oa10_carter_p3",
+    "paragraph_index": 3,
+    "paragraph_xpath": "/article/body/sec[1]/sec[1]/p[1]",
+    "paragraph_id": null,
+    "target_reference_ids": [
+      "r15"
+    ],
+    "target_match_basis": "exact DOI in reference",
+    "normalized_text_sha256": "f242687ec7339c95fe6b2b5bd0e144538c208f1b9d7b2e5fc4c60655c9a956c4",
+    "anchor_count": 1,
+    "file_sha256": "cb0720d439ea187c7d59c6142411a5baead2ac7c9dbf2202b319713d1b5c5aff"
+  },
+  {
+    "article_id": "oa10",
+    "doi": "10.5964/jspp.v5i2.748",
+    "case": "carter",
+    "source_id": "ml1.12",
+    "target_doi": "10.1177/0956797611414726",
+    "context_id": "oa10_carter_p4",
+    "paragraph_index": 4,
+    "paragraph_xpath": "/article/body/sec[1]/sec[1]/p[2]",
+    "paragraph_id": null,
+    "target_reference_ids": [
+      "r15"
+    ],
+    "target_match_basis": "exact DOI in reference",
+    "normalized_text_sha256": "5c07a399f93f638fb8268a7bb092a1e8ec1ee6de57b5b0dcccd2c5b705070b50",
+    "anchor_count": 1,
+    "file_sha256": "cb0720d439ea187c7d59c6142411a5baead2ac7c9dbf2202b319713d1b5c5aff"
+  },
+  {
+    "article_id": "oa10",
+    "doi": "10.5964/jspp.v5i2.748",
+    "case": "carter",
+    "source_id": "ml1.12",
+    "target_doi": "10.1177/0956797611414726",
+    "context_id": "oa10_carter_p40",
+    "paragraph_index": 40,
+    "paragraph_xpath": "/article/body/sec[4]/p[3]",
+    "paragraph_id": null,
+    "target_reference_ids": [
+      "r15"
+    ],
+    "target_match_basis": "exact DOI in reference",
+    "normalized_text_sha256": "44b9ca5bd8016c7dfcbf7494fe5053665b27ac42b517c47aaec359e7d15bba42",
+    "anchor_count": 1,
+    "file_sha256": "cb0720d439ea187c7d59c6142411a5baead2ac7c9dbf2202b319713d1b5c5aff"
+  },
+  {
+    "article_id": "oa10",
+    "doi": "10.5964/jspp.v5i2.748",
+    "case": "carter",
+    "source_id": "ml1.12",
+    "target_doi": "10.1177/0956797611414726",
+    "context_id": "oa10_carter_p43",
+    "paragraph_index": 43,
+    "paragraph_xpath": "/article/body/sec[4]/sec/p[2]",
+    "paragraph_id": null,
+    "target_reference_ids": [
+      "r15"
+    ],
+    "target_match_basis": "exact DOI in reference",
+    "normalized_text_sha256": "57a6c1f4e51cc73ca64a717e29bd970fc98cfe3c729204bfcac40fa380be5296",
+    "anchor_count": 1,
+    "file_sha256": "cb0720d439ea187c7d59c6142411a5baead2ac7c9dbf2202b319713d1b5c5aff"
+  },
+  {
+    "article_id": "oa10",
+    "doi": "10.5964/jspp.v5i2.748",
+    "case": "caruso",
+    "source_id": "ml1.13",
+    "target_doi": "10.1037/a0029288",
+    "context_id": "oa10_caruso_p1",
+    "paragraph_index": 1,
+    "paragraph_xpath": "/article/body/sec[1]/p[1]",
+    "paragraph_id": null,
+    "target_reference_ids": [
+      "r16"
+    ],
+    "target_match_basis": "exact DOI in reference",
+    "normalized_text_sha256": "ac7cee6f06fd2fbde9068e38a47ac5266d1e16ab9f20d26585d486bf55930918",
+    "anchor_count": 1,
+    "file_sha256": "cb0720d439ea187c7d59c6142411a5baead2ac7c9dbf2202b319713d1b5c5aff"
+  },
+  {
+    "article_id": "oa10",
+    "doi": "10.5964/jspp.v5i2.748",
+    "case": "caruso",
+    "source_id": "ml1.13",
+    "target_doi": "10.1037/a0029288",
+    "context_id": "oa10_caruso_p3",
+    "paragraph_index": 3,
+    "paragraph_xpath": "/article/body/sec[1]/sec[1]/p[1]",
+    "paragraph_id": null,
+    "target_reference_ids": [
+      "r16"
+    ],
+    "target_match_basis": "exact DOI in reference",
+    "normalized_text_sha256": "f242687ec7339c95fe6b2b5bd0e144538c208f1b9d7b2e5fc4c60655c9a956c4",
+    "anchor_count": 1,
+    "file_sha256": "cb0720d439ea187c7d59c6142411a5baead2ac7c9dbf2202b319713d1b5c5aff"
+  },
+  {
+    "article_id": "oa10",
+    "doi": "10.5964/jspp.v5i2.748",
+    "case": "caruso",
+    "source_id": "ml1.13",
+    "target_doi": "10.1037/a0029288",
+    "context_id": "oa10_caruso_p6",
+    "paragraph_index": 6,
+    "paragraph_xpath": "/article/body/sec[1]/sec[1]/sec[1]/p",
+    "paragraph_id": null,
+    "target_reference_ids": [
+      "r16"
+    ],
+    "target_match_basis": "exact DOI in reference",
+    "normalized_text_sha256": "1f377e5a106a3a7e5fbd420d7491252cb9a930c430e06a7aa52bb45e8c123b5a",
+    "anchor_count": 2,
+    "file_sha256": "cb0720d439ea187c7d59c6142411a5baead2ac7c9dbf2202b319713d1b5c5aff"
+  },
+  {
+    "article_id": "oa10",
+    "doi": "10.5964/jspp.v5i2.748",
+    "case": "caruso",
+    "source_id": "ml1.13",
+    "target_doi": "10.1037/a0029288",
+    "context_id": "oa10_caruso_p38",
+    "paragraph_index": 38,
+    "paragraph_xpath": "/article/body/sec[4]/p[1]",
+    "paragraph_id": null,
+    "target_reference_ids": [
+      "r16"
+    ],
+    "target_match_basis": "exact DOI in reference",
+    "normalized_text_sha256": "6c6991af00d1efa9bc305a27198270a7e3f25081acf24b82fe96f60197286ba4",
+    "anchor_count": 1,
+    "file_sha256": "cb0720d439ea187c7d59c6142411a5baead2ac7c9dbf2202b319713d1b5c5aff"
+  },
+  {
+    "article_id": "oa10",
+    "doi": "10.5964/jspp.v5i2.748",
+    "case": "caruso",
+    "source_id": "ml1.13",
+    "target_doi": "10.1037/a0029288",
+    "context_id": "oa10_caruso_p41",
+    "paragraph_index": 41,
+    "paragraph_xpath": "/article/body/sec[4]/p[4]",
+    "paragraph_id": null,
+    "target_reference_ids": [
+      "r16"
+    ],
+    "target_match_basis": "exact DOI in reference",
+    "normalized_text_sha256": "1873b108d72be1f4645dd90531eeaaea2f6a6195ccccae41438fac327aa2e42a",
+    "anchor_count": 1,
+    "file_sha256": "cb0720d439ea187c7d59c6142411a5baead2ac7c9dbf2202b319713d1b5c5aff"
+  },
+  {
+    "article_id": "oa10",
+    "doi": "10.5964/jspp.v5i2.748",
+    "case": "caruso",
+    "source_id": "ml1.13",
+    "target_doi": "10.1037/a0029288",
+    "context_id": "oa10_caruso_p44",
+    "paragraph_index": 44,
+    "paragraph_xpath": "/article/body/sec[4]/sec/p[3]",
+    "paragraph_id": null,
+    "target_reference_ids": [
+      "r16"
+    ],
+    "target_match_basis": "exact DOI in reference",
+    "normalized_text_sha256": "a9c9874c9b6651e27d8f96c5e9e63d7b08f4204b219a3bb3e7812b8a0b972fe2",
+    "anchor_count": 1,
+    "file_sha256": "cb0720d439ea187c7d59c6142411a5baead2ac7c9dbf2202b319713d1b5c5aff"
+  }
+]

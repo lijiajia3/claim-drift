@@ -1,0 +1,172 @@
+[
+  {
+    "doi": "10.1371/journal.pone.0072467",
+    "authors": "Harris, Christine R.; Coburn, Noriko; Rohrer, Doug; Pashler, Harold",
+    "pubYear": "2013",
+    "UT": "WOS:000323570200070",
+    "case": "carter",
+    "source_id": "ml1.12",
+    "target_doi": "10.1177/0956797611414726",
+    "article_id": "oa01",
+    "reference_ids": [
+      "B11"
+    ],
+    "target_body_anchor_count": 2,
+    "target_paragraph_count": 2,
+    "nonparagraph_anchor_xpaths": [],
+    "identity_verified": true
+  },
+  {
+    "doi": "10.3389/fpsyg.2015.00584",
+    "authors": "Hesselmann, Guido; Moors, Pieter",
+    "pubYear": "2015",
+    "UT": "WOS:000355339000003",
+    "case": "carter",
+    "source_id": "ml1.12",
+    "target_doi": "10.1177/0956797611414726",
+    "article_id": "oa02",
+    "reference_ids": [
+      "B8"
+    ],
+    "target_body_anchor_count": 1,
+    "target_paragraph_count": 1,
+    "nonparagraph_anchor_xpaths": [],
+    "identity_verified": true
+  },
+  {
+    "doi": "10.3389/fpsyg.2016.00609",
+    "authors": "Trzcinska, Agata; Sekscinska, Katarzyna",
+    "pubYear": "2016",
+    "UT": "WOS:000374933500001",
+    "case": "caruso",
+    "source_id": "ml1.13",
+    "target_doi": "10.1037/a0029288",
+    "article_id": "oa03",
+    "reference_ids": [
+      "B5"
+    ],
+    "target_body_anchor_count": 3,
+    "target_paragraph_count": 2,
+    "nonparagraph_anchor_xpaths": [],
+    "identity_verified": true
+  },
+  {
+    "doi": "10.3389/fpsyg.2018.00042",
+    "authors": "Li, Jin; Zhan, Youlong; Fan, Wei; Liu, Lei; Li, Mei; Sun, Yu; Zhong, Yiping",
+    "pubYear": "2018",
+    "UT": "WOS:000424250000001",
+    "case": "caruso",
+    "source_id": "ml1.13",
+    "target_doi": "10.1037/a0029288",
+    "article_id": "oa05",
+    "reference_ids": [
+      "B7"
+    ],
+    "target_body_anchor_count": 2,
+    "target_paragraph_count": 1,
+    "nonparagraph_anchor_xpaths": [],
+    "identity_verified": true
+  },
+  {
+    "doi": "10.3389/fpsyg.2018.01657",
+    "authors": "Cheng, Yongtian; Li, Johnson Ching-Hong; Liu, Xiyao",
+    "pubYear": "2018",
+    "UT": "WOS:000444352400001",
+    "case": "carter",
+    "source_id": "ml1.12",
+    "target_doi": "10.1177/0956797611414726",
+    "article_id": "oa06",
+    "reference_ids": [
+      "B6"
+    ],
+    "target_body_anchor_count": 1,
+    "target_paragraph_count": 1,
+    "nonparagraph_anchor_xpaths": [],
+    "identity_verified": true
+  },
+  {
+    "doi": "10.3389/fpsyg.2018.01657",
+    "authors": "Cheng, Yongtian; Li, Johnson Ching-Hong; Liu, Xiyao",
+    "pubYear": "2018",
+    "UT": "WOS:000444352400001",
+    "case": "caruso",
+    "source_id": "ml1.13",
+    "target_doi": "10.1037/a0029288",
+    "article_id": "oa06",
+    "reference_ids": [
+      "B7"
+    ],
+    "target_body_anchor_count": 1,
+    "target_paragraph_count": 1,
+    "nonparagraph_anchor_xpaths": [],
+    "identity_verified": true
+  },
+  {
+    "doi": "10.3390/ijerph13111075",
+    "authors": "Prescott, Susan L.; Logan, Alan C.",
+    "pubYear": "2016",
+    "UT": "WOS:000389571300034",
+    "case": "caruso",
+    "source_id": "ml1.13",
+    "target_doi": "10.1037/a0029288",
+    "article_id": "oa07",
+    "reference_ids": [
+      "B51-ijerph-13-01075"
+    ],
+    "target_body_anchor_count": 2,
+    "target_paragraph_count": 2,
+    "nonparagraph_anchor_xpaths": [],
+    "identity_verified": true
+  },
+  {
+    "doi": "10.3390/ijerph16020238",
+    "authors": "Prescott, Susan L.; Logan, Alan C.; Katz, David L.",
+    "pubYear": "2019",
+    "UT": "WOS:000459112100073",
+    "case": "caruso",
+    "source_id": "ml1.13",
+    "target_doi": "10.1037/a0029288",
+    "article_id": "oa08",
+    "reference_ids": [
+      "B96-ijerph-16-00238"
+    ],
+    "target_body_anchor_count": 1,
+    "target_paragraph_count": 1,
+    "nonparagraph_anchor_xpaths": [],
+    "identity_verified": true
+  },
+  {
+    "doi": "10.5964/jspp.v5i2.748",
+    "authors": "Schuler, Johannes; Ivanov, Igor; Waenke, Michaela",
+    "pubYear": "2017",
+    "UT": "WOS:000514922700005",
+    "case": "carter",
+    "source_id": "ml1.12",
+    "target_doi": "10.1177/0956797611414726",
+    "article_id": "oa10",
+    "reference_ids": [
+      "r15"
+    ],
+    "target_body_anchor_count": 4,
+    "target_paragraph_count": 4,
+    "nonparagraph_anchor_xpaths": [],
+    "identity_verified": true
+  },
+  {
+    "doi": "10.5964/jspp.v5i2.748",
+    "authors": "Schuler, Johannes; Ivanov, Igor; Waenke, Michaela",
+    "pubYear": "2017",
+    "UT": "WOS:000514922700005",
+    "case": "caruso",
+    "source_id": "ml1.13",
+    "target_doi": "10.1037/a0029288",
+    "article_id": "oa10",
+    "reference_ids": [
+      "r16"
+    ],
+    "target_body_anchor_count": 7,
+    "target_paragraph_count": 6,
+    "nonparagraph_anchor_xpaths": [],
+    "identity_verified": true
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "sha256": {
+    "ANALYSIS_SPECIFICATION.md": "e2c5edd8d70b16bcfec67d7cb807dc5ed260f100e3d03a34675b358e8a036689",
+    "README.md": "c4fd7e1f48578a573ceb4b440a452724762314f9be1e71f27b301ff6533a4471",
+    "benchmark_core.py": "54fcfae4bbea2c0a4aa12dfdff64b64a31ed14dedb312a432efe79e7e4a7900c",
+    "inputs/contexts_text_free.csv": "9c322da2a738054debb601fe7855fc64110dcee8797255faa944a75ffeb7f24c",
+    "inputs/sources.csv": "8824101834001a79890723c0bd63da088a1fdc4e05b9d33f2159b8b91e48cf70",
+    "literal_features.py": "13403b4d2f4bf33e21bd54ca697b8141fde2d1ca1802d38d9d7c8eac1c1c8bc1",
+    "reported_results/benchmark_results.csv": "02ee430cc359cd1536152da00e00d6abf5a5016d34033b822db226ac92edd6d7",
+    "reported_results/benchmark_support.csv": "07914c71462947d416976bb35945bb8d0deff4ae50180dd08b766f24e8ddea24",
+    "reported_results/criterion_group_incidence.csv": "730b511a389ff12a2d738e2f24ea862f56f54aa733eb3742909750de1d05d7f4",
+    "reported_results/existing_source_bootstrap_intervals.csv": "a9edbf255a812c7ec7e2b7c894166509801dc6d6f454f2f7d9d67720d0356f63",
+    "reported_results/monte_carlo_checks.csv": "25bc65a2f9b0b74217153da442101b4f40f7abba3a9438a91fed3c8ec94e5f1d",
+    "reported_results/project_concentration.csv": "aaefac3df4f7f052b4d0e433380dcc3541f30ecbfcaa17feed5922af3290aa87",
+    "reported_results/retention_reference_envelopes.pdf": "95d3b9480a567db339424fa19e14ca89a3279647493221c1b73804236b8f6d55",
+    "reported_results/retention_reference_envelopes.png": "a0b646f4be32e36e73b0d56eaab75ac5ee0b4ce7319c94134226784d9bcc3fd0",
+    "reported_results/source_results.csv": "c46f705cec1e854d99e785f897bac57766d5cea415aee89635f711503bfc5b46",
+    "reported_results/strata_pattern_counts.csv": "4d6e2084b89bd4cd234a32c85b6698a719e3dc3c35e19f774fa558c77f1dc6c8",
+    "reproduce.py": "6eba16f7bbd45989b7b9049f7244e3ed518153a29e473d300cb9ec432ee0b0c2",
+    "test_benchmark.py": "42aa63588a9179d568617e5693edfd0852565595ac21ba5b8f6a497a5cab721b",
+    "verification/independent_joint_covariances.csv": "1a01fcd1b2b07d9c661772490c9584da85d8e178463720625addc9684b811449",
+    "verification/independent_results.csv": "50ee27562fa9b3b50343d233fe668a4dade7382dd1df5684e0e0a73afa5a4030",
+    "verification/independent_support_details.csv": "0af861242bcd10680fa0a9cbc837d41437d0efff3057a13bfc15701fe46acb93",
+    "verification/monte_carlo_endpoint_precision.csv": "724ba59338819d6997ef9a785da8d8e0c4c7a5d773370c244a3ca50c6313bf2a",
+    "verification/toy_joint_sampling_checks.csv": "5b6ad8a84cff70041c250c3dea4fac70fa599dfa6a6333f58cefc6d5977a2550"
+  },
+  "raw_citation_text_included": false,
+  "human_labels_included": false,
+  "network_required": false
+}

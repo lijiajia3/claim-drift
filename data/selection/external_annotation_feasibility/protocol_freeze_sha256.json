@@ -1,0 +1,12 @@
+{
+  "stage": "final_metadata_and_text_keys_only_before_external_row_labels",
+  "current_revision_decision": "stop_at_related_work_provenance_feasibility_no_external_validation",
+  "date_utc": "2026-10-06",
+  "files": {
+    "FEASIBILITY_REPORT.md": "5e4a7699c1845450f8859e6fefc88deddff59f3c3d0cb48058e4be976a9a4985",
+    "PROPOSED_EXTERNAL_AUDIT_PROTOCOL.md": "a859e0ea3930f752c8a5bd5c5494c52dc1a2754883e70450c709354d94dae5c5",
+    "text_only_feasibility.py": "7faf8af3d694500eb95cffd3618b332b5cd6b84b4ddc15b5f548ccb14abdbab6",
+    "text_only_feasibility.json": "d159ccd336d6a2e1cd7bf424a67122772d7bdf1ce97d84413a4881d958a88632",
+    "local_target_text_keys_only.csv": "ed6bf7039968d741d12f5cf6b3dc1ac22462c8151fce94f36f982443b7cd7d10"
+  }
+}

@@ -1,34 +1,82 @@
 # Measurement choices in longitudinal citation language comparisons around replication projects
 
-Current manuscript and analysis materials by **Dongdong Guo and Jiaxuan Li**, updated 7 October 2026. The Research Square record is [rs-10681663](https://www.researchsquare.com/article/rs-10681663/latest). Research Square confirmed **Revision submitted** on 7 October 2026. Version 3 is awaiting platform processing; the public record still points to version 2 until posting.
+**Current analysis code is directly below, at the repository root.** This project
+accompanies the manuscript by Dongdong Guo and Jiaxuan Li. The reproduction
+commands use saved derived inputs; no API key, model inference, GPU or data
+download is needed once Python dependencies are installed.
 
-## Use the current snapshot
+## Run from the repository root
 
-Current material is in [`releases/researchsquare-v3-20261007`](releases/researchsquare-v3-20261007):
+Use Python 3.12 with the published dependency versions:
 
-- The 18-page manuscript: 39 references, four figures and three tables.
-- Online Resource 1: supplementary information (17 pages).
-- Online Resource 2: core saved-score and literal-word analyses, filter-shift uncertainty and historical validation audit.
-- Online Resource 3: fixed retention and text-composition reference analyses.
-- Online Resource 4: external article/context linkage audit.
-- Editable LaTeX sources using the supplied Springer Nature December 2024 class, plus Figure 1 vector/raster exports.
+```bash
+python -m venv .venv
+source .venv/bin/activate
+python -m pip install -r requirements.txt
+python run_all.py
+```
 
-`SHA256SUMS.txt` and `manifest.json` bind document/component bytes. Extract each ZIP separately and follow its README/specification. Saved-input analyses need no model API calls. The components are separate resource packages, not interchangeable entry points.
+Generated tables and verification receipts go to `results/`. Numerical checks
+use 1e-12 absolute/relative tolerance for floating-point fields and exact matching
+for text and integers. Different numerical-library builds can change final
+floating-point digits; the optional original byte check is available with
+`python reproduce_retention.py --strict-bytes`. The statistical calculations
+and published reference files are unchanged.
+To list commands without running them, use `python run_all.py --list`.
+To run one component, use `python run_all.py --only retention` (or `scores`,
+`literal`, `selection`, `external`).
 
-## Interpretation
+| Code at the repository root | What it reproduces |
+| --- | --- |
+| [analyze_scores.py](analyze_scores.py), [analysis_core.py](analysis_core.py) | Saved-score comparisons and specified sensitivity analyses |
+| [precision_simulation.py](precision_simulation.py) | Explicitly hypothetical model-scale precision scenarios |
+| [analyze_literal_counts.py](analyze_literal_counts.py), [literal_features.py](literal_features.py) | Fixed literal-word indicators, retained/excluded counts and matched filter contrasts |
+| [staunton_selected_sensitivity.py](staunton_selected_sensitivity.py) | Separately labeled 106-source scope sensitivity |
+| [analyze_selection_decomposition.py](analyze_selection_decomposition.py) | Exact selection accounting, conditional uncertainty and influence checks |
+| [reproduce_retention.py](reproduce_retention.py), [benchmark_core.py](benchmark_core.py) | Frozen year/length-matched artificial-retention references |
+| [reproduce_external_linkage.py](reproduce_external_linkage.py) | Bounded external-linkage descriptive counts |
+| [verify_results.py](verify_results.py) | Comparison with published numerical tables |
 
-The exploratory archive contains **105 source papers from four replication projects**, **15,280 within-source deduplicated text units**, and **8,427 retained empirical restatements**. The paired comparison uses the same 72 eligible sources.
+## Inputs, papers and historical material
 
-Filtering changes the between-group pre–post replication-word contrast from −0.22 to −1.77 percentage points: **−1.55 points** (conditional source-bootstrap 95% interval −3.03 to −0.24). Retention matched on year and length reproduces −0.65 points. The observed shift lies near the simulation-envelope boundary; the remaining −0.90 points is descriptive, not an identified mechanism. Adverb/modal contrasts lie inside every reference envelope. Omitting the largest project or narrowing the window yields filter-shift intervals including zero.
+- [data/](data/): frozen derived inputs, reference tables and component explanations.
+- [releases/researchsquare-v3-20261007/](releases/researchsquare-v3-20261007/): manuscript, supplementary information, original resource ZIPs, LaTeX source and Figure 1 exports.
+- [Versioned GitHub release](https://github.com/lijiajia3/claim-drift/releases/tag/researchsquare-v3-20261007): the unchanged publication snapshot and downloadable assets.
+- [archive/legacy/](archive/legacy/): previous collection, API-scoring, annotation and analysis files, preserved for traceability.
+- [docs/CODE_PROVENANCE.json](docs/CODE_PROVENANCE.json): exact source mapping and the input/output-path changes used to expose the current code here.
 
-Literal-word measures detect word presence, not semantic acknowledgment or belief updating. The model score is secondary: its mixed rubric and reused development data limit interpretation. Results do not establish causal responses to replication, bounded null effects, or general scientific self-correction.
+You do not need to extract a supplement ZIP to run the root-level commands.
+Original standalone ZIPs remain available for reproducing their full auxiliary
+workflows, source-criterion clarifications, figure/report builders and independent
+checks. Original component documents refer to their original layout; use this
+README for the reorganized repository.
 
-## Historical files
+## What the results support
 
-Root-level scripts/data remain for traceability. **They are not the specification for the current manuscript.** Earlier descriptions of 110 findings, 15,467 sentences, independent validation and bounded nulls must not be carried into the current interpretation. The prior README is preserved verbatim in [`docs/README_historical_before_20261007.md`](docs/README_historical_before_20261007.md). Use current resource specifications for populations, measures, eligibility and uncertainty.
+The exploratory baseline contains **105 source papers from four replication
+projects**, **15,280 within-source deduplicated text units**, and **8,427 retained
+empirical restatements**. The paired comparison uses the same 72 eligible sources.
+Filtering changes the between-group pre–post replication-word contrast by
+**−1.55 percentage points** (conditional source-bootstrap 95% interval −3.03 to
+−0.24). Retention matched on year and length reproduces −0.65 points. The observed
+shift lies near the simulation-envelope boundary; the remaining −0.90 points is
+descriptive, not an identified mechanism. Adverb/modal contrasts lie inside every
+reference envelope. Omitting the largest project or narrowing the window yields
+filter-shift intervals including zero.
 
-## Rights and privacy
+Literal words do not establish semantic acknowledgment or belief updating. The
+model score remains secondary because its mixed rubric and reused development
+data limit interpretation. Reproduction verifies arithmetic conditional on the
+archive; it does not add semantic validation or causal identification.
 
-MIT covers the authors' original code only. It does not relicense article excerpts, third-party data, the manuscript or publisher template. The supplied Springer Nature class/style retain original license notices. Citation excerpts remain subject to original rights holders; database attribution is not a blanket copyright license. Resource-level provenance/rights notices remain in the packages. Legacy ratings are de-identified; their validation limits appear in the manuscript. Credentials, private reviews, other authors' reading PDFs and author-only submission files are excluded.
+## Preprint and rights
 
-This is a preprint/reproducibility update, not evidence of journal submission or acceptance in Scientometrics.
+[Research Square rs-10681663](https://www.researchsquare.com/article/rs-10681663/latest).
+Revision 3 was submitted on 7 October 2026; support processing/posting has been
+requested. Public posting of v3 has not yet been confirmed. This repository
+update is not evidence of journal acceptance.
+
+MIT covers the authors' original code only. It does not relicense article
+excerpts, third-party data, the manuscript or publisher templates. Component
+attribution and rights notices remain in the data and original resource packages.
+Current public packages exclude private annotation-export metadata and credentials.

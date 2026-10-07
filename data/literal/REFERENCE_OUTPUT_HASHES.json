@@ -1,0 +1,19 @@
+{
+  "outputs/analysis_configurations.json": "026b37b3ebc5849a1fdc39d656eb2d07921e28bf3277afd7a63fa2b21765dad0",
+  "outputs/frozen_exclusion_counts.csv": "0318f32c0251795249a0097e4ce641053028e54cf1c3881082e772763a6213f1",
+  "outputs/leave_project_out.csv": "63c4acda90280465aa470f3f4c86f48c3bc2107fd682bfd0cafafbc826dc0e3b",
+  "outputs/matched_filter_shared_component_sensitivity.csv": "5c16c7ce6268d1987d7a4b892f7215bdc8c8822ae59db12d4e8220b6df1ca46d",
+  "outputs/matched_source_filter_comparison.csv": "4801091a75eb2fda4e42201145879b55c10bc9acfc0d1cce45128c10479a7ed2",
+  "outputs/matched_source_filter_estimates.csv": "2d17badf96300a721794b830264fc2adbdf07a4556965f1a247f496ffa021d6c",
+  "outputs/method.json": "0a814eb0cde907d0060ac44a9db705678f73a893cf3e5a3f4b31b7ecf81242df",
+  "outputs/qwen_retention_by_literal_feature.csv": "b6564ee6969f3859c3cde89c0da33461b39cd72af8305a1db150859f1a6432e1",
+  "outputs/raw_counts_all_words_and_families.csv": "68a2ba531c98646d66933fe7689e291dc5273368ba1e057f91456a77005454b8",
+  "outputs/shared_text_component_sensitivity.csv": "bbae14c68b23d0879ea4c29afc07976caa70b5f88389d1c72b9ff1c252998bf3",
+  "outputs/source_bootstrap_contrasts.csv": "1cb3f6eb654216ed7cf6380599f05c0a3c90d72418a042f409c68c6f6dd970fe",
+  "outputs/source_estimates_all_predefined_features.csv": "6c7f6881596f8aaf0b01dd1c84a1a03bcb84640a2744927c160f73058f73c087",
+  "outputs/staunton106_added_literal_counts.csv": "9de434ae486009805940a54fcd1bdac4a948d6372cc0d1afd78be0c3542216c9",
+  "outputs/staunton106_added_source_support.csv": "877105c096dfd8df43d4988507b20f435ad36f6fbc7cb5c22fdba6215431c062",
+  "outputs/staunton106_frozen_model_sensitivity.json": "93cf7a4bd3db8283f5c2685bdb0a5e3121e4186959b8983212a25068bbac51ea",
+  "outputs/staunton106_literal_sensitivity.csv": "b4db20169abcdb5f001752e72c20801996fa063595148f10514514bb6457c6bc",
+  "outputs/staunton_sensitivity_definition.json": "33594c88989db923fe8a7e72d8ed1dc4877bdd9c3d9838aca0f1a9d5052be14f"
+}

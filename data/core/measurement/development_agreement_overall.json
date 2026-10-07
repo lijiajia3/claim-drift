@@ -1,0 +1,835 @@
+{
+  "qwen_original": {
+    "n": 248,
+    "n_clusters": 248,
+    "cluster_variable": "sentence_hash",
+    "n_claims": 88,
+    "small_subgroup_interval_warning": null,
+    "spearman": {
+      "estimate": 0.30672873078246604,
+      "ci95": [
+        0.18379846981252143,
+        0.4200762942828595
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "pearson": {
+      "estimate": 0.3165950661329636,
+      "ci95": [
+        0.19798186688888691,
+        0.42504736702012774
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "model_mean": {
+      "estimate": 0.5874999999999996,
+      "ci95": [
+        0.5627016129032258,
+        0.6120967741935484
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "human_mean": {
+      "estimate": 0.5514112903225806,
+      "ci95": [
+        0.5186491935483871,
+        0.5836693548387096
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "bias_model_minus_human": {
+      "estimate": 0.03608870967741895,
+      "ci95": [
+        0.0032258064516129613,
+        0.06985887096774179
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "mae": {
+      "estimate": 0.21250000000000005,
+      "ci95": [
+        0.19102318548387107,
+        0.2340725806451613
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "rmse": {
+      "estimate": 0.2750733040130306,
+      "ci95": [
+        0.24995967416700926,
+        0.2999714367899314
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "exact_score_agreement": {
+      "estimate": 0.1532258064516129,
+      "ci95": [
+        0.10887096774193548,
+        0.1975806451612903
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "within_0_25": {
+      "estimate": 0.7338709677419355,
+      "ci95": [
+        0.6774193548387096,
+        0.7862903225806451
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "model_on_human_slope": {
+      "estimate": 0.24151612079710985,
+      "ci95": [
+        0.14229801735796385,
+        0.341185894958567
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "model_on_human_intercept": {
+      "estimate": 0.454325284197561,
+      "ci95": [
+        0.3875320198277071,
+        0.5203431976507635
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "human_on_model_slope": {
+      "estimate": 0.4150134391398981,
+      "ci95": [
+        0.2653784410862143,
+        0.5555268900834004
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "human_on_model_intercept": {
+      "estimate": 0.3075908948278907,
+      "ci95": [
+        0.22055873188329864,
+        0.40269530933298026
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "lin_concordance_numeric_anchors": {
+      "estimate": 0.30167000046518616,
+      "ci95": [
+        0.18429071042994824,
+        0.4085474790064504
+      ],
+      "valid_bootstrap_replicates": 9999
+    }
+  },
+  "luna_development": {
+    "n": 248,
+    "n_clusters": 248,
+    "cluster_variable": "sentence_hash",
+    "n_claims": 88,
+    "small_subgroup_interval_warning": null,
+    "spearman": {
+      "estimate": 0.6619722740397849,
+      "ci95": [
+        0.5675079004218074,
+        0.74522911800624
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "pearson": {
+      "estimate": 0.6697820435449913,
+      "ci95": [
+        0.5816559892956713,
+        0.748405376037533
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "model_mean": {
+      "estimate": 0.5433467741935484,
+      "ci95": [
+        0.5090725806451613,
+        0.5766129032258065
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "human_mean": {
+      "estimate": 0.5514112903225806,
+      "ci95": [
+        0.5186491935483871,
+        0.5836693548387096
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "bias_model_minus_human": {
+      "estimate": -0.008064516129032251,
+      "ci95": [
+        -0.034778225806451624,
+        0.018649193548387122
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "mae": {
+      "estimate": 0.14213709677419356,
+      "ci95": [
+        0.12247983870967742,
+        0.16280241935483872
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "rmse": {
+      "estimate": 0.21416567298208872,
+      "ci95": [
+        0.18783572094922768,
+        0.24010141506482013
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "exact_score_agreement": {
+      "estimate": 0.40725806451612906,
+      "ci95": [
+        0.3467741935483871,
+        0.46774193548387094
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "within_0_25": {
+      "estimate": 0.8870967741935484,
+      "ci95": [
+        0.8467741935483871,
+        0.9233870967741935
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "model_on_human_slope": {
+      "estimate": 0.6858434322956561,
+      "ci95": [
+        0.5821820545314749,
+        0.7854416842833004
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "model_on_human_intercept": {
+      "estimate": 0.16516496223213317,
+      "ci95": [
+        0.10754542005936284,
+        0.22606166596194704
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "human_on_model_slope": {
+      "estimate": 0.6540967875914817,
+      "ci95": [
+        0.5560045615558281,
+        0.7491261568370559
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "human_on_model_intercept": {
+      "estimate": 0.19600991077438645,
+      "ci95": [
+        0.13916159114434284,
+        0.25727886942435657
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "lin_concordance_numeric_anchors": {
+      "estimate": 0.6692800304811036,
+      "ci95": [
+        0.5793960028372243,
+        0.7467316808108317
+      ],
+      "valid_bootstrap_replicates": 9999
+    }
+  },
+  "deepseek_development": {
+    "n": 248,
+    "n_clusters": 248,
+    "cluster_variable": "sentence_hash",
+    "n_claims": 88,
+    "small_subgroup_interval_warning": null,
+    "spearman": {
+      "estimate": 0.6213645212612996,
+      "ci95": [
+        0.5233565260995389,
+        0.7074664195202696
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "pearson": {
+      "estimate": 0.6304955004539473,
+      "ci95": [
+        0.5266989532601501,
+        0.717185035928614
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "model_mean": {
+      "estimate": 0.5443548387096774,
+      "ci95": [
+        0.5141129032258065,
+        0.5745967741935484
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "human_mean": {
+      "estimate": 0.5514112903225806,
+      "ci95": [
+        0.5191532258064516,
+        0.5836693548387096
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "bias_model_minus_human": {
+      "estimate": -0.007056451612903247,
+      "ci95": [
+        -0.03377016129032262,
+        0.019657258064516125
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "mae": {
+      "estimate": 0.14213709677419356,
+      "ci95": [
+        0.12247983870967742,
+        0.16280241935483872
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "rmse": {
+      "estimate": 0.2176672512300932,
+      "ci95": [
+        0.19066548353832485,
+        0.24580656406101906
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "exact_score_agreement": {
+      "estimate": 0.42338709677419356,
+      "ci95": [
+        0.3629032258064516,
+        0.4838709677419355
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "within_0_25": {
+      "estimate": 0.8669354838709677,
+      "ci95": [
+        0.8225806451612904,
+        0.907258064516129
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "model_on_human_slope": {
+      "estimate": 0.5938340015918069,
+      "ci95": [
+        0.4812791201724468,
+        0.7020167044300527
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "model_on_human_intercept": {
+      "estimate": 0.21690806565451776,
+      "ci95": [
+        0.1526588476381335,
+        0.2858099660939757
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "human_on_model_slope": {
+      "estimate": 0.6694203683640303,
+      "ci95": [
+        0.5572741902643781,
+        0.7714459750167326
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "human_on_model_intercept": {
+      "estimate": 0.18700907367280611,
+      "ci95": [
+        0.12503648233486922,
+        0.2530207983714504
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "lin_concordance_numeric_anchors": {
+      "estimate": 0.6291205294641722,
+      "ci95": [
+        0.5234647939751018,
+        0.7149257759505985
+      ],
+      "valid_bootstrap_replicates": 9999
+    }
+  },
+  "ensemble_development": {
+    "n": 248,
+    "n_clusters": 248,
+    "cluster_variable": "sentence_hash",
+    "n_claims": 88,
+    "small_subgroup_interval_warning": null,
+    "spearman": {
+      "estimate": 0.6954382306808146,
+      "ci95": [
+        0.6092908984012337,
+        0.770678810219768
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "pearson": {
+      "estimate": 0.707483865693718,
+      "ci95": [
+        0.6261257822462786,
+        0.7770873341281803
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "model_mean": {
+      "estimate": 0.5438508064516129,
+      "ci95": [
+        0.515625,
+        0.5730846774193549
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "human_mean": {
+      "estimate": 0.5514112903225806,
+      "ci95": [
+        0.5196572580645161,
+        0.5826612903225806
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "bias_model_minus_human": {
+      "estimate": -0.007560483870967749,
+      "ci95": [
+        -0.03125,
+        0.015625
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "mae": {
+      "estimate": 0.12147177419354839,
+      "ci95": [
+        0.10332661290322581,
+        0.14012096774193547
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "rmse": {
+      "estimate": 0.1909956404670519,
+      "ci95": [
+        0.16706521568035215,
+        0.21475323423153195
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "exact_score_agreement": {
+      "estimate": 0.45161290322580644,
+      "ci95": [
+        0.3911290322580645,
+        0.5161290322580645
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "within_0_25": {
+      "estimate": 0.8870967741935484,
+      "ci95": [
+        0.8467741935483871,
+        0.9233870967741935
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "model_on_human_slope": {
+      "estimate": 0.6398387169437318,
+      "ci95": [
+        0.547264687384524,
+        0.7302381056602607
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "model_on_human_intercept": {
+      "estimate": 0.19103651394332527,
+      "ci95": [
+        0.13822917443576754,
+        0.24616466980191398
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "human_on_model_slope": {
+      "estimate": 0.7822806075377652,
+      "ci95": [
+        0.6836579146238843,
+        0.8744494522498053
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "human_on_model_intercept": {
+      "estimate": 0.12596735104170936,
+      "ci95": [
+        0.0700924595505842,
+        0.18601818835139255
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "lin_concordance_numeric_anchors": {
+      "estimate": 0.7035991181788914,
+      "ci95": [
+        0.6201143957921265,
+        0.7723980599610497
+      ],
+      "valid_bootstrap_replicates": 9999
+    }
+  },
+  "ensemble_claim_cluster_sensitivity": {
+    "n": 248,
+    "n_clusters": 88,
+    "cluster_variable": "claim",
+    "n_claims": 88,
+    "small_subgroup_interval_warning": null,
+    "spearman": {
+      "estimate": 0.6954382306808146,
+      "ci95": [
+        0.6014093174463742,
+        0.778510423978613
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "pearson": {
+      "estimate": 0.707483865693718,
+      "ci95": [
+        0.6239350945692871,
+        0.7811316443934387
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "model_mean": {
+      "estimate": 0.5438508064516129,
+      "ci95": [
+        0.5108695652173914,
+        0.5746941109448336
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "human_mean": {
+      "estimate": 0.5514112903225806,
+      "ci95": [
+        0.5155591365461847,
+        0.5856392515046198
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "bias_model_minus_human": {
+      "estimate": -0.007560483870967749,
+      "ci95": [
+        -0.03322784810126589,
+        0.017594373219373207
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "mae": {
+      "estimate": 0.12147177419354839,
+      "ci95": [
+        0.10297605936647787,
+        0.1404962681786149
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "rmse": {
+      "estimate": 0.1909956404670519,
+      "ci95": [
+        0.16614428451322294,
+        0.21421233091592498
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "exact_score_agreement": {
+      "estimate": 0.45161290322580644,
+      "ci95": [
+        0.3936651583710407,
+        0.5084105437046612
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "within_0_25": {
+      "estimate": 0.8870967741935484,
+      "ci95": [
+        0.8448275862068966,
+        0.9264069264069265
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "model_on_human_slope": {
+      "estimate": 0.6398387169437318,
+      "ci95": [
+        0.5599998392656496,
+        0.7189250024765157
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "model_on_human_intercept": {
+      "estimate": 0.19103651394332527,
+      "ci95": [
+        0.140013059623031,
+        0.24542955270597835
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "human_on_model_slope": {
+      "estimate": 0.7822806075377652,
+      "ci95": [
+        0.671208904107213,
+        0.8858892812909588
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "human_on_model_intercept": {
+      "estimate": 0.12596735104170936,
+      "ci95": [
+        0.06442473823473342,
+        0.19340801503126473
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "lin_concordance_numeric_anchors": {
+      "estimate": 0.7035991181788914,
+      "ci95": [
+        0.6196831634955382,
+        0.7757611346847308
+      ],
+      "valid_bootstrap_replicates": 9999
+    }
+  },
+  "ensemble_without_question_flags": {
+    "n": 246,
+    "n_clusters": 246,
+    "cluster_variable": "sentence_hash",
+    "n_claims": 88,
+    "small_subgroup_interval_warning": null,
+    "spearman": {
+      "estimate": 0.6968457527138902,
+      "ci95": [
+        0.6111392083876722,
+        0.7741281844104495
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "pearson": {
+      "estimate": 0.7078040672231629,
+      "ci95": [
+        0.6274595938936047,
+        0.7803673216345852
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "model_mean": {
+      "estimate": 0.5436991869918699,
+      "ci95": [
+        0.5142276422764228,
+        0.5726626016260162
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "human_mean": {
+      "estimate": 0.5503048780487805,
+      "ci95": [
+        0.5177845528455285,
+        0.5828252032520326
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "bias_model_minus_human": {
+      "estimate": -0.0066056910569105565,
+      "ci95": [
+        -0.030487804878048808,
+        0.017276422764227584
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "mae": {
+      "estimate": 0.12144308943089431,
+      "ci95": [
+        0.10315040650406504,
+        0.1402439024390244
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "rmse": {
+      "estimate": 0.19143897751978603,
+      "ci95": [
+        0.16755353470419512,
+        0.21444293496807856
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "exact_score_agreement": {
+      "estimate": 0.45528455284552843,
+      "ci95": [
+        0.3943089430894309,
+        0.516260162601626
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "within_0_25": {
+      "estimate": 0.8861788617886179,
+      "ci95": [
+        0.8455284552845529,
+        0.9227642276422764
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "model_on_human_slope": {
+      "estimate": 0.6407923948312171,
+      "ci95": [
+        0.5485566079178237,
+        0.7329122092055025
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "model_on_human_intercept": {
+      "estimate": 0.191068006299691,
+      "ci95": [
+        0.13722478109428088,
+        0.2448661423997949
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "human_on_model_slope": {
+      "estimate": 0.7818235697220004,
+      "ci95": [
+        0.6823410131433202,
+        0.8765028227266195
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "human_on_model_intercept": {
+      "estimate": 0.12522803881984734,
+      "ci95": [
+        0.06827538864448479,
+        0.18554714380844742
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "lin_concordance_numeric_anchors": {
+      "estimate": 0.7040692510726655,
+      "ci95": [
+        0.6221842435904295,
+        0.7753580817059732
+      ],
+      "valid_bootstrap_replicates": 9999
+    }
+  },
+  "ensemble_linked_named_claim_full_run": {
+    "n": 220,
+    "n_clusters": 220,
+    "cluster_variable": "sentence_hash",
+    "n_claims": 81,
+    "small_subgroup_interval_warning": null,
+    "spearman": {
+      "estimate": 0.7220645821839726,
+      "ci95": [
+        0.6325306779581745,
+        0.7943795315892711
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "pearson": {
+      "estimate": 0.7096043039364859,
+      "ci95": [
+        0.6214802286066199,
+        0.7815378945442514
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "model_mean": {
+      "estimate": 0.5176136363636363,
+      "ci95": [
+        0.48977272727272725,
+        0.5460227272727273
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "human_mean": {
+      "estimate": 0.5357954545454545,
+      "ci95": [
+        0.5017045454545455,
+        0.5693181818181818
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "bias_model_minus_human": {
+      "estimate": -0.018181818181818188,
+      "ci95": [
+        -0.0426136363636363,
+        0.006818181818181834
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "mae": {
+      "estimate": 0.125,
+      "ci95": [
+        0.10738636363636364,
+        0.14375
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "rmse": {
+      "estimate": 0.18540496217739158,
+      "ci95": [
+        0.16122753543305865,
+        0.21018964328707662
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "exact_score_agreement": {
+      "estimate": 0.39090909090909093,
+      "ci95": [
+        0.32727272727272727,
+        0.45454545454545453
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "within_0_25": {
+      "estimate": 0.9090909090909091,
+      "ci95": [
+        0.8681818181818182,
+        0.9454545454545454
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "model_on_human_slope": {
+      "estimate": 0.5735440236930661,
+      "ci95": [
+        0.48251537700063446,
+        0.663806992304661
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "model_on_human_intercept": {
+      "estimate": 0.21031135548718105,
+      "ci95": [
+        0.15952205173761508,
+        0.26382752530333414
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "human_on_model_slope": {
+      "estimate": 0.8779417923717302,
+      "ci95": [
+        0.7585482213756014,
+        0.9958966590895606
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "human_on_model_intercept": {
+      "estimate": 0.08136081088031466,
+      "ci95": [
+        0.015138093971474599,
+        0.1500113302659381
+      ],
+      "valid_bootstrap_replicates": 9999
+    },
+    "lin_concordance_numeric_anchors": {
+      "estimate": 0.6917679343704235,
+      "ci95": [
+        0.6015801362844665,
+        0.7639286803346871
+      ],
+      "valid_bootstrap_replicates": 9999
+    }
+  }
+}

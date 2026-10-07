@@ -1,0 +1,9 @@
+project,outcome,n_papers,n_texts,n_positive_texts,n_level,n_drift,n_event
+EERP,negative,5,1017,517,4,4,4
+EERP,positive,9,1481,599,7,6,6
+ML1,negative,2,285,165,2,2,1
+ML1,positive,9,1325,659,8,6,4
+ML3,negative,6,1185,755,5,5,4
+ML3,positive,3,524,290,3,3,2
+RPP,negative,44,5652,3367,40,34,31
+RPP,positive,27,3811,2075,27,25,20

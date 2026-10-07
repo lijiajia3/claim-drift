@@ -1,0 +1,6 @@
+{
+  "all_paper_means_and_transformed_slopes_match": true,
+  "maximum_absolute_estimator_error": 0.0,
+  "event_estimate_and_legacy_ci_match": true,
+  "original_source_and_score_files_unchanged": true
+}

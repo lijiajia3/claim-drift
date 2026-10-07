@@ -1,0 +1,79 @@
+{
+  "files": [
+    {
+      "path": "README.txt",
+      "bytes": 3360,
+      "sha256": "eee7fbf2bb8ad7c42be9b511db4884e77e9f9912e30d9f213cfca89f376f5d60"
+    },
+    {
+      "path": "inputs/selected_article_labels.csv",
+      "bytes": 651,
+      "sha256": "ebc52d2a911b18ec831d36cfe4cab58ba001ebc2a4900b351a5732e09c6724d7"
+    },
+    {
+      "path": "inputs/selected_context_gate_inputs.csv",
+      "bytes": 1975,
+      "sha256": "12b6cc3a07be6598a68d73785d53b1e7b1a5ff4c8a0cd2959581d08747f43c8c"
+    },
+    {
+      "path": "provenance/analysis_sequence.json",
+      "bytes": 1150,
+      "sha256": "5107789167dad680846736d9cae096cd966769d00da27c07714de49ea19b11ab"
+    },
+    {
+      "path": "provenance/anchored_context_locators.json",
+      "bytes": 12963,
+      "sha256": "f72181dbdea5605f3acefdbf9a019091dbd11d67d9c37813ea34bd08702c3b22"
+    },
+    {
+      "path": "provenance/article_case_anchor_ledger.json",
+      "bytes": 4693,
+      "sha256": "8a314cb95e0d00ccd12884753f367ce6aafd14093f1db2bdad7c5b67b8477a79"
+    },
+    {
+      "path": "provenance/document_manifest_text_free.json",
+      "bytes": 4144,
+      "sha256": "682a0e91cefdddcd3775485cb4751f4e27fddf7574cf2d17bec5a0f5520fbd12"
+    },
+    {
+      "path": "provenance/fixed_sample.json",
+      "bytes": 4362,
+      "sha256": "ab49a1b99c6cb5df726704e10650f0e0cd27c9f38fd3a171eafbcd4025af1e2f"
+    },
+    {
+      "path": "provenance/old_context_match_manifest.json",
+      "bytes": 13700,
+      "sha256": "cc9401166d470b1d37998621ed43b8e14b36f29150cca84cf927620b93793ea9"
+    },
+    {
+      "path": "provenance/strict_v1_article_case_audit.csv",
+      "bytes": 1475,
+      "sha256": "2f8fb8d94d9fbb924b0451f9eb740bda1077464f976cbc6b4dbc4d10794cb25e"
+    },
+    {
+      "path": "reported_results/article_case_audit.csv",
+      "bytes": 1721,
+      "sha256": "3304b32c0e797c881105161331ad0b09afe1323be331bded05648e970269ace5"
+    },
+    {
+      "path": "reported_results/case_valence_summary.csv",
+      "bytes": 483,
+      "sha256": "61a2252a30d80eb74d5e93592a2f009a8b24cf66741d718c1fc4c4ab3903dc74"
+    },
+    {
+      "path": "reported_results/descriptive_summary.json",
+      "bytes": 3819,
+      "sha256": "192f3e21f204753761412ee71c7f3254f0a85c21c59c3f66bacc7ce9d5133693"
+    },
+    {
+      "path": "reported_results/source_recovery_ledger.csv",
+      "bytes": 1484,
+      "sha256": "21d35d9678881b01fa81505b499f50a2d0bbf1076cfde4e983862235f1c25042"
+    },
+    {
+      "path": "reproduce.py",
+      "bytes": 2957,
+      "sha256": "3b88887506922a4811cbcf4816fd29da877ffabcac4825acc8497ffb28d2b30d"
+    }
+  ]
+}

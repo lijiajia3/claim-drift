@@ -1,0 +1,22 @@
+[
+  {
+    "figure": "fig01_cohort_support",
+    "caption": "Source-paper support by actual replication project and explicitly reconstructed criterion. Panel A includes 105 source papers under the conservative inclusion rule; panel B requires at least ten retained positive text units before and at or after the project journal-publication year. Counts are sources, not independent citing articles. Criterion labels apply to selected tests rather than all findings in each paper."
+  },
+  {
+    "figure": "fig02_descriptive_contrasts",
+    "caption": "Equal-source criterion-negative minus criterion-positive estimates and 95% within-outcome source-bootstrap percentile intervals (19,999 draws). Each panel uses its stated eligibility rule. Horizontal scales differ because transformed drift is not raw score change per year. Frozen language scores, text retrieval, labels and dates are treated as fixed; intervals do not include uncertainty in those inputs and do not establish a causal replication response."
+  },
+  {
+    "figure": "fig03_event_sensitivity",
+    "caption": "Fixed post hoc repair sensitivity grid for project-aligned changes. Points use equal source weights; bars are 95% source-bootstrap percentile intervals. Text-year alternatives diagnose deduplication rather than certify chronology. Symmetric windows exclude the event year. Eligibility and source composition differ across rows, so differences between estimates do not isolate a single causal mechanism. All-108 mechanical labels preserve unresolved cases under their archived assignments; the source-complete main row excludes unresolved criteria."
+  },
+  {
+    "figure": "fig04_event_trajectory",
+    "caption": "Annual source-paper means relative to each paper\u2019s own positive-text mean in years \u22125 through \u22121. Each source has equal weight at a given year; source support varies with year and is shown below. Shading is a pointwise Student t interval over available source means (not a simultaneous band), conditional on the fixed baseline and score corpus. Both outcome groups receive project-results information; this is a descriptive trajectory, not an identified treatment-control event study."
+  },
+  {
+    "figure": "fig05_project_slope_heterogeneity",
+    "caption": "Raw annual model-score slopes use the same adaptive bins and eligibility as the transformed lifetime drift endpoint. Points are project-specific group differences, with Welch 95% intervals and explicit group sizes. Very small project groups make resampling distributions discrete and estimates unstable. This is a post hoc heterogeneity diagnostic and is not evidence of independent project-specific causal effects."
+  }
+]

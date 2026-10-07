@@ -1,0 +1,20 @@
+{
+  "sample_freeze_utc": "2026-10-06T11:49:52.041433+00:00",
+  "descriptive_protocol_freeze_utc": "2026-10-06T12:17:50.434046+00:00",
+  "first_selected_annotation_projection_utc": "2026-10-06T12:17:50.440914+00:00",
+  "first_selected_gate_projection_utc": "2026-10-06T12:17:50.442430+00:00",
+  "protocol_sha256": "12fed385da499bdbd8828ebf587037625dd49b9a1a87feca98d5dc84bb63845f",
+  "selected_pairs": 8,
+  "selected_contexts": 12,
+  "spelling_amendment_recorded_utc": "2026-10-06T12:20:13.560185+00:00",
+  "spelling_amendment_post_unblinding": true,
+  "mapping": {
+    "favourable": "favorable",
+    "unfavourable": "unfavorable"
+  },
+  "additional_pairs_or_labels": 0,
+  "interpretation": "Local time and content hashes document the recorded workflow. They are not independent preregistration or external timestamp certification.",
+  "source_external_csv_sha256": "e790c605a73ef58408f637d6cbeeddaf64aaad4cba00668abcd5c0a0c0cecb94",
+  "original_v1_output_manifest_sha256": "b67dc742a6f836e9df7285517a89f126c1981fad609aa0f78584d97c13a4368e",
+  "original_v2_output_manifest_sha256": "86bff0f4fad7befaca3f87db7d72c0d6d63c57316bd04b462e1d19edb04ba63d"
+}

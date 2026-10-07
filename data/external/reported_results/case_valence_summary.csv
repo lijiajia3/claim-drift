@@ -1,0 +1,9 @@
+case,article_valence,article_case_pairs,distinct_citing_dois,eligible_archived_contexts,gate_retained_contexts,gate_excluded_contexts,pooled_context_retention_fraction,article_balanced_retention_fraction
+carter,favorable,2,2,4,4,0,1.0,1.0
+carter,unfavorable,0,0,0,0,0,,
+carter,equivocal,1,1,1,1,0,1.0,1.0
+carter,unclassifiable,0,0,0,0,0,,
+caruso,favorable,4,4,6,6,0,1.0,1.0
+caruso,unfavorable,0,0,0,0,0,,
+caruso,equivocal,1,1,1,0,1,0.0,0.0
+caruso,unclassifiable,0,0,0,0,0,,

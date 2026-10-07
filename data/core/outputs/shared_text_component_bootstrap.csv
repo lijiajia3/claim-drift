@@ -1,0 +1,4 @@
+metric,n_source_papers,n_connected_components,largest_component,estimate,bootstrap_ci95_low,bootstrap_ci95_high,note
+level,105,89,5,-0.004208940367114833,-0.021131880377444276,0.01347265628780746,Connected components share archived exact text; unobserved common citing articles remain unidentified. Unstratified component bootstrap allows group counts to vary.
+transformed_drift,105,89,5,-0.0005192709679915611,-0.007000895070144083,0.006519822682228168,Connected components share archived exact text; unobserved common citing articles remain unidentified. Unstratified component bootstrap allows group counts to vary.
+event_change,105,89,5,0.0030616272057388573,-0.022371097712747246,0.028828401052682723,Connected components share archived exact text; unobserved common citing articles remain unidentified. Unstratified component bootstrap allows group counts to vary.

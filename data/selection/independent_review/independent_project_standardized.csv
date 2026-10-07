@@ -1,0 +1,7 @@
+family,measure,estimate,audit_conditional_ci_low,audit_conditional_ci_high,bootstrap,n_negative,n_positive,replicates_valid,weighting,ci_low,ci_high,interval_warning
+epistemic_adverb_tokens,total,-0.00069563451094092009,-0.0059605798786425464,0.004587581853506913,project,40,32,19999,equal_project,,,Singleton ML1 criterion-negative cell has unestimated within-cell variation
+replication_word_tokens,total,-0.01018087539217433,-0.020708132029767339,-0.00017134995103956175,project,40,32,19999,equal_project,,,Singleton ML1 criterion-negative cell has unestimated within-cell variation
+lowercase_modal_tokens,total,-0.0085083477413728965,-0.036077409299098862,0.020541412781238739,project,40,32,19999,equal_project,,,Singleton ML1 criterion-negative cell has unestimated within-cell variation
+epistemic_adverb_tokens,total,-0.0014165744959364016,-0.0078432872027675831,0.0043174077701645689,project,40,32,19999,pooled_matched_source,,,Singleton ML1 criterion-negative cell has unestimated within-cell variation
+replication_word_tokens,total,-0.017161209060346759,-0.031404805163967736,-0.0045342709417061167,project,40,32,19999,pooled_matched_source,,,Singleton ML1 criterion-negative cell has unestimated within-cell variation
+lowercase_modal_tokens,total,-0.0081524156565841339,-0.031424555535574189,0.01695694695997425,project,40,32,19999,pooled_matched_source,,,Singleton ML1 criterion-negative cell has unestimated within-cell variation

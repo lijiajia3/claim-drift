@@ -1,0 +1,31 @@
+{
+  "rules_sha256": "ae036d30ac94ff55d320de34f38de65e1ab56c5fb53ab7b47b636b8b08c05832",
+  "cohort": {
+    "rules_sha256": "ae036d30ac94ff55d320de34f38de65e1ab56c5fb53ab7b47b636b8b08c05832",
+    "cohort_filename": "analysis_cohort_v2_3.csv",
+    "cohort_sha256": "9c74a40a89ee8aff60ce73275c7c3817c3ab91bbcdf863ff1651796f3b81c0ad",
+    "original_primary_csv_sha256": "b71499ca344210af7b8073f8f2793ed87e8290226fb430dcaebd285d34f50ebd",
+    "numeric_snapshot_sha256": "822a16fc6b6c2eec3bf2da68bcfaa17f817370f26458a95da39e3e4c9e85562d",
+    "counts": {
+      "n_texts": 15280,
+      "n_positive": 8427,
+      "n_over700": 112,
+      "n_over1200": 54
+    },
+    "n_source_papers": 105,
+    "n_aggregate_rows": 8145,
+    "raw_text_written": false,
+    "individual_human_labels_used": false,
+    "feature_selection_after_lexical_outcome_comparisons": false,
+    "prior_frozen_model_results_already_known": true
+  },
+  "bootstrap_replicates": 19999,
+  "seed": 20261005,
+  "direction": "criterion-negative minus criterion-positive",
+  "primary_unit": "source-paper proportion of text units with at least one literal match",
+  "token_density_unit": "matched occurrences per1000 alphabetic tokens, source weighted",
+  "no_semantic_classification": true,
+  "no_new_human_labels": true,
+  "known_model_prompt_overlap": true,
+  "all_words_and_predefined_specifications_retained": true
+}

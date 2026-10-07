@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "frozen_at_utc": "2026-10-05T19:26:08Z",
+  "status": "post hoc supplementary protocol, frozen before lexical counts or outcome comparisons; original score results were already known",
+  "primary_observables": {
+    "epistemic_adverb_tokens": ["possibly", "perhaps", "probably"],
+    "replication_word_tokens": ["replicate", "replicates", "replicated", "replicating", "replication", "replications"]
+  },
+  "sensitivity_observable": {"lowercase_modal_tokens": ["may", "might", "could"]},
+  "token_unit": "Unicode alphabetic token, optionally containing one internal apostrophe followed by alphabetic characters. Digits and underscores are not token characters; tokens embedded in a larger Unicode word/digit/underscore sequence do not match. Hyphens split tokens. No stemming, synonym expansion, syntax, semantic scoring, language classification, or NFKC normalization.",
+  "matching": "Core adverbs and replication forms match exact case-folded tokens. Curly apostrophe is normalized to ASCII apostrophe for matching. A final possessive apostrophe-s is stripped for replication forms only; this counts replication's. Modal forms must be exactly lowercase in the original case-preserved text.",
+  "modal_stoplist": "Exclude any may/might/could token that is not originally lowercase. In addition exclude lowercase may immediately adjacent to a numeric token of one through four digits, with only whitespace/comma/period/slash/hyphen between. Record case exclusions and numeric-adjacency exclusions. This deliberately loses some genuine modal uses; residual permission/ability/nominal/name senses are not classified.",
+  "polysemy": "All literal core/replication matches are retained, including quotation, title/list, negation, successful/non-target replication, biological or computational copying senses. A hit is not epistemic scope, scientific uncertainty, failure acknowledgment, or target relevance. Nominal might and non-epistemic could may remain in the modal sensitivity. No case-by-case exclusions after viewing results.",
+  "text_views": ["full", "first700_complete_tokens", "first1200_complete_tokens"],
+  "prefix_rule": "Tokenize the entire original retained text. For a prefix view retain only whole tokens ending at or before the character limit. Apply the fixed may exclusion using the original text. Do not turn a truncated token into a new matching token. Prefix is Unicode-character count, matching the archived slicing operator.",
+  "denominators": "Primary: all scored retained nonempty text units for the fixed105 criterion-complete source papers. Qwen-positive and Qwen-negative strata are reported separately; negative does not mean false or irrelevant to replication. Primary count is texts with at least one match, with total matched token occurrences and alphabetic-token denominators also reported. Wordwise outputs retain every predefined word, including zeros.",
+  "source_weights": "Equal source-paper weight in between-criterion comparisons; raw pooled counts are descriptive corpus accounting. Sources with no observed match remain zero, not missing.",
+  "level_eligibility": "At least15 retained text units in the analyzed stratum, independent of number of marker hits.",
+  "event_eligibility": "At least10 retained text units before and at/after the project journal-publication year in the analyzed stratum, independent of marker hits.",
+  "paired_filter_check": "Compare all-text and Qwen-positive changes on the identical source set satisfying the positive-stratum10-per-period rule; report positive-minus-all changes and criterion differences without treating retention as random.",
+  "event_years": {"RPP":2015,"EERP":2016,"ML1":2014,"ML3":2016},
+  "fixed_timing_sensitivities": ["recorded_manuscript_upload_years", "omit_event_year", "symmetric5_years_omit_event_year", "latest_archived_conflicting_text_year"],
+  "uncertainty": "19999 percentile bootstrap resamples of source papers independently within criterion groups, seed20261005. Reuse the source exact-text-sharing graph for a connected-component resampling sensitivity. Intervals condition on corpus, labels, dates and deterministic feature rules. Sparse-hit sources and zero/degenerate support are disclosed. No significance gate selects words or specifications.",
+  "contribution_boundary": "Measurement/selection triangulation on literal text features only. Agreement with the frozen certainty score is partly prompted and is not independent validation. Existing archive contains a broad dictionary baseline; this work adds transparent narrow observables and full denominator accounting, not a new hedging classifier.",
+  "sources": [
+    {"citation":"Kilicoglu & Bergler (2008), Recognizing speculative language in biomedical research articles: a linguistically motivated perspective", "url":"https://link.springer.com/article/10.1186/1471-2105-9-S11-S10", "location":"Table1 and sections on syntax and semi-automatic weighting", "role":"Published examples of possibly/perhaps/probably and modal polysemy; no published accuracy is transferred to this corpus"},
+    {"citation":"Morante & Daelemans (2009), Learning the Scope of Hedge Cues in Biomedical Texts", "url":"https://aclanthology.org/W09-1304/", "location":"pp30–31 cue lists and p32 dictionary baseline", "role":"Separates cue detection and scope; demonstrates limitations of simple lexical matching"},
+    {"citation":"Farkas et al. (2010), The CoNLL-2010 Shared Task: Learning to Detect Hedges and their Scope in Natural Language Text", "url":"https://aclanthology.org/W10-3001/", "role":"Cue recognition and scope are separate tasks; no gold labels or semantic classifier are imported"}
+  ]
+}

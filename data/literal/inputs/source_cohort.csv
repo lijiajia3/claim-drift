@@ -1,0 +1,106 @@
+analysis_claim_id,source_id,project,revised_outcome,include_primary,event_year_journal,event_year_first_located_manuscript,original_paper_doi,original_paper_title,count_contexts,count_filter_positive
+v3_the_lure_of_authority_motivation_and_inc,ee.10,EERP,successful,True,2016,2016,10.1257/aer.103.4.1325,The Lure of Authority: Motivation and Incentive Effects of Power,190,102
+v3_slow_to_anger_and_fast_to_forgive_cooper,ee.12,EERP,successful,True,2016,2016,10.1257/aer.102.2.720,Slow to Anger and Fast to Forgive: Cooperation in an Uncertain World,279,91
+v3_deferred_compensation_in_multiperiod_lab,ee.13,EERP,failed,True,2016,2016,10.1257/aer.101.2.819,Deferred Compensation in Multiperiod Labor Contracts: An Experimental Test of Lazear's Model,26,10
+v3_happiness_and_time_preference_the_effect,ee.14,EERP,failed,True,2016,2016,10.1257/aer.101.7.3109,Happiness and Time Preference: The Effect of Positive Affect in a Random-Assignment Experiment,212,118
+v3_organ_allocation_policy_and_the_decision,ee.15,EERP,successful,True,2016,2016,10.1257/aer.102.5.2018,Organ Allocation Policy and the Decision to Donate.,109,26
+v3_thar_she_bursts_reducing_confusion_reduc,ee.16,EERP,successful,True,2016,2016,10.1257/aer.102.2.865,Thar She Bursts: Reducing Confusion Reduces Bubbles,274,131
+v3_coordination_in_the_presence_of_asset_ma,ee.17,EERP,successful,True,2016,2016,10.1257/aer.101.2.927,Coordination in the Presence of Asset Markets,16,8
+v3_last_place_aversion_evidence_and_redistr,ee.18,EERP,failed,True,2016,2016,10.1093/qje/qjt035,“Last-Place Aversion”: Evidence and Redistributive Implications,264,173
+v3_imperfect_public_monitoring_with_costly_,ee.2,EERP,successful,True,2016,2016,10.1257/aer.102.7.3317,Imperfect Public Monitoring with Costly Punishment - An Experimental Study,150,74
+v3_screening_competition_and_job_design_eco,ee.3,EERP,successful,True,2016,2016,10.1257/aer.102.2.834,"Screening, Competition, and Job Design: Economic Origins of Good Jobs",100,43
+v3_the_potential_of_social_identity_for_equ,ee.5,EERP,failed,True,2016,2016,10.1257/aer.101.6.2562,The Potential of Social Identity for Equilibrium Selection,330,135
+v3_on_the_selection_of_arbitrators,ee.6,EERP,successful,True,2016,2016,10.1257/aer.104.11.3434,On the Selection of Arbitrators,59,7
+v3_the_economics_of_credence_goods_an_exper,ee.8,EERP,successful,True,2016,2016,10.1257/aer.101.2.526,"The economics of credence goods : an experiment on the role of liability, verifiability, reputation and competition",304,117
+v3_expectations_as_endowments_evidence_on_r,ee.9,EERP,failed,True,2016,2016,10.1093/qje/qjr034,Expectations as Endowments: Evidence on Reference-Dependent Preferences from Exchange and Valuation Experiments,185,81
+v3_instructional_manipulation_checks_detect,ml1.1,ML1,successful,True,2014,2013,10.1016/j.jesp.2009.03.009,Instructional Manipulation Checks: Detecting Satisficing to Increase Statistical Power,81,14
+v3_experiments_in_wording_questions_ii,ml1.10,ML1,successful,True,2014,2013,10.1086/265467,EXPERIMENTS IN WORDING QUESTIONS: II,89,45
+v3_prestige_suggestion_and_attitudes,ml1.11,ML1,successful,True,2014,2013,10.1080/00224545.1936.9919891,"Prestige, suggestion, and attitudes.",37,19
+v3_a_single_exposure_to_the_american_flag_s,ml1.12,ML1,failed,True,2014,2013,10.1177/0956797611414726,A Single Exposure to the American Flag Shifts Support Toward Republicanism up to 8 Months Later,127,76
+v3_mere_exposure_to_money_increases_endorse,ml1.13,ML1,failed,True,2014,2013,10.1037/a0029288,Mere exposure to money increases endorsement of free-market systems and social inequality.,158,89
+v3_elaboration_enhances_the_imagined_contac,ml1.14,ML1,successful,True,2014,2013,10.1016/j.jesp.2010.05.014,Elaboration enhances the imagined contact effect,384,179
+v3_math_male_me_female_therefore_math_ne_me,ml1.15,ML1,successful,True,2014,2013,10.1037/0022-3514.83.1.44,"Math = male, me = female, therefore math ≠ me.",175,116
+v3_the_framing_of_decisions_and_the_psychol,ml1.2,ML1,successful,True,2014,2013,10.1126/science.7455683,The framing of decisions and the psychology of choice.,148,88
+v3_measures_of_anchoring_in_estimation_task,ml1.3,ML1,successful,True,2014,2013,10.1177/01461672952111004,Measures of Anchoring in Estimation Tasks,195,91
+v3_the_retrospective_gambler_s_fallacy_unli,ml1.7,ML1,successful,True,2014,2013,10.1017/s1930297500001170,"The retrospective gambler’s fallacy: Unlikely events, constructing the past, and multiple universes",38,17
+v3_response_scales_effects_of_category_rang,ml1.8,ML1,successful,True,2014,2013,10.1086/268936,Response Scales: Effects of Category Range on Reported Behavior and Comparative Judgments,178,90
+v3_weight_as_an_embodiment_of_importance,ml3.10,ML3,failed,True,2016,2015,10.1111/j.1467-9280.2009.02426.x,Weight as an Embodiment of Importance,222,139
+v3_moral_credentials_and_the_expression_of_,ml3.2,ML3,failed,True,2016,2015,10.1037/0022-3514.81.1.33,Moral credentials and the expression of prejudice.,225,155
+v3_it_feels_like_yesterday_self_esteem_vale,ml3.3,ML3,failed,True,2016,2015,10.1037/0022-3514.82.5.792,"It feels like yesterday: self-esteem, valence of personal past experiences, and judgments of subjective distance.",344,219
+v3_availability_a_heuristic_for_judging_fre,ml3.4,ML3,successful,True,2016,2015,10.1016/0010-0285(73)90033-9,Availability: A heuristic for judging frequency and probability,152,90
+v3_running_on_empty_neural_signals_for_self,ml3.5,ML3,successful,True,2016,2015,10.1111/j.1467-9280.2007.02004.x,Running on Empty,63,47
+v3_warmer_hearts_warmer_rooms,ml3.6,ML3,failed,True,2016,2015,10.1027/1864-9335/a000147,"Warmer Hearts, Warmer Rooms How Positive Communal Traits Increase Estimates of Ambient Temperature",17,11
+v3_effects_of_need_for_cognition_on_message,ml3.7,ML3,failed,True,2016,2015,10.1037/0022-3514.45.4.805,"Effects of need for cognition on message evaluation, recall, and persuasion.",174,107
+v3_cloningertextquotesingles_psychobiologic,ml3.8,ML3,failed,True,2016,2015,10.1016/s0191-8869(99)00204-4,Cloninger's Psychobiological Model of Temperament and Character and the Five-Factor Model of Personality,203,124
+v3_metaphoric_structuring_understanding_tim,ml3.9,ML3,successful,True,2016,2015,10.1016/s0010-0277(99)00073-6,Metaphoric structuring: understanding time through spatial metaphors.,309,153
+v3_tracing_attention_and_the_activation_flo,rpp.1,RPP,failed,True,2015,2015,10.1037/0278-7393.34.2.353,Tracing attention and the activation flow of spoken word planning using eye movements.,198,115
+v3_across_notation_automatic_numerical_proc,rpp.10,RPP,successful,True,2015,2015,10.1037/0278-7393.34.2.430,Across-notation automatic numerical processing.,67,33
+v3_effects_of_fluency_on_psychological_dist,rpp.104,RPP,failed,True,2015,2015,10.1111/j.1467-9280.2008.02062.x,"Effects of Fluency on Psychological Distance and Mental Construal (or Why New York Is a Large City, but New York Is a Civilized Jungle)",248,148
+v3_attractor_dynamics_and_semantic_neighbor,rpp.11,RPP,successful,True,2015,2015,10.1037/0278-7393.34.1.65,Attractor dynamics and semantic neighborhood density: processing is slowed by near neighbors and speeded by distant neighbors.,98,54
+v3_perceptual_mechanisms_that_characterize_,rpp.110,RPP,failed,True,2015,2015,10.1111/j.1467-9280.2008.02092.x,Perceptual Mechanisms That Characterize Gender Differences in Decoding Women's Sexual Intent,85,59
+v3_precision_of_the_anchor_influences_the_a,rpp.111,RPP,successful,True,2015,2015,10.1111/j.1467-9280.2008.02057.x,Precision of the Anchor Influences the Amount of Adjustment,121,83
+v3_action_dynamics_reveal_parallel_competit,rpp.112,RPP,successful,True,2015,2015,10.1111/j.1467-9280.2008.02041.x,Action Dynamics Reveal Parallel Competition in Decision Making,170,63
+v3_prescribed_optimism_is_it_right_to_be_wr,rpp.113,RPP,successful,True,2015,2015,10.1111/j.1467-9280.2008.02089.x,Prescribed Optimism: Is It Right to Be Wrong About the Future?,51,26
+v3_age_related_changes_in_the_episodic_simu,rpp.114,RPP,successful,True,2015,2015,10.1111/j.1467-9280.2008.02043.x,Age-Related Changes in the Episodic Simulation of Future Events,301,144
+v3_preschoolers_perspective_taking_in_word_,rpp.115,RPP,failed,True,2015,2015,10.1111/j.1467-9280.2008.02069.x,Preschoolers' Perspective Taking in Word Learning,27,16
+v3_measuring_the_crowd_within_probabilistic,rpp.116,RPP,successful,True,2015,2015,10.1111/j.1467-9280.2008.02136.x,Measuring the Crowd Within,204,95
+v3_toward_a_physiology_of_dual_process_reas,rpp.118,RPP,failed,True,2015,2015,10.1111/j.1467-9280.2008.02077.x,"Toward a Physiology of Dual-Process Reasoning and Judgment: Lemonade, Willpower, and Expensive Rule-Based Analysis",227,138
+v3_when_does_between_sequence_phonological_,rpp.12,RPP,failed,True,2015,2015,10.1037/0278-7393.34.1.243,When does between-sequence phonological similarity promote irrelevant sound disruption?,98,74
+v3_the_representation_of_simple_ensemble_vi,rpp.122,RPP,successful,True,2015,2015,10.1111/j.1467-9280.2008.02098.x,The Representation of Simple Ensemble Visual Features Outside the Focus of Attention,295,144
+v3_a_motion_aftereffect_from_still_photogra,rpp.127,RPP,successful,True,2015,2015,10.1111/j.1467-9280.2008.02080.x,A Motion Aftereffect From Still Photographs Depicting Motion,59,34
+v3_the_threat_of_appearing_prejudiced_and_r,rpp.129,RPP,failed,True,2015,2015,10.1111/j.1467-9280.2008.02052.x,The Threat of Appearing Prejudiced and Race-Based Attentional Biases,126,82
+v3_where_do_we_look_during_potentially_offe,rpp.132,RPP,failed,True,2015,2015,10.1111/j.1467-9280.2008.02072.x,Where Do We Look During Potentially Offensive Behavior?,39,32
+v3_is_happiness_having_what_you_want_wantin,rpp.134,RPP,successful,True,2015,2015,10.1111/j.1467-9280.2008.02095.x,"Is Happiness Having What You Want, Wanting What You Have, or Both?",30,19
+v3_auditory_change_detection_simple_sounds_,rpp.139,RPP,successful,True,2015,2015,10.1111/j.1467-9280.2008.02050.x,Auditory Change Detection: Simple Sounds Are Not Memorized Better Than Complex Sounds,62,31
+v3_hedonic_and_instrumental_motives_in_ange,rpp.142,RPP,successful,True,2015,2015,10.1111/j.1467-9280.2008.02088.x,Hedonic and Instrumental Motives in Anger Regulation,200,133
+v3_a_word_order_constraint_on_phonological_,rpp.146,RPP,failed,True,2015,2015,10.1111/j.1467-9280.2008.02070.x,A Word-Order Constraint on Phonological Activation,41,24
+v3_the_stroop_effect_why_proportion_congrue,rpp.15,RPP,successful,True,2015,2015,10.1037/0278-7393.34.3.514,The Stroop effect: why proportion congruent has nothing to do with congruency and everything to do with contingency.,455,267
+v3_extremal_edge_a_powerful_cue_to_depth_pe,rpp.153,RPP,failed,True,2015,2015,10.1111/j.1467-9280.2008.02049.x,Extremal Edge,48,24
+v3_personality_dominance_and_preferential_u,rpp.155,RPP,failed,True,2015,2015,10.1111/j.1467-9280.2008.02093.x,Personality Dominance and Preferential Use of the Vertical Dimension of Space,20,12
+v3_conflict_triggered_goal_shielding_respon,rpp.158,RPP,successful,True,2015,2015,10.1111/j.1467-9280.2008.02042.x,Conflict-Triggered Goal Shielding,51,30
+v3_the_value_heuristic_in_judgments_of_rela,rpp.165,RPP,failed,True,2015,2015,10.1111/j.1467-9280.2008.02039.x,The Value Heuristic in Judgments of Relative Frequency,25,17
+v3_head_up_foot_down_object_words_orient_at,rpp.167,RPP,failed,True,2015,2015,10.1111/j.1467-9280.2008.02051.x,"Head Up, Foot Down",144,68
+v3_the_ultimate_sampling_dilemma_in_experie,rpp.17,RPP,successful,True,2015,2015,10.1037/0278-7393.34.1.186,The ultimate sampling dilemma in experience-based decision making.,54,31
+v3_intentional_forgetting_is_easier_after_t,rpp.20,RPP,failed,True,2015,2015,10.1037/0278-7393.34.2.408,"Intentional forgetting is easier after two ""shots"" than one.",30,21
+v3_how_does_bilingualism_improve_executive_,rpp.22,RPP,failed,True,2015,2015,10.1037/0278-7393.34.2.302,How does bilingualism improve executive control? A comparison of active and reactive inhibition mechanisms.,335,186
+v3_priming_addition_facts_with_semantic_rel,rpp.24,RPP,successful,True,2015,2015,10.1037/0278-7393.34.2.343,Priming addition facts with semantic relations.,66,41
+v3_learning_correct_responses_and_errors_in,rpp.25,RPP,successful,True,2015,2015,10.1037/0278-7393.34.3.524,Learning correct responses and errors in the Hebb repetition effect: two faces of the same coin.,19,15
+v3_on_the_additive_effects_of_stimulus_qual,rpp.27,RPP,successful,True,2015,2015,10.1037/0278-7393.34.3.495,On the additive effects of stimulus quality and word frequency in lexical decision: evidence for opposing interactive influences revealed by RT distributional analyses.,100,37
+v3_semantic_interference_in_a_delayed_namin,rpp.28,RPP,failed,True,2015,2015,10.1037/0278-7393.34.1.249,Semantic interference in a delayed naming task: evidence for the response exclusion hypothesis.,138,63
+v3_multidimensional_visual_statistical_lear,rpp.29,RPP,successful,True,2015,2015,10.1037/0278-7393.34.2.399,Multidimensional visual statistical learning.,121,43
+v3_working_memory_costs_of_task_switching,rpp.3,RPP,failed,True,2015,2015,10.1037/0278-7393.34.3.478,Working memory costs of task switching.,98,66
+v3_multiple_roles_for_time_in_short_term_me,rpp.33,RPP,successful,True,2015,2015,10.1037/0278-7393.34.1.128,Multiple roles for time in short-term memory: evidence from serial recall of order and timing.,239,112
+v3_orienting_attention_in_visual_working_me,rpp.37,RPP,failed,True,2015,2015,10.1037/0278-7393.34.2.369,Orienting attention in visual working memory reduces interference from memory probes.,259,158
+v3_decision_making_and_learning_while_takin,rpp.39,RPP,failed,True,2015,2015,10.1037/0278-7393.34.1.167,Decision making and learning while taking sequential risks.,198,54
+v3_accelerated_relearning_after_retrieval_i,rpp.4,RPP,failed,True,2015,2015,10.1037/0278-7393.34.1.230,Accelerated relearning after retrieval-induced forgetting: the benefit of being forgotten.,78,49
+v3_why_do_implicit_and_explicit_attitude_te,rpp.44,RPP,successful,True,2015,2015,10.1037/0022-3514.94.1.16,Why do implicit and explicit attitude tests diverge? The role of structural fit.,186,79
+v3_the_developmental_psychometrics_of_big_f,rpp.46,RPP,successful,True,2015,2015,10.1037/0022-3514.94.4.718,"The developmental psychometrics of big five self-reports: acquiescence, factor structure, coherence, and differentiation from ages 10 to 20.",252,141
+v3_terror_management_and_adults_attachment_,rpp.48,RPP,failed,True,2015,2015,10.1037/0022-3514.94.4.696,Terror management and adults' attachment to their parents: the safe haven remains.,138,112
+v3_increasing_and_decreasing_motor_and_cogn,rpp.49,RPP,failed,True,2015,2015,10.1037/a0012833,Increasing and Decreasing Motor and Cognitive Output: A Model of General Action and Inaction Goals,251,136
+v3_the_intermixed_blocked_effect_in_human_p,rpp.5,RPP,failed,True,2015,2015,10.1037/0278-7393.34.1.237,The intermixed-blocked effect in human perceptual learning is not the consequence of trial spacing.,49,32
+v3_affective_incoherence_when_affective_con,rpp.52,RPP,failed,True,2015,2015,10.1037/0022-3514.94.4.560,Affective incoherence: when affective concepts and embodied reactions clash.,58,37
+v3_individual_differences_in_the_regulation,rpp.53,RPP,failed,True,2015,2015,10.1037/0022-3514.94.1.60,INTERPERSONAL RELATIONS AND GROUP PROCESSES Individual Differences in the Regulation of Intergroup Bias: The Role of Conflict Monitoring and Neural Signals for Control,130,84
+v3_left_frontal_cortical_activation_and_spr,rpp.55,RPP,failed,True,2015,2015,10.1037/0022-3514.94.1.1,Left frontal cortical activation and spreading of alternatives: tests of the action-based model of dissonance.,99,62
+v3_a_social_functional_approach_to_emotions,rpp.56,RPP,failed,True,2015,2015,10.1037/0022-3514.94.4.600,A social functional approach to emotions in bargaining: when communicating anger pays and when it backfires.,134,83
+v3_walking_on_eggshells_how_expressing_rela,rpp.58,RPP,failed,True,2015,2015,10.1037/0022-3514.95.2.420,"""Walking on eggshells"": how expressing relationship insecurities perpetuates them.",39,26
+v3_how_the_head_liberates_the_heart_project,rpp.59,RPP,successful,True,2015,2015,10.1037/0022-3514.94.4.647,How the head liberates the heart: projection of communal responsiveness guides relationship promotion.,116,93
+v3_a_single_system_account_of_the_relations,rpp.6,RPP,successful,True,2015,2015,10.1037/0278-7393.34.1.97,"A single-system account of the relationship between priming, recognition, and fluency.",61,33
+v3_poignancy_mixed_emotional_experience_in_,rpp.61,RPP,failed,True,2015,2015,10.1037/0022-3514.94.1.158,Poignancy: mixed emotional experience in the face of meaningful endings.,150,85
+v3_1_f_noise_and_effort_on_implicit_measure,rpp.63,RPP,failed,True,2015,2015,10.1037/0022-3514.94.1.48,1/f noise and effort on implicit measures of bias.,89,43
+v3_the_effect_of_global_versus_local_proces,rpp.64,RPP,failed,True,2015,2015,10.1037/0022-3514.94.4.579,The effect of global versus local processing styles on assimilation versus contrast in social judgment.,164,99
+v3_not_so_innocent_does_seeing_one_s_own_ca,rpp.65,RPP,failed,True,2015,2015,10.1037/0022-3514.94.3.495,Not so innocent: does seeing one's own capacity for wrongdoing predict forgiveness?,150,99
+v3_why_people_are_reluctant_to_tempt_fate,rpp.68,RPP,failed,True,2015,2015,10.1037/0022-3514.95.2.293,Why people are reluctant to tempt fate.,131,67
+v3_the_nonverbal_expression_of_pride_eviden,rpp.69,RPP,successful,True,2015,2015,10.1037/0022-3514.94.3.516,The Nonverbal Expression of Pride: Evidence for Cross-cultural Recognition,230,155
+v3_modeling_distributions_of_immediate_memo,rpp.7,RPP,failed,True,2015,2015,10.1037/0278-7393.34.1.219,Modeling distributions of immediate memory effects: no strategies needed?,16,6
+v3_on_the_relative_independence_of_thinking,rpp.71,RPP,failed,True,2015,2015,10.1037/0022-3514.94.4.672,PERSONALITY PROCESSES AND INDIVIDUAL DIFFERENCES On the Relative Independence of Thinking Biases and Cognitive Ability,225,134
+v3_opening_the_mind_to_close_it_considering,rpp.72,RPP,failed,True,2015,2015,10.1037/0022-3514.94.2.94.2.196,Opening the mind to close it: considering a message in light of important values increases message processing and later resistance to change.,43,27
+v3_stereotypes_and_retrieval_provoked_illus,rpp.8,RPP,failed,True,2015,2015,10.1037/0278-7393.34.3.460,Stereotypes and retrieval-provoked illusory source recollections.,20,13
+v3_the_effects_of_an_implemental_mind_set_o,rpp.80,RPP,failed,True,2015,2015,10.1037/0022-3514.94.3.396,The effects of an implemental mind-set on attitude strength.,14,8
+v3_a_needs_based_model_of_reconciliation_sa,rpp.81,RPP,failed,True,2015,2015,10.1037/0022-3514.94.1.116,A needs-based model of reconciliation: satisfying the differential emotional needs of victim and perpetrator as a key to promoting reconciliation.,254,173
+v3_the_face_of_success_inferences_from_chie,rpp.82,RPP,failed,True,2015,2015,10.1111/j.1467-9280.2008.02054.x,The Face of Success Inferences from Chief Executive Officers' Appearance Predict Company Profits,174,95
+v3_selective_exposure_and_information_quant,rpp.84,RPP,successful,True,2015,2015,10.1037/0022-3514.94.2.94.2.231,Selective exposure and information quantity: how different information quantities moderate decision makers' preference for consistent and inconsistent information.,87,56
+v3_self_regulation_and_selective_exposure_t,rpp.86,RPP,failed,True,2015,2015,10.1037/0022-3514.94.3.382,Self-regulation and selective exposure: the impact of depleted self-regulation resources on confirmatory information processing.,92,47
+v3_the_space_between_us_stereotype_threat_a,rpp.87,RPP,failed,True,2015,2015,10.1037/0022-3514.94.1.91,The space between us: stereotype threat and distance in interracial contexts.,207,132
+v3_balancing_connectedness_and_self_protect,rpp.93,RPP,failed,True,2015,2015,10.1037/0022-3514.94.3.429,Balancing connectedness and self-protection goals in close relationships: a levels-of-processing perspective on risk regulation.,277,191
+v3_self_handicapping_excuse_making_and_coun,rpp.94,RPP,successful,True,2015,2015,10.1037/0022-3514.95.2.274,"Self-handicapping, excuse making, and counterfactual thinking: consequences for self-esteem and future motivation.",116,83
+v3_social_identity_contingencies_how_divers,rpp.97,RPP,failed,True,2015,2015,10.1037/0022-3514.94.4.615,Social identity contingencies: how diversity cues signal threat or safety for African Americans in mainstream institutions.,286,170

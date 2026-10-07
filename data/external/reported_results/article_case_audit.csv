@@ -1,0 +1,9 @@
+article_id,doi,UT,case,source_id,pubYear,doi_cluster,original_exclusion_literal,original_inclusion_state,adjudicated_article_valence,unresolved_valence_literal,included_in_valence_summaries,eligible_archived_contexts,gate_retained_contexts,gate_excluded_contexts,retained_fraction,linked_target_paragraph_case_units,recovered_target_paragraph_case_units,original_valence_literal,original_exclusion_raw_string,spelling_amendment_applied
+oa01,10.1371/journal.pone.0072467,WOS:000323570200070,carter,ml1.12,2013,10.1371/journal.pone.0072467,false,included,favorable,,True,1,1,0,1.0,1,2,favourable,FALSE,True
+oa02,10.3389/fpsyg.2015.00584,WOS:000355339000003,carter,ml1.12,2015,10.3389/fpsyg.2015.00584,false,included,equivocal,,True,1,1,0,1.0,1,1,equivocal,FALSE,False
+oa10,10.5964/jspp.v5i2.748,WOS:000514922700005,carter,ml1.12,2017,10.5964/jspp.v5i2.748,false,included,favorable,,True,3,3,0,1.0,3,4,favourable,FALSE,True
+oa05,10.3389/fpsyg.2018.00042,WOS:000424250000001,caruso,ml1.13,2018,10.3389/fpsyg.2018.00042,false,included,favorable,,True,2,2,0,1.0,1,1,favourable,FALSE,True
+oa06,10.3389/fpsyg.2018.01657,WOS:000444352400001,caruso,ml1.13,2018,10.3389/fpsyg.2018.01657,false,included,equivocal,,True,1,0,1,0.0,1,1,equivocal,FALSE,False
+oa07,10.3390/ijerph13111075,WOS:000389571300034,caruso,ml1.13,2016,10.3390/ijerph13111075,false,included,favorable,,True,1,1,0,1.0,1,2,favourable,FALSE,True
+oa08,10.3390/ijerph16020238,WOS:000459112100073,caruso,ml1.13,2019,10.3390/ijerph16020238,false,included,favorable,,True,1,1,0,1.0,1,1,favourable,FALSE,True
+oa10,10.5964/jspp.v5i2.748,WOS:000514922700005,caruso,ml1.13,2017,10.5964/jspp.v5i2.748,false,included,favorable,,True,2,2,0,1.0,2,6,favourable,FALSE,True

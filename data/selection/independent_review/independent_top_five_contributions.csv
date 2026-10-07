@@ -1,0 +1,16 @@
+family,analysis_claim_id,source_id,criterion,project,source_shift,group_weight,signed_contribution,abs_contribution
+epistemic_adverb_tokens,v3_conflict_triggered_goal_shielding_respon,rpp.158,successful,RPP,0.0625,-0.03125,-0.001953125,0.001953125
+epistemic_adverb_tokens,v3_the_lure_of_authority_motivation_and_inc,ee.10,successful,EERP,-0.032390768438474923,-0.03125,0.0010122115137023414,0.0010122115137023414
+epistemic_adverb_tokens,v3_1_f_noise_and_effort_on_implicit_measure,rpp.63,failed,RPP,0.040350877192982457,0.025000000000000001,0.0010087719298245614,0.0010087719298245614
+epistemic_adverb_tokens,v3_the_ultimate_sampling_dilemma_in_experie,rpp.17,successful,RPP,-0.028571428571428571,-0.03125,0.00089285714285714283,0.00089285714285714283
+epistemic_adverb_tokens,v3_on_the_additive_effects_of_stimulus_qual,rpp.27,successful,RPP,0.021412037037037038,-0.03125,-0.00066912615740740745,0.00066912615740740745
+lowercase_modal_tokens,v3_a_motion_aftereffect_from_still_photogra,rpp.127,successful,RPP,-0.17294117647058824,-0.03125,0.0054044117647058824,0.0054044117647058824
+lowercase_modal_tokens,v3_decision_making_and_learning_while_takin,rpp.39,failed,RPP,0.16495535714285714,0.025000000000000001,0.004123883928571429,0.004123883928571429
+lowercase_modal_tokens,v3_running_on_empty_neural_signals_for_self,ml3.5,successful,ML3,0.10195286195286195,-0.03125,-0.0031860269360269359,0.0031860269360269359
+lowercase_modal_tokens,v3_last_place_aversion_evidence_and_redistr,ee.18,failed,EERP,0.1263325408390214,0.025000000000000001,0.0031583135209755351,0.0031583135209755351
+lowercase_modal_tokens,v3_the_ultimate_sampling_dilemma_in_experie,rpp.17,successful,RPP,0.08646616541353383,-0.03125,-0.0027020676691729322,0.0027020676691729322
+replication_word_tokens,v3_why_people_are_reluctant_to_tempt_fate,rpp.68,failed,RPP,-0.15750934773577066,0.025000000000000001,-0.003937733693394267,0.003937733693394267
+replication_word_tokens,v3_1_f_noise_and_effort_on_implicit_measure,rpp.63,failed,RPP,-0.12457614624797288,0.025000000000000001,-0.0031144036561993223,0.0031144036561993223
+replication_word_tokens,v3_on_the_additive_effects_of_stimulus_qual,rpp.27,successful,RPP,0.076967592592592587,-0.03125,-0.0024052372685185184,0.0024052372685185184
+replication_word_tokens,v3_conflict_triggered_goal_shielding_respon,rpp.158,successful,RPP,0.064285714285714279,-0.03125,-0.0020089285714285712,0.0020089285714285712
+replication_word_tokens,v3_affective_incoherence_when_affective_con,rpp.52,failed,RPP,-0.066666666666666666,0.025000000000000001,-0.0016666666666666668,0.0016666666666666668

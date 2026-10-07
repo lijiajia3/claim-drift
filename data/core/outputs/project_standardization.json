@@ -1,0 +1,76 @@
+{
+  "level": {
+    "estimate": -0.00044476078017826985,
+    "bootstrap_ci95_low": -0.016508666043522455,
+    "bootstrap_ci95_high": 0.015900770491563992,
+    "weights": {
+      "RPP": 0.6979166666666666,
+      "ML1": 0.10416666666666667,
+      "ML3": 0.08333333333333333,
+      "EERP": 0.11458333333333333
+    },
+    "project_contrasts": {
+      "RPP": 0.011077192591875895,
+      "ML1": -0.04745662258214578,
+      "ML3": -0.009187183006553412,
+      "EERP": -0.021527749879901248
+    },
+    "included_projects": [
+      "RPP",
+      "ML1",
+      "ML3",
+      "EERP"
+    ],
+    "excluded_projects": [],
+    "weight_rule": "pooled eligible paper fractions in projects with >=2 papers per outcome; held fixed during stratified resampling"
+  },
+  "transformed_drift": {
+    "estimate": -0.0011040357731681913,
+    "bootstrap_ci95_low": -0.007304466497657151,
+    "bootstrap_ci95_high": 0.0051948800701907,
+    "weights": {
+      "RPP": 0.6941176470588235,
+      "ML1": 0.09411764705882353,
+      "ML3": 0.09411764705882353,
+      "EERP": 0.11764705882352941
+    },
+    "project_contrasts": {
+      "RPP": 0.005489610957140738,
+      "ML1": -0.024570467738580237,
+      "ML3": -0.02218721828230424,
+      "EERP": -0.0043668599023523975
+    },
+    "included_projects": [
+      "RPP",
+      "ML1",
+      "ML3",
+      "EERP"
+    ],
+    "excluded_projects": [],
+    "weight_rule": "pooled eligible paper fractions in projects with >=2 papers per outcome; held fixed during stratified resampling"
+  },
+  "event_change": {
+    "estimate": 0.006531947803867463,
+    "bootstrap_ci95_low": -0.021871676681542985,
+    "bootstrap_ci95_high": 0.03470685901849229,
+    "weights": {
+      "RPP": 0.7611940298507462,
+      "ML3": 0.08955223880597014,
+      "EERP": 0.14925373134328357
+    },
+    "project_contrasts": {
+      "RPP": 0.017403385579681668,
+      "ML3": -0.08513251511038024,
+      "EERP": 0.006086292895763642
+    },
+    "included_projects": [
+      "RPP",
+      "ML3",
+      "EERP"
+    ],
+    "excluded_projects": [
+      "ML1"
+    ],
+    "weight_rule": "pooled eligible paper fractions in projects with >=2 papers per outcome; held fixed during stratified resampling"
+  }
+}
